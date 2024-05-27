@@ -1,6 +1,6 @@
 import json
 
-location_json = "Dataset//pre_process//Final_json"
+location_json = "Dataset//pre_process//Final_json//"
 location = "Dataset//pre_process//"
 
 def preprocess_conversation(conversation_text):
@@ -34,8 +34,8 @@ def save_conversations_to_json(conversations, file_name):
     with open(file_name, "w", encoding="utf-8") as json_file:
         json.dump(conversations, json_file, ensure_ascii=False, indent=4)
 
-with open(location+"output_Chuwii.txt", "r", encoding="utf-8") as file:
+with open(location+"output_Arohii.txt", "r", encoding="utf-8") as file:
     conversation_text = file.read()
 
 conversations = preprocess_conversation(conversation_text)
-save_conversations_to_json(conversations, location_json+"conversation_Chuwii.json")
+save_conversations_to_json(conversations,f"{location_json}conversation_Arohii.json")

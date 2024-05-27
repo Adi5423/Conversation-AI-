@@ -1,9 +1,9 @@
 location = "Dataset//"
 
-with open(location + "Whookid_Africa.txt", "r", encoding="utf-8") as infile:
+with open(location + "Arohii.txt", "r", encoding="utf-8") as infile:
     lines = infile.readlines()
 
-with open(location+"pre_process//output_Whookid_Africa.txt", "w", encoding="utf-8") as outfile:
+with open(location+"pre_process//output_Arohii.txt", "w", encoding="utf-8") as outfile:
     for line in lines:
         # Find the index of the first occurrence of "-"
         dash_index = line.find("-")
