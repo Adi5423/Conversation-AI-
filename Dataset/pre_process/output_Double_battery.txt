@@ -1,0 +1,3119 @@
+Double Battery👓: Hi
+Double Battery👓: Sorry can u help me flask in python
+Adi5423_: Hey
+Adi5423_: Hmm sure....But why you saying sorry.....
+Adi5423_: The much ik bout flask is:
+Adi5423_: Flask is a web framework that allows you to create web applications it's also called micro framework because it does not impose any specific way of doing things we have the freedom to choose how to structure your web application, what components to use, and how to handle different aspects of web development, flask provides you with the essential features, such as routing, templating, and request handling, but leaves the rest to you or other extensions.
+Adi5423_: You can also search for codes of flask...... on chat gpt r blackbox ai!!.....
+Double Battery👓: I know about this but I need to know deeply about flask
+Double Battery👓: It give the same answer
+Double Battery👓: Also I try to find in another site also give same answer
+Adi5423_: I did the same
+Adi5423_: Cause I did the same na 🙂
+Adi5423_: Why don't you go for the documentation of that
+Adi5423_: By original python documentation
+Adi5423_: I mean but sure it's available label or but as I was working on an ai project a month ago....and I was facing some issues while huggingface module library....i didn't got that solution on YouTube....ai and all so I searched on web more about it and somehow I got the not the original by python library but the original from their organization (hugging face) documents they....I get to know the solution with the help of the documents and the community team and ai too so yeah take help from all the sources you will get that for sure
+Adi5423_: If it's a proper framework type like something then there would be probably a lot of tutorials too for them!!....
+Adi5423_: Watch that tho -
+Adi5423_: Use git hub repositories of others who did the same r used the framework for there project so they'll help you out to know more bout that connect with them r connect with the community of Flask on their if that's possible r available tho -
+Double Battery👓: Oky but am student pack developer in git hub
+Double Battery👓: Can u help me link to join in
+Double Battery👓: Git hub
+Double Battery👓: Can u advice something but sorry?
+Adi5423_:    
+Adi5423_:    
+Adi5423_:    
+Adi5423_:    
+Double Battery👓: Thank u
+Adi5423_: Always there broo!!
+Adi5423_: Btw where u from
+Double Battery👓: Oky
+Double Battery👓: Tanzania
+Adi5423_: Where is it
+Double Battery👓: In Africa
+Adi5423_: Ugh ohkh
+Double Battery👓: It's bad
+Adi5423_: Ugh why is it so
+Double Battery👓: Nothing
+Adi5423_: Ugh something serious there!
+Double Battery👓: Nop
+Adi5423_: Ugh ohkh then as u wish tho-....
+Double Battery👓: Oky thank u
+Adi5423_: No worries ask anytime for help
+Double Battery👓: Mornie
+Double Battery👓: I want to study python but I don't know how can I start
+Adi5423_: Good Morning.....
+Adi5423_: You a Beginner or learned any other other language in past!!
+Adi5423_: I mean before python have you tried any other language or it's just your first one!!!
+Double Battery👓: Yes
+Double Battery👓: Beginner
+Double Battery👓: Yes c++ and also in our class we study java
+Adi5423_: That's cool then directly start from tutorial videos of Python in YouTube that's completely free tho -
+Adi5423_: I can share you my notes of Python too but I'll suggest you to make notes by your own that will help you more.....
+Adi5423_: More to understand.....
+Adi5423_: Easily
+Adi5423_: But you can ask me for nudes if you want that soo!!.....
+Adi5423_: Shit i meann Notes**🙂
+Double Battery👓: I want
+Adi5423_: I'll send you that by tonight.....ohkh
+Double Battery👓: Oky
+Adi5423_: I m sorry I was actually busy today I ll forward that today for sure
+Adi5423_: You deleted this message
+Adi5423_:    
+Adi5423_:    
+Double Battery👓: Thanks
+Adi5423_: Most welcome
+Adi5423_: Btw what's your name actually
+Adi5423_: !!
+Adi5423_: We didn't introduced each other first!!😅
+Double Battery👓: Gift
+Adi5423_: Gift a name r you mean the present!?
+Double Battery👓: Yah sure because we solve the problem
+Double Battery👓: Yaaaa 😂😂😂
+Adi5423_: Yeaaaa😂
+Adi5423_: The name!🙃
+Double Battery👓: What
+Double Battery👓: And u
+Adi5423_: Is your name really Gift!
+Adi5423_: I m sorry actually I heard this for the time someone's name gift so that's why.....
+Adi5423_: Aditya
+Adi5423_: It's Aditya here
+Double Battery👓: Oky aditya means what
+Double Battery👓: Yeah
+Adi5423_: In Hinduism it's actually the name of sun which elaborates the brightness and gradient of the group.....the bright light refers to Aditya
+Adi5423_: I'll call you gift onwards
+Double Battery👓: 😂😂😂nop
+Double Battery👓: Oooh nice
+Adi5423_: Ugh why so😂😂
+Adi5423_: 🥹🥹
+Double Battery👓: I like my name 😂
+Double Battery👓: What
+Adi5423_: Btw you male r female
+Adi5423_: Yea I liked that too it was something new for me do yeah I liked that!!....
+Adi5423_: Emotions😂🤌🏻
+Adi5423_: Just kidding...nothing
+Double Battery👓: Female
+Double Battery👓: Oky worry out😐
+Double Battery👓: Yah
+Adi5423_: Ouhh
+Double Battery👓: Yah
+Adi5423_: Ughh🙃
+Adi5423_: Btw
+Adi5423_: I was
+Double Battery👓: But I want to know programming language
+Double Battery👓: What
+Adi5423_: Just working on a python project
+Adi5423_: Like rn
+Double Battery👓: Nop am still beginner
+Adi5423_: It's easy don't worry python is not that hard like java and c language.....i also do java sometimes....so yeah python is easy other than any other language
+Adi5423_: So you will learn that very easily
+Adi5423_: Don't worry about that
+Double Battery👓: Also I will do java also
+Adi5423_: Ugh I was telling my....
+That right now i m working on a python AI project.....
+Double Battery👓: I will
+Double Battery👓: Oooh sure
+Adi5423_: I m making a python code generative ai module called AISTIE....so right now I was just working on that only....
+Double Battery👓: I think one day I will be a famous programmer
+Adi5423_: Ughh sure sure.....but what's your main agenda actually
+Double Battery👓: Nice .....one day I will do as u
+Double Battery👓: Nothing
+Adi5423_: Ughh yeaa suree surree why nott you will bee.....!!!
+Adi5423_: We will tryna do together that will more effective ig
+Double Battery👓: Yah I will
+Double Battery👓: But still am lazy
+Adi5423_: Then why this java python??
+Adi5423_: Now worries mee too..... it's all bout interest
+Adi5423_: Once you will get interest
+Adi5423_: You will learn automatically
+Adi5423_:    
+Double Battery👓: Mmmh
+Double Battery👓: Am afraid
+Double Battery👓: Yah interest
+Adi5423_: You deleted this message
+Adi5423_: That's a hectic project don't worry these are way more at a beginning level so don't worry.....
+Double Battery👓: Mmmmh
+Adi5423_: Yeaahh so don't worry.... everyone's a beginner at a time it's just a matter of time and interest with efforts.....
+Adi5423_: You these things will be by your side you will also be a developer soon like others!!....
+Adi5423_: I m also a learner actually
+Adi5423_: I have not completed python yet but yeah i crossed that beginner barrier so yeah
+Double Battery👓: I will but
+Adi5423_: I am actually a intermediary here
+Adi5423_: But??
+Double Battery👓: Its very hard
+Double Battery👓: I don't how can I start
+Adi5423_: Nah it isn't it's just boring nothing more.....
+Adi5423_: Simply by making notes and watching tutorials over it
+Adi5423_: I suggest you a channel??
+Double Battery👓: How can I do
+Double Battery👓: How
+Adi5423_:    
+Adi5423_: See
+Adi5423_: There's
+Adi5423_: A channel
+Adi5423_: Named
+Adi5423_: Jenney's Lecture
+Double Battery👓: 😂😂😂aaah
+Adi5423_: Go and watch her python tutorials playlist
+Adi5423_: By starting
+Adi5423_: You comfortable with English right!!
+Adi5423_: 😂🥹
+Double Battery👓: Yah but not more
+Double Battery👓: Thank u
+Adi5423_: Ughh then which language!?
+Double Battery👓: My language
+Double Battery👓: But I use English language also
+Adi5423_: Then search on YouTube you will a dozens of tutorials for python
+Adi5423_: No worries if you owe me your time i'll make your learn python
+Double Battery👓: Oky I will
+Adi5423_: That's cool
+Double Battery👓: Thank u a lot
+Double Battery👓: Oky
+Adi5423_: Most welcome
+Adi5423_: Btw
+Adi5423_: Why you were searching for flask that day
+Double Battery👓: Someone tell to learn
+Adi5423_: That was more than intermediate level
+Adi5423_: You didn't started the language yet and were directly jumping on a framework fr.....
+Adi5423_: Start with baics
+Adi5423_: Basics*
+Adi5423_: Go a little slower that will help more
+Double Battery👓: No I will study b4 python but am not complete
+Double Battery👓: Because it's hard
+Double Battery👓: But I believe I will do
+Adi5423_: What's b4
+Double Battery👓: I mean before
+Adi5423_: You are saying you will study flask before python??
+Double Battery👓: Nop I study python but not deeply learning
+Adi5423_: Ugh ohkh ohkh i see
+Adi5423_: Leave first just end with baics completely
+Adi5423_: That will be more good tho
+Double Battery👓: Oky bye
+Adi5423_: Okh
+Adi5423_: You deleted this message
+Adi5423_: You deleted this message
+Adi5423_: Byee
+Double Battery👓: Hahahahha
+Double Battery👓: 😂😂😂
+Double Battery👓: Why are u delete? I see
+Adi5423_: Ugh just casually
+Adi5423_: U slept so i deleted the mess
+Adi5423_: Btw are u on insta
+Adi5423_: Do u use !
+Double Battery👓: Aaah today I wanna to start to learn
+Double Battery👓: Yap but not more time to use
+Adi5423_: Ohkh no problem.....i'll guide u for that
+Adi5423_: Ugh ohkh i understand
+Adi5423_: Shall we connect there!!...
+Double Battery👓: Also I have two thing that make me to see it's hard to study code
+Adi5423_: What's that
+Double Battery👓: Oky thank u
+Adi5423_: Yeaa....
+Double Battery👓: I have 7 subject in my course also I need an extra time to study code😖
+Adi5423_: Dammm 🥹
+Adi5423_: That's sounding a bit like hectic
+Adi5423_: But seems too cool
+Adi5423_: Are you in college r school
+Adi5423_: I mean u pursuing with a degree r just going with your studies
+Double Battery👓: University
+Double Battery👓: Yah
+Double Battery👓: 🤭😁😭yah
+Double Battery👓: Hellow
+Adi5423_: Heyy
+Adi5423_: I m sorrry
+Adi5423_: It was a busy and hectic day for mee today
+Adi5423_: That's why i wasn't able to connect you today....I m sorry for that
+Adi5423_: Come online I will guide for it.....
+Double Battery👓: Oky worry out
+Double Battery👓: Where
+Double Battery👓: Worry out
+Adi5423_: Seee
+Adi5423_: Search for the basic tutorials of python
+Adi5423_: From beginning
+Adi5423_: Search for any playlist you find good
+Adi5423_: Like yeah search according to your preference.....fr ex I searched for "python tutorials from beginning in Hindi" search like that with your preferences.....
+Adi5423_: On YouTube
+Adi5423_: I will suggest you to follow the Jenney's lecture python tutorial for that you should follow that for sure....
+Adi5423_: Red the notes I provided you over
+Adi5423_: You will get the knowledge of all the basics you need to work with
+Adi5423_: I can help you if you need me r got stuck with any issue in that
+Adi5423_: Ask me!!....
+Adi5423_: Following these steps will make you learn the beginning.....
+Double Battery👓: Oky
+Double Battery👓: But aditya
+Double Battery👓: Is not easy to learn because am alone also I have no support in study so what can I do
+Double Battery👓: Oky I start
+Double Battery👓: At night
+Adi5423_: It's not that everyone starts something new totally alone....even uk what I also started this journey with just my cousin's pc.....at night just to show them I also doo big things.....
+Mt starting for python was very awkward as I was just like.....what the heck is this python.....ouh shit I wanna show my relatives that I can also doo that.....I m also capable of that.....
+Uk like just to show them.....
+Adi5423_: At night when everyone sleeps I started watching tutorials and making notes for that.....
+Adi5423_: Like seriously I watched tutorials in totally dark room🙂and made notes there.....on the system
+Adi5423_: From that time to now.....the much i learned in basics was like totally alone later on I got the people's of my interest of my field of my genre.....who helped me to grow helped me to learn
+Adi5423_: Back again I m alone....with my skills....
+Adi5423_: This time I have the potential to do it with in need to show anyone
+Adi5423_: Man You just need the inner spirit of yourself to courage you to start things
+Double Battery👓: Why in dark room😂
+Double Battery👓: Thank u aditya
+Adi5423_: No one's going to be there for you and push you to the work r gets you to learn all the things from base to high.....you are going to start the things from the basics and people are going to join you latter!!....
+Double Battery👓: I think my credit finished soon
+Adi5423_: You can just grow by yourself just push your soul more.....
+Adi5423_: You got that right!!!
+Double Battery👓: Yah sure
+Adi5423_: Everyone was sleeping so I have to switch of the lights na😂
+Double Battery👓: Yah I hot
+Adi5423_: Ugh anytime all the way there....
+Adi5423_: What type of credit !
+Double Battery👓: 😂😂its funny
+Adi5423_: Yeaa Hahahahaha 😂😂
+Double Battery👓: Mmmh not similar to India aditya 😂
+Adi5423_: Ugh yes I guess soo🥲🥹
+Adi5423_: 😂*
+Double Battery👓: U make me laugh
+Double Battery👓: Yaaaah
+Adi5423_: Laughing's the best medicine tho so we'll laugh together 😂🖐🏻
+Double Battery👓: Hah😂😂 aditya ww
+Adi5423_: Hehehehehe😂🖐🏻
+Double Battery👓: U laugh but me am stressed 4 sure
+Double Battery👓: I wanna to make money
+Adi5423_: Mee too fr.....
+Adi5423_: Ugh for what 🙃
+Adi5423_: Although You can share if you want so!!...
+Adi5423_: Mee too😭
+Adi5423_: Uk what my situations makes me realise every single time that no bro don't sit back.....just get up and give the earn something
+Adi5423_: I m trying to do my best.....hope things get sorted in a good way soon
+Double Battery👓: Yah sure
+Double Battery👓: Really
+Adi5423_: You too right!!!🙃
+Double Battery👓: I will check u
+Double Battery👓: Soon
+Adi5423_: Ugh ohkh
+Adi5423_: You busy!
+Double Battery👓: Yah but few
+Adi5423_: Ugh ohkh no prob will talk later then!!....
+Adi5423_:    
+Double Battery👓: Oooh oky
+Adi5423_: Hmm hmm
+Double Battery👓: Am tired today
+Adi5423_: Samee..... how you tired.....
+Double Battery👓: Works
+Adi5423_: Ughhh.....no problem then you start from tomorrow take rest today.... health comes first tho
+Double Battery👓: Yah sure but mh
+Double Battery👓: Time is going
+Adi5423_: Ik....
+Adi5423_: But trust the process
+Adi5423_: Process always seems harder than the destination
+Double Battery👓: Yaaah
+Adi5423_: Yea.....
+Double Battery👓: Money is everything 😂
+Double Battery👓: Still we don't sleep
+Adi5423_: Fr🥹
+Adi5423_: True as fuck 😂😂
+Double Battery👓: 😂😂😂
+Double Battery👓: 😂😂😂aditya u
+Adi5423_: Yeass meee 😂😂😂
+Adi5423_: Gift u😂😂😂🤌🏻
+Adi5423_: What you doing
+Double Battery👓: 😂😂😂
+Double Battery👓: Resting for an hour
+Adi5423_: Yeaa yeaa that's cool rest is more imp work can be done anytime
+Double Battery👓: Today is the bad day
+Double Battery👓: You know the meaning of virtual memory
+Adi5423_: What happened man
+Adi5423_:    
+Adi5423_:    
+Adi5423_:    
+Adi5423_:    
+Adi5423_:    
+Adi5423_:    
+Double Battery👓: U have flu not easy to hear u and understand
+Adi5423_: I'm sorry I m not that fluent in English 🥲
+Adi5423_: Actually it's winter here.....and in winters it shits to type Paras.....
+Adi5423_: Hand get frezzed 🥲🥲
+Double Battery👓: Sorry very sorry
+Double Battery👓: Worry out
+Double Battery👓: 😂😂😂
+Adi5423_: Ugh nah nah what's your mistake in that..... it's due to the weather just....
+Adi5423_: I like that when you say worry out 🥹🫶🏻it makes like huhh sorted.....
+Double Battery👓: Mmmh aditya it is normal things
+Double Battery👓: Coz u help me so much
+Double Battery👓: Today I start to learn
+Adi5423_: Umm yeah maybe just......
+Double Battery👓: Yaaah it is
+Adi5423_: Ugh that's my work no worries 🥹
+Adi5423_: Dammm what you did today
+Double Battery👓: Oooh oky thanks
+Adi5423_: Ohkh everyday you will give me your progress reports ohkh!!🥹
+Adi5423_: Promise!!🖐🏻
+Double Battery👓: I know what is flask and it is syntax
+Double Battery👓: Oky worry out I will in my best
+Adi5423_: Wait I m coming just wait for a while
+Double Battery👓: Worry out
+
+Oky it fine
+Adi5423_: Ugh yeaa back sorry
+Adi5423_: Why are going to flask just leave it there ik you would be excited for that.....
+Adi5423_: But first you have to clear out all the basics first!!....
+Adi5423_: Yeaa yeaa.....
+Adi5423_: Seee
+Double Battery👓: I wss
+Double Battery👓: Was
+Double Battery👓: Oky
+Adi5423_: Hey btw i have a great one for you
+Adi5423_: I will guide you with all the basics of python
+Adi5423_: On Google meet!!
+Double Battery👓: Am listening
+Double Battery👓: How
+Adi5423_: Ohkh!!....i generally teach java to my juniors for there exams.....on Google meet
+So it helps them.....
+Adi5423_: So i will teaching you python ohkh!!
+Adi5423_: Are you comfortable with that!?
+Adi5423_: Just with a pen and copy 😂🖐🏻
+Adi5423_: Btw you studied oops kn programming
+Adi5423_: As you told me that you studied java and c so yeah
+Adi5423_: Are you aware with oops topic in that
+Double Battery👓: Yah I will
+Double Battery👓: Why are you laughing?.😂
+Double Battery👓: Yaaaap
+Double Battery👓: Yes
+Adi5423_: Ugh it's funny like you asked how on Google meet and I said with a pen and copy 😂
+Adi5423_: Huhh lame jokes uk 😂😂
+Adi5423_: That's cool then....
+Adi5423_: From tomorrow??
+Adi5423_: Ohkh so see this
+Double Battery👓: 😂😂😂😂oky
+Adi5423_: Heyy wait
+Adi5423_: I have one more thing for u
+Double Battery👓: Yaaaah sure
+Adi5423_: Yeaa😂😂
+Double Battery👓: Yah am listen
+Double Battery👓: What
+Adi5423_: I m sending you my practice projects of python so you will like getting a overview form that how this language work..... it's syntax and all the things for it blaa blaa blaa blaa
+Adi5423_: From tomorrow we start python!!?
+Adi5423_: On Google meet with a pen and copy😂
+Double Battery👓: Where?
+Adi5423_: Just here kn WhatsApp only
+Adi5423_: On*
+Adi5423_: Wait le me get that
+Double Battery👓: Oky but I don't know how to use Google meet
+Adi5423_: You just have to join the meeting nothing else....you can turn off and on your camera and mic to communicate
+Adi5423_: You can ask your doubts too while I teach to you!!
+Double Battery👓: I don't think I can for sure
+Double Battery👓: Am shy😂😂😂
+Double Battery👓: If u have documents plz share with I will understand 🥺
+Adi5423_: No worries I ain't gonna judge you....you can openly ask and talk.....I will not laugh for sure 😂😂I m also introvert
+Adi5423_: Yeah I m just doing that
+Adi5423_: Give me your Gmail
+Adi5423_: I'll mail that to you
+Adi5423_: R give you the link of that so you can access that anytime
+Double Battery👓: 😂😂😂😂don't make me laugh
+Double Battery👓: Is not easy 4 whatsap
+Double Battery👓: I don't your document
+Double Battery👓: 😂😂😂
+Adi5423_: Yeaa i won't do that!!!...😂
+We will keep the vdo off that will be more good ig😂😂😂
+Adi5423_: I have the whole folder with many sub - folders so it's not the cup of tea for WhatsApp 😂😂
+Adi5423_: Ughh yeaa yeaa 😂
+Adi5423_:    
+Double Battery👓: Oooh why?😭
+Adi5423_: WhatsApp don't allow that 🥲🥲
+Adi5423_: Using Google Drive
+Double Battery👓: 😭😭😭why
+Adi5423_: It's shittt 🥲🥲🥲🥲
+Double Battery👓: 😂😂😂😂see
+Double Battery👓: Yah
+Adi5423_: I ain't going to hack you mannn chilll you can share the gmail it's safeee😂😂
+Adi5423_: Let's seee😂😂
+Adi5423_:    
+Double Battery👓: Mmmh am afraid for sure cause this phone is not mine
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: I will struggle to learn
+Double Battery👓: Waaaaaaaaaah😂😂😂
+Double Battery👓: But me I want basic only
+Adi5423_: Don't worry sharing gamil can't let anyone to access your deviceee🥲😂
+Adi5423_: It's all basics
+Adi5423_: 😂😂
+Double Battery👓: Mmmmmmmmh am afraid🥺😭😂
+Adi5423_: For suree🥲
+Double Battery👓: I know cause I learn
+Adi5423_: You can do that but no worries.....
+Double Battery👓: Mmmh maybe
+Double Battery👓: Can u help something
+Adi5423_: Ughhh see we are just online friends as if I m efforting in way to just make you learn python then surely you also have to do that naa.....
+If you aren't going to put efforts as I m doing for you then surely you aren't going to learn easily.....I'm not saying ik everything I will just guide you over with each step and make you not follow the mistakes as everyone does.....
+See as you have to learn python....you have to learn the basics of it first naa....and i did that earlier I have all my practiced folders and files....as i m Sharing that too with you....soo like you have to trust mee....and just believe on me I m not going to make any action against you using you Gmail and all.....
+Adi5423_: And how can I even do that idk how to hack by gmail🥲🥲🥲🥲😂😂
+Adi5423_: I m helping you out with each step just believe me.....
+Double Battery👓: But u know hacking 😂😂😂
+Double Battery👓: I believe
+Adi5423_: I don't 🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲
+Adi5423_: Ohkh so you believe mee right
+Double Battery👓: I know u know
+Adi5423_: By your believe if you provide me any Gmail you use....I can enter that in that section so you can also then access those files naa
+Adi5423_: I don't 🙂🙂🙂
+Adi5423_: God promise 🥲
+Double Battery👓: giftkyamunu@gmail.com
+Double Battery👓: Here🤭🥺😭
+Double Battery👓: Oky I believe
+Adi5423_: https://drive.google.com/drive/folders/1s99sv2lmkzChL5-X8bkGK_MDUVg6GLUE
+Adi5423_: Here your filess
+Adi5423_: I hacked you heheheheheheh🥹🥹🥹😂😂😂
+Adi5423_: Finally😂😂
+Double Battery👓: Oky it fine it fine
+Double Battery👓: I know that I know😭😭😭😭😭😭
+Adi5423_: I scammed youu😂😂😂😂😂🥹
+Adi5423_: I m just kidding chill chill chill🥲🥲🥲😂😂🥹
+Adi5423_: I m not a hacker 😭😭😭🥲🥲🥲
+Double Battery👓: I don't see any thing
+Adi5423_: Wait
+Double Battery👓: 😂😂
+Adi5423_: Lee me check once
+Double Battery👓: Just kidding you 😂😂😂
+Double Battery👓: Oky
+Adi5423_:    
+Adi5423_: Finally you believed actually 😂😂😂
+Double Battery👓: Don't do that
+Adi5423_: Btw i have to actually cover some of topics today in python so we'll talk tonight r maybe tomorrow ig
+Adi5423_: Yeaah yeaa for sure
+Adi5423_: And just lee me the time you get free so I can teach you on google meet
+Double Battery👓: Oky
+Double Battery👓: Worry out
+Adi5423_:    
+Double Battery👓: 😂😂😂
+Double Battery👓: It night now
+Adi5423_: We have 2 hours difference in time 😂
+Adi5423_: It's gonna be midnight within a while
+Adi5423_: Here in India
+Double Battery👓: Yaaah
+Double Battery👓: It's night in Tanzania
+Adi5423_: Yeaaa yeaa.....
+Double Battery👓: 😂😂😂
+Adi5423_: 😂😂
+Double Battery👓: It's funny
+Double Battery👓: But good
+Double Battery👓: And amaizing
+Adi5423_: Yeas yeaass for real 💫
+Adi5423_: Btw you know I very younger than you 🙂
+Double Battery👓: Why
+Double Battery👓: Ur age?
+Adi5423_: You study in university and i m still pursuing my 11th class studies in school
+Adi5423_: Guess??
+Double Battery👓: Tel me
+Double Battery👓: 19
+Adi5423_: 17 actually
+Double Battery👓: Eeeeeeeeeeh what
+Adi5423_: Yeaaa🥲🙂
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: Younger
+Adi5423_: I m Kidd for you na🥲
+Adi5423_: Ik
+Double Battery👓: Yaaah
+Adi5423_: You are very elder than me🙂
+Adi5423_: It's awkward 🙂
+Double Battery👓: Yes
+Adi5423_: You are going to block me after while naa <This message was edited>
+Double Battery👓: Why
+Adi5423_: Idk probably u will
+Adi5423_: Cause I m a kid for you 🙃
+Double Battery👓: Nop I can't
+Double Battery👓: Nop it's just normal things
+Adi5423_: I just hope 🙂🙃
+Adi5423_: I m felling shy and ashamed af rn🙂
+Double Battery👓: Because am elder but I don't know anything I respect on you
+Adi5423_: Yeaa it is fr....🙃
+Double Battery👓: No don't be like that 😂
+Double Battery👓: Yes
+Adi5423_: Same like i want you to learn python.....asap.....
+And like if you did very well we can work together on my projects so we both can earn asap ....as you conveyed me that you also wanna start earning and as I also have to do that....so we'll work together if it gone well fr
+Adi5423_: It's like very shy moment for me 🥲
+Adi5423_: You are great 🙃💫
+Double Battery👓: Worry if it's
+Double Battery👓: Why?
+Double Battery👓: And u too
+Adi5423_: Umm hmm hmm.....
+Adi5423_: Idk it's like you are way more elder than me....and i m guiding you over something....
+Double Battery👓: Yah it happens sometimes
+Double Battery👓: But u need to cancel conservatorship
+Adi5423_: Idk what it goes like in African culture but more likely in Indian.....and in Hinduism it's like every elder of your is a teacher cause they know more than you.....
+So like mythological it's a bit awkward to teach your elder ones.....I have been grown up in that environment on Hinduism....so yeah it makes me like awkward and shyy at the same time.....
+
+Yeah ik these things don't matter though but still like it hits harder sometimes!!....
+Double Battery👓: Oky it's ur opinion
+Adi5423_: I m not saying anything against it's like i m just expressing our why it's shy and awkward for me
+Adi5423_: I spoiled 🥲i m sorry
+Double Battery👓: It fine
+Adi5423_: Can we just forget bout the whole conversation we had last 5 minutes 🙂....please
+Double Battery👓: Oky worry out
+Adi5423_: Huhhh I m always with....that "worry out"😭🖐🏻
+Double Battery👓: Wht
+Adi5423_: I m sorry.....
+Adi5423_: Suree i will
+Adi5423_: Your worry out makes me relax everytime🥹
+Double Battery👓: Really
+Adi5423_: I will do that for sure....
+Double Battery👓: U want to stop talk with me
+Adi5423_:    
+Double Battery👓: Good
+Adi5423_: Not at all.....🙂
+Double Battery👓: 😂
+Double Battery👓: Why?
+Adi5423_: Idk you are just good.....
+Adi5423_: In a friendly way
+Adi5423_: Idk it's all bout you
+Adi5423_: You can end the conversation if you want so
+Adi5423_: I m forcing you
+Adi5423_: I m sorry....
+Double Battery👓: Am asking you
+Double Battery👓: Me now am tired
+Adi5423_: I don't know......I will agree with the decision you take.....
+Adi5423_: Ugh ohkh....then!!.....
+Double Battery👓: Me I don't have any decisions
+Adi5423_: Please.....just lee mee know what your mind decides.....ik it's even more awkward for you too to have a junior adviser......for something.....here python
+Adi5423_: Ik even if you don't say that I can understand.....what it seems
+Adi5423_: Mee too.....🙂
+Double Battery👓: Nop I can say
+Double Battery👓: Sleeping
+Adi5423_: Ughh 🙂
+Adi5423_: You going to sleep!!
+Double Battery👓: Yeah am tired today
+Adi5423_: Ohkh no problem
+Double Battery👓: Good night aditya😂😂
+Adi5423_: Take rest
+Double Battery👓: Study hard
+Double Battery👓: Thank u😊
+Adi5423_: Good Night Giftt😂💫🥹
+Adi5423_: Surre🥹💫
+Adi5423_: No worries
+Adi5423_: Worry out
+Adi5423_: 🥹💫
+Adi5423_: 😂😂😂
+Double Battery👓: Are happy?
+Double Battery👓: U
+Double Battery👓: 😂
+Adi5423_:    
+Adi5423_: Yeaaa i am🥹💫
+Double Battery👓: 😂😂😂hand writting
+Adi5423_: Dammm my hand writting is soo shittt fr🥲🥲🥲😂
+Double Battery👓: Yaaaah sure😂😂
+Adi5423_: Yeah if i forward you my hand written notes then it would be a issue for you to understand 😂😂😂🥲
+Double Battery👓: Yah sure
+Adi5423_: I mean yea it's bad you will understand that with a little bit of hardwork ig🥲😂
+Adi5423_: Good Night Gift
+Adi5423_: Damm you slept with the screen on🥹😂💫
+Adi5423_: Dammm you really slept with the screen on!!!🥹🥹😂💫
+Adi5423_:    
+Adi5423_: Tomorrow I will properly explain you the virtual memory/environment by typing r by voice note.....
+Adi5423_: I'll send you that....
+Double Battery👓: 😂😂no
+Double Battery👓: Oky worry not
+Adi5423_: Ugh ohkh i thought😂
+Adi5423_: Hmm hmm hmm
+Adi5423_: See
+Adi5423_: Virtual Environment memory is basically a virtual memory created by the user r programmer which helps to work with many versions of files or modules/library.......
+For ex your computer has a global environment in which you can although download any module any version in your system any where.....where the global environment of python helps you to install any where on your system.....but you only download a single version of a single module in a particular file directory.....for ex i created a file "1Py" and i installed panda version 1.4.4 there....so now if I have to install the newer version of that I have to simply update that r just delete the older one for the newer we can't work together with more than 1 version of a module you have to make the older one remove from system for any other version.....here virtual environment if we create....by our cmd...
+file in "1Py" named "11Py" now if i crated a virtual environment in that file i can install any version of any module there in a single file location.....for ex if some of code has been getting compiled in panda version 1.4.4 I can compile that code there with that version and now if i have to use version 1.5.2 panda module in the same file directory I can run that too!!....my global environment just not giving me the permit to work with different versions of modules in a single location ex exiting 11Py file with virtual environment anywhere in my system if I have to use panda it would be the version 1.4.4 cause I install that one there in my global environment..... basically giving a overview you can also install 10 python version in a single virtual environment or virtual memory......
+You can use it if you work with some projects to gain the access of different modules in a single location
+Adi5423_: There are some commands I'll let you know that till evening
+Double Battery👓: Oooh really
+Double Battery👓: Today am sick🥺
+Adi5423_: Ouh shit
+Adi5423_: What happened to you.....
+Double Battery👓: Flu
+Adi5423_: Ughhh take care....🙂🙃get well soon!!....🙃
+Double Battery👓: Oky thank you
+Double Battery👓: Can u help something
+Adi5423_: No worries..... <This message was edited>
+Adi5423_: Sure ho ahead <This message was edited>
+Adi5423_: Go*
+Double Battery👓: Ho🤣🤣🤣
+Double Battery👓: Oky let forget about ho😂
+Double Battery👓: Help me to find scenarios of structure system analysis and design
+Double Battery👓: If it possible
+Adi5423_: Ughhh mistake 🥲🥲🥲
+Adi5423_: Ughh yeaa sure suree 😂🥲
+Adi5423_: Ugh I didn't did that yet....
+Adi5423_: I'll help you out with it when i will do that
+Double Battery👓: 😭oky
+Adi5423_: Yeaahh
+Adi5423_: 🙃
+Double Battery👓: Mmmmh coz I take a long time to find
+Adi5423_: Meee too.....
+Adi5423_: I research for a very long time period
+Double Battery👓: What
+Adi5423_: Like if I want to search something I just take a lot of time to do that....
+Double Battery👓: Same
+Adi5423_: Hehehehehehe
+Double Battery👓: 😖
+Double Battery👓: But it fine
+Adi5423_: You ohkh now!!
+Double Battery👓: Yah am oky
+Adi5423_: Cool then take care
+Double Battery👓: U don't go school today?
+Adi5423_: Nopes
+Adi5423_:    
+Adi5423_: I lied 😂😂
+Adi5423_: I was having some of the project ideas for python so I just wanted to do that first that's why i didn't gone to school
+Double Battery👓: Where are u now?
+Double Battery👓: Why are u doing that?
+Adi5423_: I m at my home only
+Double Battery👓: 🤣🤣🤣🤣
+Adi5423_: I want to learn machine learning algorithms and testing......it helps in AI development and deployment so much that's why
+Double Battery👓: You aditya 😂😂
+Double Battery👓: You don't want to focus in school
+Adi5423_: Hahahahahahahaha😂😂😂🥹
+Double Battery👓: Your teacher see your post 😂 so go to school
+Double Battery👓: Your good in everything especially health so go to school😂😂
+Adi5423_: That's shit place
+Double Battery👓: Why?
+Adi5423_: They don't teach anything else out of the book which can help in real life tho
+Double Battery👓: Me I see in our country and not other countries do that
+Adi5423_: Everyone's just following a followed path made by the Britishers from 90's
+Double Battery👓: Yah sure but u need to focus on school too
+Adi5423_: Ughhh yeaa yeaaa why not 😂😂😂
+Double Battery👓: U lied your teacher 😂
+Double Battery👓: Yah it's
+Double Battery👓: It's hard to get money so we need to focus on school also in our important issues
+Adi5423_: I don't know what's other countries Algorithm is for schools and studies and all......but here in India education system is just fucked for schools
+Adi5423_: Ughhhh that's on regular basics 😂😂😂😂😂
+Double Battery👓: 😂😂😂fucked.....why?
+Adi5423_: School taught anyone how to earn.....
+They are just providing you a particular field information in 15 years of schooling.....they don't even teach how to use that knowledge rather than just sitting in front of some offices holders and just give a interview
+Double Battery👓: Yah sure but u not sick😂
+Double Battery👓: Mmmmmmh yaaah it's fact
+Adi5423_: They are shit yrr.....they just make you run in specific pre designed circle.....and that just stays on loop for years.....for the whole fricking 15 years.....
+Adi5423_: I m dancing 😂😂😂😂😂
+Adi5423_: That's what I wanted to say.....
+Double Battery👓: 😂😂😂😂😂
+Double Battery👓: Yah sure
+Double Battery👓: 15yrs to reach university oh what if u say 15yrs on school
+Adi5423_: 15 years in just school only excluding University/college
+Adi5423_: They are 3 sub junior classes mentioning
+Double Battery👓:    
+Double Battery👓: U know this aditya
+Adi5423_: Ughhh nah i seed it for the first time ig.....
+Double Battery👓: Waaaaaaah mmmh 🙄
+Double Battery👓: Mmmh it's true for sure
+Adi5423_: Saw*
+Adi5423_: What's that bout.....
+Double Battery👓: Eeeeh it's important to study or not
+Double Battery👓: Losing memories means past memory
+Double Battery👓: I don't know exactly causes of this disease
+Adi5423_: Depends on you.....
+Obviously studying is a very important chapter in everyone's life.....but i don't prefer studying from school for the whole 15 years.....
+There are 3 sub junior classes everyone need to go through them following from 1st class to 12th class 12th is final year of school.... probably the same in every country ig!!...
+
+There's a twist here 😂🙃class 10th is the 1st boards paper necessary for everyone to give....like the government and the council sets the paper for the whole country who are in 10th and this is the 1st board exam necessary for any field you enter!!!.... obviously it's 1st so it's a bit easier but not like the normal school finals ....
+
+Then 2nd boards paper gets in class 12th.... it's the hard one.... government and the council decides the paper for the students for the whole country.....and people also get fail in that and then they have to again start from class 11th.....cause registration for boards exams gets 1 year earlier.....
+
+I just know that studying till 10th is ohkh but after that be with your own capabilities and studies
+Adi5423_: Ughh ouhh yeaa I heard that
+Adi5423_: Exactly I don't remember from whom r when but I heard that.....
+Adi5423_: I want that toooo🥹🥹🥹🥹
+Adi5423_: Wait I'll back I have brush my teeths😂🙃
+Double Battery👓: Oky
+Double Battery👓: U want🙄😂😂😂😂
+Adi5423_: Yup
+Adi5423_: Wanna forget past lifeee🥹🥹
+Double Battery👓: 😂😂😂past life
+Double Battery👓: What happened?
+Adi5423_: Huhh I m back with shivering body and freezed fingers 🥲😂
+Adi5423_: Ik just 17 years passed yet for me but stilll a lot happened in just last few years.....🥹🥲😂
+Adi5423_: What it would be just all the love friendship and alll......
+Double Battery👓: 😂😂😂india still it's winter season
+Double Battery👓: 🤣🤣🤣🤣
+Double Battery👓: She taught u how life is going on
+Adi5423_: Brooo brooo it's feeling like we are living in Antarctica 😂😂😂😂🥲🥲🥲🥲
+Adi5423_: Fr 😂🥹🥹🥹🥹🥲
+Adi5423_: I mean yeah ik it was my mistake but fr Mann it was a necessary one
+Double Battery👓: 😂😂😂coldest place
+Double Battery👓: Oky see u later
+Adi5423_: Fr😂
+Adi5423_: Ugh ohkh no worries
+Adi5423_: Will talk sooner
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: Oky
+Adi5423_: Should I show you a screenshot!!🥹
+Double Battery👓: Yah
+Adi5423_:    
+Adi5423_: There was one of my online friend from Indonesia.....
+Adi5423_: Then after she faced some issues in her life
+Adi5423_: And then she had quit social media
+Adi5423_: This was the last message I got by her while she was in hospital
+Double Battery👓: She was on hospital
+Double Battery👓: Mmmmh what issues
+Double Battery👓: Oooh god
+Adi5423_: Yea....
+Double Battery👓: She sick or what
+Adi5423_: First she had an accident....
+Adi5423_: Then she was hospitalized for months
+Adi5423_: Doctor told her to stay away from smartphones
+Adi5423_: So she wasn't able to use mobile then after a while
+Adi5423_: One day she came online and just informed her parents are sending her to boarding.....
+Adi5423_: Then in middle of all this when she was in hospital she said her sister r brother to give this ss to me....
+Double Battery👓: Mmmh she is good
+Adi5423_: On sept 14 her brother r sister just gave me this ss and then after few days she came and just informed all the things.....
+Double Battery👓: Also is good to told u that in order to get an information
+Adi5423_: After that she never came online 🙂
+Double Battery👓: Coz really friendship never die
+Adi5423_: Fr.....💫
+Adi5423_: Exactly....she cared bout that too!!....
+Adi5423_: Fr never ever🫀
+Double Battery👓: Yah it's good
+Double Battery👓: Yaaah never
+Double Battery👓: Change phone number or what
+Double Battery👓: What kind of accident
+Adi5423_: Am just waiting for a day she come and just....talk again like old time
+Double Battery👓: From now she can't use smartphone
+Double Battery👓: Yah she came so worry out about that
+Adi5423_: We used to talk on insta....after all that her brother r sister uses her insta......
+Adi5423_: Idk exactly....but ig it was getting hit by a car ig!!....
+Adi5423_: Hitten*
+Double Battery👓: Mmmmh shit it's bad accident
+Double Battery👓: Oky so u can't with them
+Adi5423_: It's been months.....she didn't....4-5 months almost she didn't used smartphone and 5-6 months since we talked
+Adi5423_: Fr🙃
+Adi5423_: I miss her a lot 🙂.....
+Adi5423_: Yea exactly 🙃
+Double Battery👓: 😂😂😂I know I know u missed her
+Double Battery👓: Why are afraid?
+Double Battery👓: Where are u get her number?
+Adi5423_: Why you laughing🙃🙃🙃
+Adi5423_: She gave me a long time ago.....
+Adi5423_: Uk what  we were just having a year of difference in age 🥲🙃
+Adi5423_: 🥹🥹🥹💫
+Double Battery👓: How
+Double Battery👓: I know what u mean
+Double Battery👓: Mmmh oky😊😂😂
+Adi5423_: Dammmm
+Adi5423_: I just
+Adi5423_: Seen some shorts of Tanzania
+Adi5423_: It's so different then i thought🥹💫
+Adi5423_: She was 17 r 18 a year ago
+Adi5423_: Ughhhh🙃
+Adi5423_: How was your past!!....
+Double Battery👓: Wait I have done my discussion
+Double Battery👓: See u later
+Adi5423_: Of what
+Adi5423_: Ugh ohkh I'll wait again
+Double Battery👓: Oky
+Adi5423_: Hmm
+Double Battery👓: Hellow
+Adi5423_: Hey ......
+Adi5423_: Ugh what decision you took
+Double Battery👓: Mathematics
+Adi5423_: What mathematics??
+Double Battery👓: U don't know mathematics
+Adi5423_: I mean what's your decesion bout mathematics are you going to switch maths from computer science r like what decesions you made with mathematics
+Double Battery👓: Nop simple questions
+Adi5423_: What topic??
+Double Battery👓: Analytical design and computation
+Adi5423_: Don't know bout that.....ughh i forgot you are in university 🥲🥲
+Double Battery👓: Hahahahaha
+Adi5423_: Hehehehehehe.....btw what's your age....
+Double Battery👓: 20
+Adi5423_: Daammm i suppose to call you mam🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂
+Double Battery👓: Uwiiiiii not like that
+Adi5423_: Ughhh yeaa yeaaa 😂🙃btw uk what i didn't told my gf bout you yet.....💀
+Double Battery👓: Tell me mh am listen😂
+Adi5423_: Ughh yeaa yeaaa 😂💀
+Double Battery👓: Tel me aditya what happened
+Adi5423_: Ugh nah nah nothing much just a bad day with depressed thoughts huhhh
+Adi5423_: Heyyy
+Adi5423_: I have an idea.....
+Double Battery👓: 😂😂
+Adi5423_: I will call you mam onwards ohkh???😂😂
+Double Battery👓: Nop
+Adi5423_: Why nottt mamm😂😂😂😂😂😂
+Adi5423_: Btw do you have a bf?
+Adi5423_: I mean you in a relationship!!
+Double Battery👓: I don't like that
+Adi5423_: Ughh ohkh i won't do that then....but it was fun actually naa!!!😂😂😂😂😂😂
+Double Battery👓: 😂😂😂
+Double Battery👓: I don't
+Double Battery👓: Nooop
+Adi5423_: Ugh any reason r just casually
+Double Battery👓: No
+Adi5423_: Just casually??
+Double Battery👓: I have no reason
+Adi5423_: Ugh ohkh ohkh.....
+Double Battery👓: What abt u
+Adi5423_: I m in a relationship from 2022 with my junior😂🥹 it's been a year since we together
+Double Battery👓: Till to day
+Adi5423_: Yuppp......don't know till when fr!!....
+Adi5423_: Hope till the end!!.....🙂💫
+Adi5423_:    
+Double Battery👓: Her picture
+Double Battery👓: Eeeh till end
+Adi5423_: Yeaaa.....hope things stay good for coming years.....🙃🫀
+Adi5423_:    
+Double Battery👓: Beautiful gal😍
+Double Battery👓: Yaaah
+Double Battery👓: Learn on the same class or
+Adi5423_: Yeeehee🥹🫶🏻....she's very cute.....🥹🫀
+Double Battery👓: For you😂😂😂
+Adi5423_: Ugh actually we were in the same till class 10th....then i changed my school cause of  high fees and long distance from my home.....
+Double Battery👓: Coz everyone one see her gal is cute
+Double Battery👓: Oooh oky it's not bad coz always chats
+Adi5423_: Ughh yeah but uk like she's just 4 and foot idk like but the girls will short height look cuter than others with average height 😂💫
+Adi5423_: It is 🥲we didn't meet form last 2-3 months fr.....living in same city then too sometimes feels like long distance 🥲
+Double Battery👓: Hahhahaha not true 🤣🤣
+Adi5423_: Maybee 😂🥹
+F others 😂😂😂
+Double Battery👓: Also am short
+Double Battery👓: Nop
+Double Battery👓: Why
+Adi5423_: Ughhh😂😂😂all of my bestfriends are for real less than average height.....idk but every girl with short height looks cute 😂😂💫
+Adi5423_: Legit you won't believe it's a record
+Adi5423_: In all the bestfriend I had till now
+Adi5423_: Every single one is shorted than Mee r average height literally every 😂😂😂
+Adi5423_: Coincidence r whaatt 😂😂
+Double Battery👓: 🤣🤣🤣
+Adi5423_: Ughhh you would be also cute then 😂😂😂😂
+Double Battery👓: Oooh really
+Double Battery👓: Mmmmh nop
+Double Battery👓: 🤷‍♀️
+Adi5423_: Ugh like sometimes I don't get the time sometime she don't.....some times the situations and all and now the boards....I told you today morning naa....that 10th class and 12th class are boards examinations where council/government sets the paper for students so it's her boards paper this year.....in March
+Adi5423_: That's whyy in preparation of boards....i m also not conveying her for a meet.....
+Double Battery👓: And u too right
+Double Battery👓: Oooh it's true
+Adi5423_: Ughh🙃..... dosen't matter cuteness is just an expression for elaborating something from external view!!....
+Adi5423_: Mine will be next year....as I m in 11th .....I got registered for boards which will take place next year in 12th class.....
+Adi5423_: Yeaaa
+Adi5423_: I haven't seen you yet.....
+Double Battery👓: 😂😂😂aditya u
+Adi5423_: Your picture
+Double Battery👓: Ooooh sure in next yr or this yr
+Adi5423_: Ughhh huhhhh yeah like that's what cuteness means actually ig!!!!🙃🥹
+Double Battery👓: 😂😂😂
+Adi5423_: Next year for sure......this year it will be normal final exams in March then i will be promoted to the final year of schooling.....class 12th with a headache of boards 🙃
+Adi5423_: What happened 😂🙃
+Double Battery👓: null
+Double Battery👓: 😂😂😂 u will pass
+Double Battery👓: Eeeeh u
+Adi5423_: Why will I laugh 🥹😂you are also cute 🥹💫
+Double Battery👓: Bad,baddest
+Adi5423_: I don't think sooo🥲
+Double Battery👓: Ooooh noo
+Double Battery👓: U will believe
+Adi5423_: 🥹🥹🥹💫💫
+Double Battery👓: What
+Adi5423_: Yeaa..... cuteness doesn't as you meeting someone and you get physically attracted towards that specific person r anyone.....even if someone isn't cute.....and you love them by heart......the face won't be a reason for you to say that he/she isn't cute r is cute.....
+Face is just a way of expressing out what the world sees.....being cute by heart is something which some people in your life can actually make you feel that you are actually cute.....you talk to them you are comfortable with them....you will love with them.....then the face won't be a sign of cuteness and all like that.....that person will eventually call you cute if he/she thinks you are actually cute by heart too!!.....
+Adi5423_: So in the end just your way treatment to someone matters for your level cuteness not the face!!.....
+Adi5423_: I don't have any other option 😂😂😂🥲
+Adi5423_: Your purity of heart matters just nothing else!!!.....
+Double Battery👓: Yah sure
+Double Battery👓: That is my time to learn my subject
+Double Battery👓: Yah sure
+Adi5423_: I gave you useless session of knowledge today right!!?😂
+Adi5423_: Ugh ohkh you do your work
+Double Battery👓: Nop it just a life not all the we talk about education
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: Yaaaah
+Adi5423_: Yeaahhhh for reall🥹😂💫
+Adi5423_: You deleted this message
+Adi5423_: Hmm
+Double Battery👓: Why are u delete😂😂😂
+Double Battery👓: What
+Adi5423_: Ugh nothing much leaveee
+Double Battery👓: Mmmh
+Adi5423_: You can study I won't disturb you now
+Double Battery👓: U said u have an idea what kind of Idea u have
+Adi5423_: It was nothing much I was just saying to call you mam at that time
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: Nop for why u call me mamy still am older than u in 3yrs but me and u ....u look older than me😂😂😂
+Adi5423_: Ughh is it soo!!!😂
+Adi5423_: But when you saw mee!!!😂💀
+Adi5423_: I didn't  send you my picture yett then how!!!💀
+Double Battery👓: In your profile picture😂😂😂
+Adi5423_: Ughh shittt i forgot😂😂😂
+Adi5423_: Short term memory losss😂🥲
+Double Battery👓: 😂😂😂😂
+Adi5423_: Uk what mannn
+Adi5423_: I Learned a lot more today in python
+Double Battery👓: Mmmh u don't go to school again
+Adi5423_: Ugh nopes.....I was having a lot to do in python today that's why..... tomorrow I have to go but
+Double Battery👓: Oky
+Double Battery👓: We will talk later
+Double Battery👓: Hey
+Adi5423_: Heyy mannn.....you what a lot happened today!!!.....dammm it was a very harsh day today
+Adi5423_: That's why i wasn't even able to use the phone although
+Double Battery👓: Same to me
+Adi5423_: My days are getting soo bussy nowdays we'll just talk bout the things sooner!!!.....
+Adi5423_: Good Morning 🌄
+Double Battery👓: Yes mornie
+Adi5423_: What happened with you!!
+Double Battery👓: Busy day
+Adi5423_: Ughhh usss uk what last day police stopped uss....and took our bike 💀
+Double Battery👓: Why
+Adi5423_: See what happened
+Adi5423_: You know tea?
+Double Battery👓: Yes
+Adi5423_: Yeaa so like I m tea lover.....and like damm I even ride the bicycle 30 km to just have a cup of tea I m that much obsessed with tea....
+
+So yeah like last day me and one of my school friend we were going to Clock Tower like that place is located from a very very old time in our city....more than 400 years ig....so like all the things there are the original one from fast food to tea.....so we gone there to drink tea....
+Adi5423_: And uk what a week ago Indian Government launched one rule that
+Double Battery👓: Mh
+Adi5423_: All the one who are underage if caught driving r riding any vehicle.....will be fined 25000 India rupees which is a lot.....
+And 3 year prisonment....
+Adi5423_: This rule was passed a week ago then too we both gone there and like my friends vehicle number plate is of 2007 so one letter was missing in the number cause he never renewed it.....
+Double Battery👓: Oooh mh
+Adi5423_: So like we parked our bike and had cup of tea....and when we came
+Double Battery👓: Mh what going on
+Adi5423_: We saw 2 police man looking up on our bike
+Adi5423_: And when we came they told your bike isn't being showed on the government app....with this number plate we are going to seize your vehicle
+Adi5423_: And at that time were 20 km away from our home we both
+Double Battery👓: Ooooh
+Adi5423_: And like they searched a lot of time but as one alphabet was missing in the plate as it was according to the old number platting system....so they were like this stollen show the papers of it
+Adi5423_: And we were not having the paper with us of the vehicle it was at my friend's house and no one was at his house
+Double Battery👓: Mh how u solve this
+Double Battery👓: Mmmnh damn it
+Adi5423_: We were like damm stucked there..... without vehicle papers plus underage and all
+Double Battery👓: So what do u do
+Adi5423_: We were just having a bit of luck that they didn't asked for our aadhar card (it's basically a card to every Indian citizen for a verified information bout them incl date of birth).....i m still underage and he's too!!.....we both were.....please don't ask for aadhar card....we are going to have a huge shit if he asked bout that
+Adi5423_: Then my friend called his father
+Adi5423_: And like he somehow got a source to the policeman's commissner (like the one manages all the police offices of a area).....so somehow his father managed to call him as they were friends and then like after a lot of shit
+Adi5423_: They discussed on the call this that and all shit
+Adi5423_: And like the police man was saying
+Double Battery👓: 😂😂😂😂
+Double Battery👓: Ur luck boy
+Adi5423_: Leave your vehicle here at the police station come before tomorrow noon and with vehicle papers and take your vehicle away
+Adi5423_: And we were like damm how we gonna go home..... without bike.....
+Double Battery👓: 😂😂20km
+Adi5423_: We were not having enough money for local transport like metro and autorikshaw
+Adi5423_: Legitt 🥲
+Adi5423_: Then after like discussion with them for 1 - 1:30 hours
+Double Battery👓: 😂
+Adi5423_: He somehow just managed with
+Adi5423_: Take your vehicle away and bring the paper till next morning
+Adi5423_: Thanks to his father 🥲🙃
+Double Battery👓: 4 sure
+Adi5423_: We just did all this shit just for a cup of tea🥹🥲😂😂
+Adi5423_: Legit
+Adi5423_: And uk what
+Double Battery👓: Cause u like it
+Adi5423_: I didn't even informed last day that I m going out of home like I just came home at 4:30 my friend called me and said let's go today for tea......
+Adi5423_: I was eating my lunch i didn't even informed anyone at my house and just left to go with him and like till night we came back home dammm it was very scary moment at Clock Tower last day 🙃
+Adi5423_: Love ittt🥹🥹🫶🏻
+Adi5423_: Wanna see
+Adi5423_: Wait
+Adi5423_:    
+Adi5423_:    
+Double Battery👓: Oky
+Double Battery👓: Oooh
+Adi5423_: Yeaaa🥹
+Adi5423_: And yeaaa yeaaa
+Adi5423_: Uk whatt
+Adi5423_: Last day when I reached the school
+Double Battery👓: U aditya
+Double Battery👓: Eeeeh don't tel me u do that
+Double Battery👓: Maybe yes
+Adi5423_: My class teacher was likkeee ouhh wooww Aditya you are back to school congratss......come here......i was like slowly stepping towards her.....and then she just said I don't wanna say just go there and do situps.....and you are going to do situps till next period I will inform that teacher to not make you sit.....
+And I was doing situps ...then she gone to my seat
+Adi5423_: And asked my friends to take out my bussiness Studies copy
+Adi5423_: Hihihihihihihihihi🥹🥹🥹
+Adi5423_: Hahahahahahaah yeaa I did 😂😂😂🤣
+Double Battery👓: Why she do that 4 u
+Double Battery👓: U
+Adi5423_: Cause I was absent for 2 straight days that's why.....
+Adi5423_: I told you naa that thing only.....
+Double Battery👓: 😂😂😂because u lie
+Double Battery👓: Oooh really
+Adi5423_: And likeee dammm when she saw my copy.....she was like what a writing Aditya you writing is that much that I m not even able to understand a single word from it!!....😂😂
+Double Battery👓: Hahahahha 😂😂
+Adi5423_: She knows that😂I m from one of the most irregular student from that class.....😂🥹
+Double Battery👓: Aditya u copy 4 someone work
+Double Battery👓: How
+Adi5423_: You know bout my writing naa!!😂🥹you saw that day 😂😂
+Double Battery👓: Hahaha yah I saw
+Adi5423_: They just make uss copy out the same things written in the book to our copy.....I don't even like that even a perce
+Adi5423_: Then like shee just
+Adi5423_: Started taunting mee
+Double Battery👓: 😂😂😂
+Adi5423_: You are not gonna pass 11th.....this this....your writing is bad your marks are not even that much....let mee see what you going to do in final exams......
+Adi5423_: Ik you just do coding
+Double Battery👓: U must learn ur subject to pass aditya oky
+Double Battery👓: Promise me
+Adi5423_: You deleted this message
+Adi5423_: You are interested in that but you have to focus on this this things school work also come regular plus on time....these are the mandatory things which come first blaa blaa like she gave me lecture for 15-20 minutes straight!!.....
+I was like yes mam sure mam.....no mam yes mam okay mam
+Double Battery👓: I know that but I wanna u to study
+Adi5423_: I actually don't want to....cause if I passed i going to be promoted in class 12th....and like damm fucking one more year in that shitt school which don't even have a music r any of the sports either.....how the shit I just stayed here from like 10 months ik that i genuinely don't want single percent to go to 12th for those board exams.....ik that's my last year but I m just fed up of it......
+Adi5423_: 🥲🥲🥲🥲🥲🥲🥲.......
+I don't even get interest in any of the subjects in school now.....I just wanna learn coding.......
+Double Battery👓: Aditya don't do that
+Adi5423_: I m fed up of all the subjects and all that pressure i don't want more.....I want to focus on that particular computer science field specifically......i don't understand any other subject even a percent....i don't even feel that to do more enough......
+Adi5423_: They just make us do shit at school for the whole fucking straight 8 hours
+Adi5423_: 🙃🙃I m not gonna do that fr.....but I don't want myself in 12th class.....I can't doo more enough......
+Double Battery👓: No
+Adi5423_: I will the much i can to pass finals....but I don't want for real!!....🙂
+Double Battery👓: Just do anything In order to pass
+Double Battery👓: How can ur family feel when u fail
+Adi5423_: Ik no one gonna feel good for that.....but if I failed in the boards 12 that will be more shit....and i genuinely don't even know what going to happen
+Adi5423_: I m just trying nothing else .....
+Double Battery👓: No
+Adi5423_: I will try to pass i sure that🙂
+Double Battery👓: Also me I will try a lot
+Adi5423_: You are try for what???
+Double Battery👓: U learn more
+Double Battery👓: Pray 4 me
+Adi5423_: 🥹🥹🥹
+Adi5423_: I will!!! Don't worry!!!
+Double Battery👓: Really
+Double Battery👓: What
+Adi5423_: Nothing nothing......it just gonna be good one day i believe that!!!.....💫
+Adi5423_: Btw Thankyou....
+Double Battery👓: 4 what
+Double Battery👓: What
+Adi5423_: Nothing nothing just leave itt huhhh
+Adi5423_: Nothing
+Double Battery👓: No tel me
+Adi5423_: It was just casual leave!!..... Change the topic🙂
+Double Battery👓: Oky it fine
+Adi5423_: Uk btw...
+Adi5423_: I m learning
+Adi5423_: GUI
+Adi5423_: In python
+Double Battery👓: What
+Adi5423_: Graphic User Interface
+Adi5423_: Like
+Adi5423_: When you use anything
+Double Battery👓: Oooh just I wanna to learn also
+Double Battery👓: But am busy 4 my subject soon I have a final exam
+Adi5423_: The interaction of buttons and click menu and everything you see on the screen just comes in GUI so yeah i m learning that .....
+Adi5423_: Dammm mee too next month it's my finals
+Double Battery👓: Mmmh also me
+Adi5423_: 🙃🙃🙃🥲🥲
+Double Battery👓: Are u laugh 😂
+Adi5423_: Ugh yeaa sure suree sure😂😂😂💫
+Adi5423_: Hahahahahahaah😂😂😂
+Double Battery👓: Oky fine🥺😭😭😭
+Adi5423_: Damm mannn
+Adi5423_: Why you crying Gift!!!
+Adi5423_: Everything good!!!🙂
+Double Battery👓: Am afraid
+Double Battery👓: 4 exam
+Double Battery👓: Yeah I believe
+Adi5423_: Dammm broo you still have fricking 17-20 days left for next month.....that isn't less....
+Adi5423_: Ohkh tell Mee are you prepared??
+Double Battery👓: Not more
+Adi5423_: Ohkh coolll......
+Double Battery👓: Yaah
+Adi5423_: Start it
+Adi5423_: See
+Double Battery👓: Oky I will
+Adi5423_: That doesn't matter are you prepared r not.... dosen't matter how much time is left.....now for few days r weeks it's just you and your course and the exams.....making yourself worry bout the exam not gonna give you anything....not gonna take you up on academic r not gonna make u have a good grade.....you just have a option to start.....so just start with a positive mindset that you can clear it very well if you are trying the best by yourself.....your efforts matter now for next few weeks r days....just stood up with that.....you gonna believe yourself at every level of increment!!!.....
+Adi5423_: Just start it without thinking of the other side that you gonna fail r pass r just anything like that....
+Double Battery👓: Thank u
+Adi5423_: If you put efforts for anything you have I not going to fail for sure if it's your 100 percent on your work no one gonna make you fail r not pass......hmmm so just have a positive mindset for your work r studies and just fuck the whole criteria with your efforts.....and u gonna do that trust me you still have a lot of days to work
+Adi5423_: Start today r just now!!!....
+Adi5423_: No worries friends don't greet each other tho -
+Adi5423_: Make your efforts greet you just
+Double Battery👓: Yeah sure
+Adi5423_:    
+Adi5423_: Yeaaaa
+Double Battery👓: U with ur lover tea
+Adi5423_: Hehehehehehehehehe🥹🥹🫶🏻🫶🏻🫀
+Double Battery👓: Yaaah
+Adi5423_: Uk that's common in India.....like morning tea and evening tea!!....🥹💫
+Double Battery👓: Everyday
+Adi5423_: Yeaaa.....like fr if i visit India you can see tea in every house of India
+Adi5423_: Like cold coffee in America
+That's tea in India
+Double Battery👓: Ishiiiiiii😁😁
+Adi5423_: Hihihihihihihihihihihihihihihi🥹🥹🥹🥹🥹😂😂😂😂
+Double Battery👓: It's good but make body to be warm
+Adi5423_:    
+Double Battery👓: Who is ur mom
+Double Battery👓: Wear blue jacket
+Adi5423_: Yupppp
+Double Battery👓: Ur cs is pretty
+Adi5423_: Ugh thanks by her side🥹💫
+Adi5423_: Just like you🥹💫
+Double Battery👓: Why
+Double Battery👓: No more than me
+Adi5423_: You deleted this message
+Adi5423_: Ugh like you said her pretty so I just said thanks by her side
+Double Battery👓: What
+Adi5423_: Ughhh nah nah everyone is pretty 🥹
+Adi5423_: Ugh leave
+Adi5423_: Chill😂💫
+Double Battery👓: Yah sure
+Double Battery👓: Mmmh
+Adi5423_: Yea yea
+Adi5423_: Yeass yeasss
+Adi5423_: You are also pretty🥹
+Double Battery👓: Aaaah oky u do it more
+Double Battery👓: Mmmh nop
+Double Battery👓: 🤣🤣🤣
+Adi5423_: Yuppppp🥹🥹🥹
+Adi5423_: Yeaa yeaaa 😂😂😂
+Double Battery👓: Oky oky😁
+Adi5423_: Hehehehehehehehehehehehehe👀👀👀
+Double Battery👓: What
+Adi5423_: Nothing just laugh like a mad
+Adi5423_: 😂😂😂🤣🤣🤣
+Adi5423_: Heheheheheheheh😂😂🤣
+Double Battery👓: Mmmmh surely
+Adi5423_: Hehehehe😂😂
+Double Battery👓: Am tired
+Adi5423_: Mee tooo......🥲
+Adi5423_: I want some sleeeep
+Double Battery👓: Oky just sleep
+Adi5423_: Nahh sleep is waste of timee I don't like thatt 🙂🙂
+Adi5423_: You should take some sleep
+Adi5423_: You feel tired naa
+Double Battery👓: Take
+Adi5423_: Take sleep whole day😂🖐🏻
+Double Battery👓: Nooooo
+Double Battery👓: Just a few minus
+Adi5423_: Ughhh 🙃
+Adi5423_: Btw a week before we were not even friends right !! Like just strangers on a group who don't even know a percent bout each other 😂
+Double Battery👓: Me and u or
+Adi5423_: Yea just us
+Double Battery👓: Yah we're not friends
+Adi5423_: Okh as u wish
+Double Battery👓: But now we're
+Double Battery👓: I will check u soon
+Double Battery👓: Help
+Double Battery👓:    
+Double Battery👓: Questions 2 find any place aditya plz
+Adi5423_: You mean the answer??
+Double Battery👓: Ndy
+Double Battery👓: I mean yes
+Adi5423_: Ugh ohkh
+Double Battery👓: Can u help me plz
+Adi5423_: I m trying for the solution online i'll let you know that soon
+Double Battery👓: Oky am waiting
+Adi5423_: Yeaa
+Double Battery👓: 😭😭😭
+Adi5423_: Don't worry chill
+Double Battery👓: Qn 2 and 3
+Adi5423_: Ugh ohkh
+Double Battery👓: Oky
+Adi5423_: A family of functions \(f_n(x)\), where \(n=0,1,2,4,5,\ldots\), satisfies the equation.
+\[
+2x + t^2\right)^{\frac{1}{2}}.
+\]
+By integrating both sides of the above equation with respect to \(t\), from 0 to 1. Show that
+\[
+\sum_{n=0}^{\infty} f_n(\cos(\theta)) = \ln\left[1 + csc\left(\frac{\theta}{2}\right)\right].
+\]
+Adi5423_: Question 2-
+Adi5423_: Let's start by breaking down the given equation. We have a series of functions, \(f_n(x)\), where the subscript \(n\) represents the order or power of the function. The equation connects this series to a more complex expression involving a power series and a radical expression.
+
+by-term integration. This allows us to integrate each term of the series separately and then add them back up to get the final result. Let's integrate both sides of the equation from 0 to 1 with respect to \(t\).
+
+2x + t^2\right)^{\frac{1}{2}} dt\]
+
+When we integrate a power series, we need to make sure that the radius of convergence is greater than or equal to 1 (the limits of integration). In this case, we can see that the radius of convergence for both series is 1, so we're good to go.
+
+Now let's integrate each term of the series separately. For each term, we can use the substitution \(u = t^n\) to simplify the integral:
+
+1/n} du\]
+
+This integral is now in terms of \(u\), which allows us to use the substitution rule to find its value:
+
+1/n} du = \frac{f_n(x)}{(-1/n)} \left[ u^{-1/n} \right]_0^1\]
+
+Since \(u=t^n\), we know that \(u=0\) when \(t=0\) and \(u=1\) when \(t=1\). Plugging these values into our integral gives us:
+
+1/n)} \left[ 1 - 0 \right] = f_n(x)\]
+
+Using this result, we can now integrate both sides of our original equation:
+
+2x + t^2\right)^{\frac{1}{2}} dt\]
+
+This looks like a complicated integral, but we can simplify it using a substitution. Let's set \(t = 2\sin(\theta/2)\), which allows us to express our integral in terms of trigonometric functions:
+
+4x\sin(\theta/2)^2 + 4\sin(\theta/2)^4 \right]^{\frac{1}{2}} d(\theta/2)\]
+
+Now let's make another substitution, setting \(u = csc(\theta/2)\), which allows us to simplify our integral further:
+
+\infty}^{\infty} \ln[u + 1] du\]
+
+This integral is still quite complicated, but it's now in terms of a logarithm and an infinite range. We can use some mathematical tricks to simplify it further, but that's beyond the scope of this explanation. The final result is:
+
+\[ \sum_{n=0}^{\infty} f_n(\cos(\theta)) = \ln[csc(\theta/2) + 1]\]
+Adi5423_: In summary,
+Adi5423_: We started with an equation that connects a series of functions, \(f_n(x)\), to a more complex expression involving a power series and a radical expression. We simplified this equation using a technique called term-by-term integration, which allowed us to integrate each term of the series separately and then add them back up to get the final result. After integrating both sides of the equation from 0 to 1 with respect to \(t\), we simplified the resulting integral using substitutions involving trigonometric functions and logarithms. The final result is a formula for summing the series \(f_n(\cos(\theta))\) in terms of the cosecant function.
+Double Battery👓: I need mathematical solutions
+Adi5423_: Ik but typing tge mathematical equations in keyboard just looks like this and all the way it's generated a mathematical AI only.....I just copied and paste it to you
+Double Battery👓: Screen shot then send to me
+Adi5423_: It's the same I wrote
+Double Battery👓: I don't understand
+Adi5423_: It was written the same it was having copy option I just copied and pasted that......
+Adi5423_: 🥲🥲🥲🥲🥲🥲🥲🥲🥲the else you can is just search on YouTube for that
+Double Battery👓: I don't understand
+Adi5423_: R u can use
+Adi5423_: The " deepai.org "
+Adi5423_: It's a maths AI
+Adi5423_: You can clear out your doubts
+Double Battery👓: Uwiii let me tyr
+Adi5423_: Although I just copied it from there only
+Adi5423_: Suree
+Double Battery👓: Hey
+Adi5423_: Hey wassup
+Adi5423_: I was thinking you would be busy with your assignments and all that's why i didn't disturbed you last day!!....
+Adi5423_: Have you with that now !
+Double Battery👓: Also am very busy
+Adi5423_: Yeaa understand mo worries
+Adi5423_: You there?
+Double Battery👓: Yeah I am
+Adi5423_: How you
+Double Battery👓: Am gud how about u
+Adi5423_: Yeah just doing great.....
+Double Battery👓: Yah God bless
+Adi5423_: Yeaaa....
+Adi5423_: All good there na!!
+Double Battery👓: Yeah how about u
+Adi5423_: Yeaaa.....just cold at it's peak nothing else
+Double Battery👓: Where are u now
+Adi5423_: At my home
+Adi5423_: Covered in blanket inside my room🙃
+Double Battery👓: 😂😂😂like a bird
+Adi5423_: Yeaaa yeaaaaa yeaaa😂😂😂😂
+Adi5423_:    
+Adi5423_: I thought you slept😂🥹
+Double Battery👓: 😂😂😂it's very cold
+Double Battery👓: Nop I can't sleep now
+Double Battery👓: I think u know now what I plan to do
+Adi5423_: Literally 😭😭😭🥲🥲🥲
+Adi5423_: You lost your eye lids 😂😂😂😂
+Adi5423_: Assignment right!!!💀
+Double Battery👓: Yaaaah 🤣🤣🤣
+Double Battery👓: Not more😂😂
+Double Battery👓: Am wearing glass😂😂😂
+Adi5423_: Wish you luck😂😂🖐🏻
+Adi5423_: 😂😂😂😂
+Adi5423_: Aayyee uk what here in India like to joke we call the Double Battery the one how wear glasses😂😂😂😂😂
+Double Battery👓: Are u laugh 😂😂
+Double Battery👓: Noooooo
+Adi5423_: Going to save your contact as"Double Battery"😂😂😂🤣
+Adi5423_: Yea😂😂😂
+Double Battery👓: Aditya don't do that 4 sure😂😂😂
+Double Battery👓: Ooooh oky it gud🙄😂😂😂
+Double Battery👓: Am going to wash then am back
+Adi5423_: Done 😂😂😂😂
+Adi5423_: 😂😂😂😂😂😂
+Adi5423_: How much work is left
+Adi5423_: Waah your eyes right?
+Adi5423_: Wash*
+Double Battery👓: Aaah don't do that 😂😂😂
+Double Battery👓: What kind of fu*k name saved😂😂😂 delete
+Double Battery👓: No body
+Adi5423_:    
+Adi5423_: Better right!!!😂😂😂😂
+Adi5423_: Hehehehehehehehehrhrr😂😂😂😂
+Double Battery👓: Shit off😂😂😂
+Double Battery👓: Nooop
+Double Battery👓: Adityaaaaaaaaa😖😖
+Adi5423_: Heheheheheh😂😂
+Adi5423_: 🤣🤣🤣
+Adi5423_: It's cooolll naaa 😂😂i have you a nick name tho -😂😂🥹
+Adi5423_: A nick name to my long distance senior friend 😂😂💫
+Double Battery👓: Whoooooooooooooooi😂😂😂
+Adi5423_: Now It's coool right!!!!!😂😂💫........
+Double Battery👓: Fuck 🤭😂😂😂😂
+Adi5423_: Heheheheheheheheeh😂😂😂
+Double Battery👓: U need a stick😂
+Adi5423_: You going to hit me with that!!!😂😂
+Adi5423_: Ughh shittt senior publishing his junior 😂😂😂🤣
+Double Battery👓: Why are u more happy today
+Double Battery👓: Mmmh why?
+Double Battery👓: U freeze because u call me that name
+Adi5423_: Maybe cause we are talking after 2 days 🥹
+Adi5423_: Maybe that's why
+Adi5423_: Yeaaaa yeaaa that's reall 😂😂😂😂
+Adi5423_: Double Battery😂😂😂
+Double Battery👓: Maybe it's a reason 🤣🤣🤣
+Double Battery👓: U will miss me🤣🤣
+Double Battery👓: 😡😡
+Adi5423_: Yeaa perhaps 😂😂😂
+Adi5423_: Awww i don't know maybe yes😂🥹
+Adi5423_: Will you kiss me??
+Adi5423_: Miss*
+Adi5423_: Shit f keyboard🙂
+Double Battery👓: Aaishiiiii🤣🤣🤣🤣
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: Ur honey she kill u if see this fuck chatting 😂😂
+Adi5423_: Huhhhhhh😂😂😂😂😂
+Adi5423_: Legitttttt 🥲🥲😂😂😂
+Double Battery👓: Yaaah sure
+Adi5423_: We aren't talking much now days I told you naa bout board exams so she will have her board examination in March.....
+Adi5423_: Now she's having her pre - board exams in school that's why I m not disturbing her from lst few days
+Adi5423_: Weeks ig *
+Adi5423_: We haven't talked much from many days.....
+Adi5423_: I will tell her bout Double Battery after the exams 😂😂😂
+Double Battery👓: Don't do that aditya
+Double Battery👓: She get angry 😂😂
+Double Battery👓: With u😂😂
+Adi5423_: Ughhh I don't know what's gonna happen 🥲😂😂
+Adi5423_: She will if she saw this one 🥲😂😂
+Adi5423_: Don't you use insta btw!!!
+Adi5423_: Instagram?
+Double Battery👓: I will but I don't like chatting
+Double Battery👓: 😂😂😂😂
+Adi5423_: Ugh what we are doing now???😂😂😂
+Adi5423_: I didn't meant to write that🥲
+Double Battery👓: She can't understand on that time u must to delete it?
+Double Battery👓: We a chatting 😂😂😂
+Double Battery👓: I mean on ig
+Adi5423_: No worries she don't react much she knows we aren't going to cheat each other so yeah she don't react much on these things soo yea no worries
+Adi5423_: That's what u don't like 😂😂😂
+Adi5423_: Ughh ohkh i see
+Adi5423_: No problem
+Adi5423_: Btw I got one personal question should I ask that !!💀
+Double Battery👓: 😂😂😂😂u cheat her
+Double Battery👓: Oky
+Adi5423_: Naah naah I don't 😂😂😂
+Adi5423_: Have u ever kissed someone!!
+Double Battery👓: She kill u
+Double Battery👓: Nop
+Adi5423_: Actually in starting i cheated her but then I felt so bad for her so I just confessed everything to her and from that day I never cheated her again🙃
+Adi5423_: Ugh ohkh
+Double Battery👓: Mmmmmmmmmmh
+Double Battery👓: 🤣🤣🤣🤣
+Double Battery👓: And u?🤭😂
+Adi5423_: Hehehehehe😂😂😂
+Adi5423_: Ugh yeas i did😂🥹
+Double Battery👓: With her
+Adi5423_: Yaa just with her
+Adi5423_: 1st kiss on 2023's kiss day in Feb🥹😂
+Adi5423_: Uk it's been 3-4 times we kissed but that 1st kiss was like the best one ever just awesome 🥹💫
+Adi5423_: Ugh like fr 1st kiss is so special
+Double Battery👓: Special 🤣🤣🤣
+Double Battery👓: Aditya kisser😂
+Double Battery👓: 3 or 4 times🙄
+Double Battery👓: Still young🙄😂
+Adi5423_: Seriously😂😂😂😂
+Adi5423_: Ugh not like that man😂🥲
+Adi5423_: Kisses are love sign although 🥹😂
+Adi5423_: Yeaa😂
+Double Battery👓: How
+Double Battery👓: Mmmh maybe ur love🤣🤣🤣
+Double Battery👓: Ur 😂😂😂
+Double Battery👓: Woooooooow
+Adi5423_: I mean yeah like at first both the partners feel awkward at first but after that 1st it gets a bit normal so that all that 1st time never recalls that's why
+Adi5423_: Ughhh😂😂😂😂
+Adi5423_: I m not😂😂
+Adi5423_: 🙃🙃💫
+Double Battery👓: Ooooh until now
+Double Battery👓: Ur😂😂😂
+Adi5423_: Yup
+Adi5423_: You double Battery😂😂
+Double Battery👓: Yes
+Double Battery👓: How are u
+Adi5423_: Totally exhausted what bout you
+Double Battery👓: Am good
+Double Battery👓: How about u
+Adi5423_: Yeah like just doing 🙃🤌🏻
+Double Battery👓: What
+Double Battery👓: Hey
+Adi5423_: I m sorry I wasn't able to check the phone
+Adi5423_: 🥲🙃
+Adi5423_: Nothing was just working with a project
+Double Battery👓: Oooh oky worry out
+Adi5423_: Ughh yea yea
+Double Battery👓: How are u
+Adi5423_: I m good what bout you
+Double Battery👓: Also am gud
+Adi5423_: Coooll.....
+Double Battery👓: Where are u now
+Adi5423_: Planing to go to Mars
+Adi5423_: 😂😂
+Double Battery👓: 😂😂😂😂mars
+Double Battery👓: Why are u laugh
+Adi5423_: Ohkh i will not
+Adi5423_: Yaa ya😂😂😂
+Double Battery👓: 🤣🤣🤣🤣
+Double Battery👓: Fuck mars
+Double Battery👓: In Tanzania ...there spread of disease known as red eyes it's dangerous disease 4 people
+Adi5423_: You don't need to worry then animals aren't going to get affected from that naa???😂😂😂😂😂
+Adi5423_: Long range😂😂
+Double Battery👓: U mean me is animal
+Double Battery👓: Yaaaah🤣🤣🤣
+Adi5423_: Yeaaaaaaaaaa😂😂😂😂😂😂😂😂
+Adi5423_: 😂😂😂
+Double Battery👓: Why?
+Adi5423_:    
+Double Battery👓: Oky thank u
+Adi5423_: Just for fun😂😂😂😂
+Double Battery👓: Oky
+Double Battery👓: What this
+Adi5423_: You angry😂😂😂🥹
+Adi5423_: Just completing some projects of python
+Double Battery👓: Am not be like that
+Double Battery👓: Bravo😂
+Adi5423_: Cooool😂😂
+Adi5423_: Hehehehehehe😂😂
+Double Battery👓: Oky
+Double Battery👓: Yaaah
+Adi5423_: Yeaaaaa
+Adi5423_: Btw you were asking
+Adi5423_: Bkut Flask that day na?
+Adi5423_: Bout*
+Double Battery👓: Cold is continued or what
+Adi5423_: It is.....
+Adi5423_: I m like covered my whole body by blanket.....just open the eyes view to see the laptop screen
+Double Battery👓: U freeze over
+Adi5423_: Yeaaa
+Double Battery👓: 😂😂😂
+Double Battery👓: 😂😂😂😂😂😂😂😂
+Adi5423_: 😂😂😂😂😂😂😂
+Double Battery👓: Are u laughing
+Adi5423_: Ig yes
+Adi5423_: Ig no
+Adi5423_: I m neutral 😐😂😂
+Adi5423_:    
+Double Battery👓: What?
+Adi5423_: Nothing
+Double Battery👓: 😂😂I see
+Adi5423_: Hehehehehehehehe😂
+Double Battery👓: I want this background image
+Adi5423_: It's chat gpt image
+Adi5423_: You can search for that if u want so
+Double Battery👓: I want
+Adi5423_: Ohkh search on Google for chat gpt 2 wallpapers
+Double Battery👓: Really
+Adi5423_: Yeaaa
+Double Battery👓: Oooh how are u
+Adi5423_: I m good what bout you
+Double Battery👓: Aditya someone find and phone number is india number
+Adi5423_: Sorry I didn't understand what you said
+Double Battery👓: Someone dm me
+Adi5423_: Who
+Double Battery👓: Is Indian phone number
+Double Battery👓: I don't know....who is it?
+Adi5423_: Send me ss
+Adi5423_: Simple don't reply😂
+Double Battery👓: Is not a bad this 4 him maybe or her
+Double Battery👓: 😂😂😂😂really
+Adi5423_: Nah nah it's casual
+Adi5423_: Yeaaa😂😂
+Double Battery👓: I don't know
+Double Battery👓:    
+Adi5423_: Ugh no worries don't reply her r him simply 😂
+Double Battery👓: Oky I don't
+Adi5423_: Yaa ya
+Double Battery👓: But it really some people in other countries are nonsense
+Double Battery👓: Oky
+Double Battery👓: 🤣🤣🤣but it make me laughing
+Adi5423_: Yeaa yeaa every country having some like them
+Double Battery👓: Like u😂😂😂😂
+Adi5423_: Ughhh why so 😂😂
+Adi5423_: Dammmm😂😂
+Double Battery👓: Call me double battery
+Double Battery👓: Yaaaaah u😂😂😂😂
+Adi5423_: Yeaa Double Battery 😂😂😂😂😂
+Double Battery👓: Why he choose my number😂😂
+Adi5423_: Just me!!!😂
+Double Battery👓: F*ck
+Adi5423_: Animal get special treatment 😂😂😂
+Adi5423_: Youu???😂😂😂🤣
+Double Battery👓: 😂😂😂😂what
+Double Battery👓: Awesomeeee🥴
+Adi5423_: Wait what!!!!😂😂😂🤣
+Double Battery👓: If I said u f*ck u laugh
+Double Battery👓: Wait?🥹🥴🤣
+Adi5423_: Heheheheheheheheheheheheheheheheheheh😂😂😂🤣
+Adi5423_: 😂😂😂🤣
+Double Battery👓: 😂😂😂😂😂
+Double Battery👓: Laughing
+Adi5423_: Wanna get fucked r what!!!😂😂😂
+Adi5423_: Yeaa😂😂
+Double Battery👓: Maybe u
+Adi5423_: Dammm how gonna fucked??😂😂
+Double Battery👓: U want to get that from ur gal😂😂😂
+Double Battery👓: 😂😂😂
+Double Battery👓: I don't know 🥴
+Adi5423_: Everyone want that from the girll🥹🥹😂
+Double Battery👓: 😂😂😂stop taking f*cking shit
+Adi5423_: Girl get fucked how will I suppose to be fucked then?😂😂😂
+Adi5423_: Ouh fuckk😂😂
+Double Battery👓: 😂😂😂stop it
+Adi5423_: Let's continue😂😂😂😂
+Double Battery👓: Stop stop🚫❌
+Double Battery👓: I don't want that f*cking shit
+Adi5423_: You started naa!!😂😂😂
+Double Battery👓: Stop stop 🤣🤣🤣
+Adi5423_: Still!!!😂😂😂😂😂
+Adi5423_: Nah nah🤣🤣🤣
+Double Battery👓: Just do code right now😂😂😂
+Double Battery👓: Whaat😂😂😂
+Adi5423_: Code what fuck???😂😂😂😂
+Adi5423_: Nothing just fuck😂😂🤣
+Double Battery👓: Stop it😂
+Adi5423_: 😂😂😂🤣🤣🤣🤣
+Adi5423_: Fuck you??😂😂😂😂🤣🤣
+Double Battery👓: Am eating now🤣🤣🤣
+Adi5423_: Getting Fucked while eating????😂😂😂
+Adi5423_: Dammmm
+Adi5423_: You multi-talented 🤣🤣😂😂😂
+Double Battery👓: Stop
+Double Battery👓: Why
+Double Battery👓: I don't get
+Adi5423_: Your talent 😂😂😂
+Double Battery👓: 😂😂😂😂
+Adi5423_: 😂😂😂😂
+Double Battery👓: 😂😂😂aaah sometimes u loss ur mind
+Adi5423_: That's this generation doing with there virginity 😂😂🙂
+Double Battery👓: Stooooooooooop😂😂😂
+Adi5423_: We didn't started yettt!!!😂😂😂😂😂😂
+Double Battery👓: U win in this conservation 🤣🤣
+Adi5423_: Hehehehehehehehehe 😂😂😂😂😂
+Double Battery👓:    
+Adi5423_: 😂😂😂🤣
+Double Battery👓: 😂what are you doing?
+Adi5423_: Fucking 😂😂😂🤣
+Double Battery👓: If continue this am sleeping 🥹😭😭🙏
+Adi5423_: With whomm😂😂😂🤣
+Double Battery👓: Alone
+Adi5423_: Ughh this was the last one for sure 😂😂😂
+Adi5423_: Worry out 🥹🫶🏻
+Double Battery👓: Oky
+Double Battery👓: Am not be worry
+Adi5423_: Yeaa yeaa yeaaa
+Adi5423_: Btw uk what
+Adi5423_: Todayb
+Adi5423_: My ex
+Double Battery👓: What
+Double Battery👓: Doing what
+Adi5423_: Forced her friend to mess me and ask for teaching her java and i taught her java today
+Adi5423_: Ugh sorry I got some work that why I left you on seen
+Double Battery👓: Oky just do it bye
+Double Battery👓: Java  as java
+Adi5423_: Nah nah i m free now
+Adi5423_: Yeah i told you naa bout boards so my ex also in the same school as my girlfriend
+Adi5423_: They both having just different section
+Double Battery👓: Oooh oky
+Adi5423_: So she asked me to teach her java for the boards exams
+Double Battery👓: In ur school learn this programming language
+Adi5423_: I taught her bout variables and data type and all today
+Double Battery👓: Uwiiiii
+Double Battery👓: It's good
+Adi5423_: There are 3 divisions by the government to teach in English Medium Schools and Hindi Medium Schools and third one depends on which state you are in
+
+We usually go to English Medium School.....
+Like there are also there sections in every medium school by the government
+Adi5423_: CISCE BOARD
+CBSE BOARD
+UP BOARD
+Adi5423_: CISCE is the hardest one
+Adi5423_: Then cbse then up
+Double Battery👓: Oooooh mh
+Adi5423_: And casually everyone prefers to go in CISCE board
+Adi5423_: Cause the environment and all is better there as compare to cbse and up...
+Double Battery👓: And u
+Adi5423_: Usually CISCE is famous for teaching well English like umid you studying in CISCE your English will be great than any other board.....so yeah usually we prefer CISCE Board....
+Whereas CBSE and UP board is taken by those students more likely who want to join any government jobs.....as cbse is a bit easier than icse and it usually gives the government to permit to sit with less formalities at job applying time
+Adi5423_: So in CISCE they teach Java from class 9th only.....
+Double Battery👓: Still continue cold
+Adi5423_: And in CBSE there is python
+Double Battery👓: It's good
+Double Battery👓: Oky
+Adi5423_: Tho i studied both till 10th CISCE and now in cbse so ik java as well and now working python..... that's why I taught her java today
+Adi5423_: Yeaaaa
+Adi5423_: A lot
+Adi5423_: It will be till half of Feb
+Double Battery👓: Oky I understand
+Adi5423_: null
+Double Battery👓: U freeze
+Double Battery👓: 🤣🤣🤣
+Adi5423_: Me doing fun😂😂😂
+Adi5423_: Yeaaahhhh
+Double Battery👓: 😂😂😂😂fun?
+Double Battery👓: 😂😂😂
+Adi5423_: Fun  with my muffler 😂😂
+Double Battery👓: Who is muffler?
+Adi5423_: It's a piece of cloth people wear it on there neck 🧣 like this emoji....
+Adi5423_: It look cool plus it protects from cold too
+Adi5423_: You can search on Google for that
+Adi5423_: Uttar Pradesh is more familiar with mufflers 😂😂
+Double Battery👓: Oky I will understand what u talk about
+Double Battery👓: Aaaaah😂😂😂
+Double Battery👓: Oky oky
+Adi5423_: Uk what Uttar Pradesh is like all the filled with dons gangsters and all like so people like the muffler more here as it gives very gangster look all the way
+Adi5423_: I can even send you one of my pic with muffler
+Adi5423_: Should I?
+Adi5423_: Huhhh😂😂
+Double Battery👓: No
+Adi5423_: I will send 😂😂
+Adi5423_:    
+Adi5423_: Uk what the left one in this picture was one of oldest friend......
+Adi5423_: But we broke up few week ago
+Double Battery👓: Why🤣🤣🤣
+Double Battery👓: Middle person is u
+Adi5423_: Leave it
+Adi5423_: Ugh yeahhh
+Adi5423_: And that green circle is the muffler
+Double Battery👓: 😂😂😂😂
+Adi5423_: 😂😂😂
+Double Battery👓: Oooh I see
+Double Battery👓: Eeeh
+Adi5423_: Yeaa
+Double Battery👓: I need to sleep
+Adi5423_: Me too
+Double Battery👓: Oky bye
+Adi5423_: Byeee good night
+Double Battery👓: Adity mornie
+Double Battery👓: Ur going school without uniform
+Adi5423_: Morning Gift
+Adi5423_: Nah that's not the picture from school it was where I was living a year ago
+Adi5423_: R 2 years ago i guess
+Double Battery👓: Ooooh oky
+Double Battery👓: That bro ask me either am married or unmarried 😂😂😂
+Adi5423_: Say him today is your marriage 😂😂😂
+Double Battery👓: Hahahahahhaahh 🤣🤣🤣
+Adi5423_: 😂😂😂😂
+Adi5423_: You know today is very special day here in India
+Double Battery👓: Why
+Adi5423_: You know bout Hindu Muslim
+Adi5423_: Religion
+Double Battery👓: Yah I know
+Double Battery👓: Mmmh so u don't go school
+Adi5423_: Today it became like national holiday
+Double Battery👓: Ooooh really
+Adi5423_: Ohkh so in Hindu religion there one God
+Adi5423_: Named "ram"
+Adi5423_: Must you heard of
+Double Battery👓: Eeeeeh not Allah
+Adi5423_: "Jay Shree Ram"on the internet
+Double Battery👓: Nop
+Adi5423_: Ugh ohkh no worries there one temple used to be in Ayodhya City the birth place of Shree Ram
+Double Battery👓: Not Allah
+Double Battery👓: Mmmh maybe
+Adi5423_: There used to be a temple at that 500 years ago Muslims broke that while India was occupied by Old Dynesties in different in different different region so they broke that temple and made a Mosque for Muslims later many tried to make the things normal as it was the birth place of ram people faught many times with each other
+Adi5423_: To make the temple replacing the Mosque
+Adi5423_: But
+Double Battery👓: So ur a Muslim or hindu
+Double Battery👓: What
+Adi5423_: That remain the same for many years like at the birth place of Shree Ram there was a mosque Hindus protested that many many times
+Adi5423_: Finallyy this matter gone to Indian Court
+Adi5423_: I m Hindu
+Double Battery👓: Mmmmh u not believe in god
+Adi5423_: Where they were was , really a Hindu temple r not before the Muslim Mosque.....and they came to the decision yes there was a temple and it's the birth place of Ram.....then this case gone to Supreme Court to handle as it was the matter of not just Ayodhya citya but the matter of whole country now between Hindus and Muslims
+Adi5423_: So finally in 2019 the supreme court gave out the decision yes they will replace the Mosque with Temple for the peace of Shree Ram
+Adi5423_: I do.......
+Adi5423_: Then finally they collected donation and all and alll.....it took a very long time to make the temple finally....and today is the inauguration of that temple
+Adi5423_: And like the whole country was waiting for this specific moment from decades.....
+Adi5423_: Many lives lost to make the temple
+Adi5423_: And finally today that's alll equal Hindus won with the Hindu Temple on the Birth Place of Shree Ram💫
+Adi5423_: And that's something any Indian/hindu can't elaborate as just with words
+Double Battery👓: I will check u wait
+Adi5423_: Suree....
+Double Battery👓: Yaaah sureee
+Double Battery👓: I will check u after exam
+Double Battery👓: I have an exam today so I will check u
+Adi5423_: Ugh ohkh no problem all the best
+Double Battery👓: Hi
+Adi5423_: Hey
+Adi5423_: You done with your paper?
+Double Battery👓: Nop
+Double Battery👓: Still all this week I have exam
+Adi5423_: Damm.....🙃
+Adi5423_: You should focus on that then🙃
+Adi5423_: We can talk a week later then if it's like that no worries
+Double Battery👓: Oky
+Double Battery👓: But am failed again aditya
+Double Battery👓: And am worry
+Adi5423_: It was your exam today only na how you got the results on the same day
+Adi5423_: You don't need to worry man....
+Adi5423_: Uk what
+Adi5423_: Whenever I get afraid r don't get the courage come up over anything.....
+Adi5423_: Uk what I do to make my self calm and work 100 again on my work
+Adi5423_: I keep my right hand on my heart and keep on repeating "All izz well"again and again
+Adi5423_: And that after a while makes me reel so relaxed and calm
+Adi5423_: You doo the same
+Double Battery👓: U know that movie all izz wel
+Double Battery👓: I think I am done wrong thongs
+Double Battery👓: Things
+Double Battery👓: Your the that u know how I feel
+Adi5423_: Ughh i dont but actually theres a movie here in india named 3 idiots and in that movie they do this
+Adi5423_: No worries man you tried you best naa that matters marks will come next semester if didnt this time......
+Adi5423_: just be sure with your efforts towards your work naa 🥹💫
+Adi5423_: Yeaa i totally understand that u dont need to worry bee chilled after giving the exam even if you didnt did much well in that next time you will
+Double Battery👓: One
+Double Battery👓: Yaaaah it's good
+Double Battery👓: Thank aditya
+Adi5423_: Yeah i got that.....
+Adi5423_: Yeaaaa.....
+Adi5423_: Friends dont say that to each other
+Adi5423_: 🥹💫
+Double Battery👓: Really let me pray first then I will be back
+Adi5423_: Suree.....
+Double Battery👓: Oky
+Adi5423_: Yeeaaa
+Double Battery👓: Am already done praying
+Double Battery👓: Now I start to learn
+Double Battery👓: My start today
+Adi5423_: Learn what.....
+Adi5423_: Great
+Double Battery👓: Oky
+Double Battery👓: My all subject
+Adi5423_: Ouhhkhh youu doo thenn
+Double Battery👓: Already
+Adi5423_: Great then
+Double Battery👓: Am stay
+Double Battery👓: But I wanna to ask u something
+Adi5423_: Yeaa yeaa go aheah
+Double Battery👓: My friend a bad pple what should I do
+Double Battery👓: They cause me to fail because of them
+Adi5423_: That doesn't matter man
+Adi5423_: Friends are like
+Double Battery👓: Like what
+Adi5423_: They will make you fail one time next time will support you on your worst....tho they will even guide you for your best sometimes it's just the matter of things you all to get yourself affected by that
+Adi5423_: Let it what they make you do
+Adi5423_: Let it be*
+Adi5423_: They make you fail pass r disrespect by your grades just give yourself the assurance that how much are you efforting and pusshing up yourself for your work for your subjects and marks.....
+Adi5423_: It's just to make yourself fail r pass , feel good r bad , give yourself respect even after failing r give yourself courage to try for next after failing
+Adi5423_: No one's bond gonna affect you it's just you for your pros and cons
+Double Battery👓: Yaaah aditya ur my friend even never seen each other
+Double Battery👓: Yeah sure
+Adi5423_: They will make you feel like they are affecting you but in real you are just the one to make yourself even better r just more worse......
+So better you understand what I said yeaa!!....
+Adi5423_: Heheheheh that's what cool friends do so i guess!!🥹🥹💫
+Adi5423_: But you are senior from me like yeah you are 2 years older than me 🤯
+Double Battery👓: Yah I will understand that
+Adi5423_: Yeaa
+Adi5423_: Yeahh so fuck them be best with yourself just
+Double Battery👓: Yaaah but still u not ignore me sure
+Double Battery👓: Oky I will be
+Adi5423_: Hehehehe yeaa i don't 🥹
+Double Battery👓: Why
+Adi5423_: When we gonna meet 😂🥲
+Double Battery👓: I will come india one day and I see u i wish
+Adi5423_: Just because you are also in a good nature.....
+Adi5423_: Yeaahhh suree......🥹🥹🫶🏻
+Double Battery👓: U will a famous coder 🤭
+Adi5423_: Even i'll also wish to come to Africa to someday and have a get together 🥹
+Double Battery👓: Really? I think I am interested more
+Adi5423_: Dammmm I wish be that hehehehe thankyouu🥹🥹💫
+Adi5423_: More like??
+Double Battery👓: 😂😂😂yah just come after getting money
+Adi5423_: Yeahh surree 🥹🥹😂
+Adi5423_: Uk what
+Double Battery👓: I know much things but I can't do it and I don't know why
+Double Battery👓: 😂😂😂
+Adi5423_: What type of things .....
+Double Battery👓: U will I see u in another level my friend 4 sure😂😂
+Double Battery👓: I don't know
+Adi5423_: My parents say me that get passed in 12th we will send you Banglore for that tech environment and culture to study more and earn
+Adi5423_: Dammm mannnn 😂😂💫🥹
+Adi5423_: It means a lot fr!!....🥹🫶🏻
+Adi5423_: What kind of things u talking bout
+Double Battery👓: Where banglore?
+Double Battery👓: Yaaaah
+Double Battery👓: Am stressed and afraid now 4 my subject of this year
+Double Battery👓: I don't want to repeat any subject
+Adi5423_: Actually its a city in India, like it's the technology hub of India
+Adi5423_: All the technical work and all stuff works at the peak......
+Adi5423_: So yeah like it will be a better environment for the one who loves all that
+Double Battery👓: U need to path oky
+Adi5423_: But as uk I don't wanna study 12 even so I don't think so they gonna send me there 😴but ni worries one day I will go my own there
+Double Battery👓: Like u 😂😂😂
+Double Battery👓: Yaaah sure😂😂😂
+Double Battery👓: With ur money
+Adi5423_: Ughh the much i can say you is you can do 2 things now
+Adi5423_: Just keep thinking bout the results and keep yourself in stress and all.....
+Adi5423_: Or
+Adi5423_: Just start working for what you gonna do next
+Adi5423_: Trust the process
+Adi5423_: Trust yourself
+Adi5423_: If you did well go not gonna repeat it , and I pray for that !!
+Adi5423_: And uk what Hinduism says that if we pray for someone else and take god's name no matter in what sense we say if it's good words that will be done for sure.....
+Adi5423_: And God listen to kids first naa 🥹heheheheh I will pray for you don't worry man
+Adi5423_: Prepare for the next
+Adi5423_: And trust yourself
+Adi5423_: You can't repeat subjects then why u thinking of that
+Adi5423_: Be positive naa
+Double Battery👓: Sure u pray 4 me🥺😭
+Adi5423_: Yeaa
+Adi5423_: Yeeaaa hehehehehehe😂😂😂🥹
+Double Battery👓: Because am not study in past
+Adi5423_: Yeaaa with my earnings heheheh
+Double Battery👓: I will my friend
+Double Battery👓: 🤤😂😂😂
+Adi5423_: Yeaa i will......🥹🫶🏻
+Double Battery👓: I will
+Adi5423_: Worry out my friend 🫂💫
+Double Battery👓: Promise me
+Adi5423_: Ughh thennn that's your mistake naa!!.....🙃
+Adi5423_: No worries
+Adi5423_: Be more prepared for next one
+Adi5423_: Yeaaa
+Adi5423_: I do 🥹you chill out....and be positive
+Double Battery👓: 😭😭😭😭I will my best
+Double Battery👓: Thank aditya
+Double Battery👓: 😂😂😂that fuck hug
+Adi5423_: Yeaaaaaaaaaa heeeeee 🥹🥹🥹💫
+Adi5423_: Friends don't say that 🥹💫
+Adi5423_: Ughhh I m that old 90's lover type uk 😂😂
+Like hugs and holdings hand and all hehehehe😂💫
+Double Battery👓: Why
+Double Battery👓: 🥹😭
+Double Battery👓: 😂😂😂😂u make me laughing
+Adi5423_: Ugh just casually what need of sorry thankyou and all in friends they understand each other bee there for them at there worst and best just now worries then they understand each other simplee
+Adi5423_: Dammmmm 😂😂😂
+Adi5423_: Laugh out loud 😂😂😂
+Double Battery👓: All izz well😂😂😂
+Double Battery👓: Yaaah sure
+Adi5423_: Hehehehehehehehehehe yeaaa ALL IZZ WELL😂💫
+Double Battery👓: U see me and u are different u know code and me chat with u
+Adi5423_: Hahahahaha😂😂
+Double Battery👓: I like this all izz well😂😂
+Adi5423_: Ughhh huhh we got connected cause of code only right!!💀💫
+Double Battery👓: 6ah
+Double Battery👓: Yah
+Double Battery👓: I mean now u do code
+Adi5423_: I don't mannn😭😭😭
+Adi5423_: I forgot all the basics 🥺
+Adi5423_: I need to study againn🙃
+Double Battery👓: Why
+Double Battery👓: How
+Adi5423_: I forgot the basics
+Double Battery👓: How and why
+Adi5423_: Like I started learning the new concepts and all so like in that the basics weren't included so it's been a long since I prepared the basics and with time forgot....I get to know that today I have to revise all
+Double Battery👓: Mmmh yah u will
+Adi5423_: Today I took class 12th book of python to study more
+Double Battery👓: Mmmh ur bad boy😂😂😂
+Adi5423_: Daammmm I ain't 😂😂😂
+Double Battery👓: 😂😂😂😂
+Double Battery👓: Aditya watch football
+Adi5423_: Ughh nopes🥲🙃
+Double Battery👓: Why?
+Adi5423_: I never watched so don't feel like i play basketball just
+Double Battery👓: Oooh so it's ur reason
+Adi5423_: Yeaaa.....you any sports??
+Double Battery👓: Football I like
+Adi5423_: Ouhh i see
+Double Battery👓: Where u see?😂
+Adi5423_: Here on WhatsApp😂😂😂😂
+Double Battery👓: 😂😂😂😂what a fu*ck
+Adi5423_: Whole Fuck
+Double Battery👓: 😂😂😂😂u coder
+Adi5423_: Yeaaaa😂😂...... Wanna give some hottness??😂😂😂😂💀
+Double Battery👓: What?
+Adi5423_: Nothing😂
+Double Battery👓: Say 😂
+Adi5423_: Nah nah leave 😂
+Adi5423_: Mannn why don't you know Hindi I wanna tell you a lot of things but in the accent of Hinglish 😂😭😂😭😂
+Double Battery👓: Yaaah tel me
+Double Battery👓: I want to learn ur language
+Adi5423_: Leave 🥲🥲🥲
+Double Battery👓: Why
+Adi5423_: It's not like English it's hard 🥲
+Double Battery👓: Just say my love in Indian language
+Double Battery👓: Yah sure
+Adi5423_: Hindi = मेरा प्यार , Hinglish (Hindi in English alphabets) = Mera pyaar
+Adi5423_: Yeaa 🙃
+Double Battery👓: Waaaah wow
+Double Battery👓: Mh another word
+Adi5423_: Hehehehehehe🥹
+Adi5423_: Ummm.....
+Double Battery👓: Yah tel me
+Adi5423_: You give words
+Double Battery👓: My friend
+Adi5423_: मेरा दोस्त , mera dost
+Double Battery👓: My is mera
+Adi5423_: Yess.....
+Double Battery👓: And dost is friend
+Adi5423_: Yupppp
+Adi5423_: You is tum
+Adi5423_: तुम
+Adi5423_: I m your friend
+Mai tumhara dost hui
+Double Battery👓: Waaaah good
+Adi5423_: You know
+Double Battery👓: Mh
+Adi5423_: There's a very very popular meme in India by this
+Adi5423_: A little kid
+Adi5423_: Says
+Adi5423_: That
+Double Battery👓: Wht
+Adi5423_: Mai tumhara dost hui in (kashmiri accent , he's like soo cute that's why he went viral everywhere) Kashmir is a hilly area place in india at the top of the India Kashmir is situated there
+Adi5423_: Mai tumhara dost hui means I m your friend
+Adi5423_: Wait I sending you
+Double Battery👓: Oky
+Adi5423_: https://youtube.com/shorts/0R2933TUdPc?si=dQOsGUvrUsRZnkfT
+Double Battery👓: Indian language
+Adi5423_: Yes hindi
+Double Battery👓: Oky if I know I will chat india with u😂😂
+Double Battery👓: It take a long time
+Adi5423_: A very very long ik...
+Adi5423_: Sure😂😂
+Double Battery👓: Shit
+Adi5423_: 🗿🗿🗿🗿
+Double Battery👓: Yaaah
+Adi5423_: Yaaa
+Double Battery👓: 😂😂😂😂
+Double Battery👓: If
+Double Battery👓: 😂😂😂
+Adi5423_: else if(true)😂😂 <This message was edited>
+Double Battery👓: Else(wrong)😂😂😂
+Adi5423_: switch ('Else');
+😂😂😂
+Double Battery👓: Break
+Statement
+Double Battery👓: 😂😂😂
+Adi5423_: exit
+Adi5423_: 😂😂
+Double Battery👓: 😂😂😂😂
+Adi5423_: return code 0😂😂
+Adi5423_: No English and all I love coding language while chatting huhhh😂🥲
+Double Battery👓: }
+Adi5423_: ;
+Double Battery👓: Class Adity{
+Adi5423_: Scanner gift = new Scanner (System.in);
+Double Battery👓: Public void main(String[ ]args){
+Double Battery👓: Scanner.
+Adi5423_: Syntax Error (capital 'p')😂
+Double Battery👓: 😂😂😂😂
+Adi5423_: System.out.printl("This language is cool!!😂😂");
+Double Battery👓: This language is cool!!😂😂
+Adi5423_: Hehehehehehe 😂😂
+Double Battery👓: Class bike{
+  Void run();
+Adi5423_: int gift_africa[20];
+Double Battery👓: It's inheritance
+Double Battery👓: Waaaah I like that chatting code
+Adi5423_: I forgot most of the things from java base 🥲 switching to python made me forgot that
+Adi5423_: Mee too heheheh
+Double Battery👓: Class aditya{
+  Public void main(String[ ]args){
+     System .out.println("hellow mera dost");
+}
+}
+Adi5423_: Mannn what's the use of static then
+Adi5423_: Like it's
+Double Battery👓: If u don't need to access any value
+Double Battery👓: Yaah
+Adi5423_: public static void main(String[] args){
+System.out.println("Damm you wrote in hinglish");
+Adi5423_: Ouhhh i seee
+Double Battery👓: If you use if statement u make statement of true or false if u print
+Double Battery👓: Yaaah also final
+Adi5423_: Yeaa yeaa this if else one is clear like when i started learning that for first it was confusing that time later I got familiar then
+Double Battery👓: Yah sure u will confuse about this
+Double Battery👓: For the first time
+Adi5423_: Yeaa
+Double Battery👓: Sure
+Adi5423_: Uk what when I was teaching my ex java 2 days ago
+Double Battery👓: Ur ex😂😂😂😂
+Double Battery👓: Also u remember about her
+Double Battery👓: 🤣🤣🤣
+Adi5423_: I got so confused how should I explain the iteration in string for 1st time 😂😂
+Adi5423_: Aree don't i didn't told you what happened in last 4 days 💀💀
+Adi5423_: Uk whatt man
+Double Battery👓: Because ur lover😂
+Double Battery👓: Tel me
+Double Battery👓: U don't
+Adi5423_: Lover to make someone learn computer science😂💫
+Adi5423_: Heheehe tricked u naa 😂
+Adi5423_: Damm uk what
+Adi5423_: Some days before
+Adi5423_: See like when i broke up with my ex last year i blocked her naa so like
+Adi5423_: As I told you about
+Double Battery👓: 😂😂😂
+Double Battery👓: Yah sometimes
+Double Battery👓: Yaaah sure
+Adi5423_: Class 10th boards exams and all
+Adi5423_: So like
+Double Battery👓: Oooh
+Adi5423_: My ex and gf is in the same school
+Adi5423_: Like my present one and my past one
+Double Battery👓: 😂😂they kill u
+Double Battery👓: 🥴🥴🥴
+Adi5423_: So like they both are having boards this year although strting from last of Feb only
+Adi5423_: So like
+Adi5423_: My ex is blocked by me naa
+Adi5423_: So like my ex said to one of her friend who's my friend also
+Double Battery👓: Why she blocked u?
+Adi5423_: To mess me
+Adi5423_: I blocked her
+Double Battery👓: Sure
+Double Battery👓: 🙄
+Double Battery👓: 😂😂u do the same
+Adi5423_: I blocked her first 😂😂😂🥲
+Adi5423_: She didn't blocked me 😂
+Adi5423_: To mess me and like her friend said to me
+Adi5423_: That Nikita was saying boards are coming can you teach her computer for the exams
+Adi5423_: So like
+Double Battery👓: 😂😂😂u will
+Adi5423_: I was confused should I agree with that r I ask my gf that what to do 😴
+Adi5423_: Later I asked Arohii and she was like
+Double Battery👓: What
+Double Battery👓: 😂
+Adi5423_: I m not stopping you , you can do if u want so
+Adi5423_: And I agreed to teach her java
+Adi5423_: Till the exams
+Adi5423_: On Google meet
+Double Battery👓: Good
+Double Battery👓: Sure
+Adi5423_: And like that's how my ex got again on me haa this time not to patchup but this time to get taught by mee huhhhh😂💫
+Double Battery👓: Mmmmh 😂😂😂
+Adi5423_: Heheheheh you see popularity 😂😂💫
+Double Battery👓: Yaaaah popular😂😂😂
+Adi5423_: Hihihihihihihihihihihihihihihi😂😂😂
+Double Battery👓: What time is it
+Double Battery👓: Hohohohohohohoho😂😂😂
+Adi5423_: Santa Claus 😂😂😂😂😂
+Adi5423_: Exactly 1:46
+Adi5423_: There it is 11:47 right?
+Double Battery👓: 17
+Double Battery👓: Waaaaah
+Double Battery👓: 11:18
+Adi5423_: Ugh yes yea yea
+Adi5423_: 1:48 here
+Double Battery👓: Yaaaah
+Adi5423_: Wait what i tricked
+Adi5423_: Seee
+Adi5423_: Out time zone having the same numbers in minutes
+Adi5423_: Like the last digit
+Adi5423_: Anddd
+Adi5423_: Second last digit
+Adi5423_: Half of last digit
+Adi5423_: See like
+Adi5423_: If there's
+Adi5423_: 11;18
+Adi5423_: Here it would be 1:48
+Adi5423_: 11 changed to 1 , 2 hours diff
+Double Battery👓: Yaaaah
+Adi5423_: And then in minutes
+Adi5423_: The lst digit is same
+Double Battery👓: Yahhhh
+Adi5423_: Yours 18 and mine 48
+Adi5423_: So off
+Adi5423_: If*
+Adi5423_: U want to get my time
+Adi5423_: Just half lst digit and place at lst second
+Adi5423_: Here ,
+Double Battery👓: Yah
+Double Battery👓: Which time u sleep
+Adi5423_: 18 to half of 8 -- 4 means 48.....
+Adi5423_: Dammm I m using brain at useless things
+Adi5423_: Just wasting time huhh
+Adi5423_: Whenever I feel sleepy
+Double Battery👓: 😂😂😂it's just for relaxing
+Adi5423_: Hehehehe yeaa 😂😂
+Double Battery👓: Mmmmh not for time
+Adi5423_: Umm Yeaa ig
+Double Battery👓: Why
+Adi5423_: Just casually😂
+Double Battery👓: Oooh sure
+Adi5423_: Yea
+Double Battery👓: Am tired
+Double Battery👓: Give me story
+Adi5423_: What type of
+Adi5423_: Use ai 😂💃🏻
+Double Battery👓: Anything
+Adi5423_: Ugh I m bad stories🙃
+Double Battery👓: Yah
+Adi5423_: Use ai I m telling na
+Adi5423_: 😂
+Double Battery👓: Hahhahahh😂😂
+Adi5423_: Heheheheheheh😂😂
+Double Battery👓: Tel me
+Double Battery👓: 🤭
+Adi5423_: You tell naa 🥹 I m bad at stories 🙂🙃
+Double Battery👓: Anything
+Adi5423_: Speechless huhhhh🙃🙃🙂
+Double Battery👓: 😮‍💨
+Adi5423_: 😴😴😴😴
+Double Battery👓: Now
+Adi5423_: Feeling sleepy huhh
+Double Battery👓: Oky if u are
+Adi5423_: Ugh yea yeaa...will talk tomorrow then....
+Double Battery👓: Oky byee
+Adi5423_: Byee byee....see yaa
+Double Battery👓: Hi
+Adi5423_: Hey
+Double Battery👓: Yes how are u
+Adi5423_: Cool you?
+Double Battery👓: Am sick🥶😓
+Double Battery👓: Aditya
+Adi5423_: What happened
+Adi5423_: Yea yea
+Double Battery👓: I miss to chat with u cause
+Double Battery👓: I have seen something which is bad enough today
+Adi5423_: Ughhh mannn.....I was busy whole day today....
+Adi5423_: Mirror??😂😂
+Double Battery👓: 4 what
+Double Battery👓: U have already done  or
+Adi5423_: Editing
+Double Battery👓: What
+Adi5423_: It our republic day today 26 January
+Adi5423_: Going on
+Adi5423_: A short reel just
+Double Battery👓: So u don't go school
+Adi5423_: It was holiday
+Double Battery👓: Eeeeh don't tel me u sleep and coding only
+Double Battery👓:    
+Adi5423_: Hehehehehehehehehe🥹🥹🥹🥹🥹🥹🥹
+Adi5423_: How do you know that🥹😂
+Adi5423_: Make like what
+Double Battery👓: I don't but I see many pple
+Double Battery👓: Voting system
+Double Battery👓: It's ur day
+Adi5423_: Yeaaaa
+Double Battery👓: 😂😂😂
+Adi5423_: I was asking what to make in that img you gave
+Double Battery👓: That kind of system of voting
+Adi5423_: That's on you tube ig
+Double Battery👓: If u select the place it count ur vote
+Adi5423_: It seems like that from YouTube
+Adi5423_: Yea yea u wanna do that in coding?
+Adi5423_: I mean python?
+Double Battery👓:    
+Adi5423_: Here click on icon next to camera only on you entry section where u write text to someone
+Adi5423_: U will se a option of Poll
+Adi5423_: Click on that
+Adi5423_: POLL:
+Which language
+OPTION: Python (2 votes)
+OPTION: Java (2 votes)
+OPTION: Java Script (2 votes)
+
+Adi5423_: Just like you can create from there
+Double Battery👓: Where
+Double Battery👓: Steps
+Double Battery👓: Good
+Double Battery👓: How do u creat
+Adi5423_:    
+Double Battery👓: POLL:
+Aditya like go to school or not
+OPTION: Yes, he can (0 votes)
+OPTION: No,he can't (2 votes)
+
+Double Battery👓: Oooh like this
+Adi5423_: Yeaaa
+Double Battery👓: Thanks
+Adi5423_: School.....Shitttt🙃😂🙂🙂🙂🙂💃🏻💃🏻💃🏻
+Double Battery👓: 😂😂😂😂😂😂😂
+Double Battery👓: I know u don't like school
+Double Battery👓: U know the indian movie known dev
+Adi5423_: Hhahahahahahaha 😂😂😂😂😂🖐🏻
+Double Battery👓: Just go
+Adi5423_: Never ever💃🏻😂
+Double Battery👓: U fly like aeroplanes
+Double Battery👓: 🤣🤣🤣🤣
+Double Battery👓: I have flu today😂😂😂
+Adi5423_: Huhhhhhhhhhjh give the ticket money then😂😂😂😂
+Adi5423_: Again🙂
+Adi5423_: Take care man
+Adi5423_: Don't do that it will be serious after some time 🙂
+Double Battery👓: 😂😂😂😂really
+Double Battery👓: Yaaah
+Double Battery👓: 😭😭😭😭😭my sausage
+Adi5423_: Yeaaaa😂😂😂
+Adi5423_: What happened 🙂🙂🙃🙃
+Double Battery👓: Oooh one day when I got money 🤣🤣🤣
+Double Battery👓: My sausage is spoiled
+Adi5423_: Ughhh hmmm sure😂😂
+Double Battery👓: Yaaaah
+Double Battery👓: 🤣🤣🤣
+Adi5423_: I never ate that btw uk😂
+Double Battery👓: 😭😭😭😭
+Adi5423_: Make new one😂😂😂😂😂😂😂😂😂😂😂🙃🙃🙃🙃🙃🙃🙃
+Double Battery👓: I don't store it in fridge well
+Double Battery👓: It's yummy
+Double Battery👓: Why u don't
+Double Battery👓: I will buy in super market 😭😭
+Double Battery👓: Expensive
+Adi5423_: It looks wierd🙃
+Adi5423_: I wanna see alll that like local things of Africa can you please record a vdo tomorrow to show me your area🥹🥹
+Double Battery👓: 😂😂😂
+Adi5423_: Why
+Adi5423_: It's not common food here in India🙃🤞🏻
+Double Battery👓: Mmmmh no time am going university early also am back at night
+Double Battery👓: What common food in india
+Adi5423_: At morning in middle way
+Adi5423_: Like the roads
+Adi5423_: The shops
+Adi5423_: That environment there
+Adi5423_: Just start you see casually
+Double Battery👓: Ooooh if
+Adi5423_: What z
+Adi5423_: What
+Adi5423_: *
+Adi5423_: Shit my keyboard
+Adi5423_: Yea please
+Adi5423_: Rice and Daal?
+Adi5423_: Wait
+Adi5423_: Lee mee search
+Adi5423_: What we call daal in English
+Adi5423_: I forgot
+Adi5423_: Ugh no i remember
+Adi5423_: Pulses
+Adi5423_: Rice and pulses with some pickle
+Double Battery👓: What
+Double Battery👓: Daal
+Double Battery👓: Pulses?🙄
+Adi5423_: U don't know pulses 🙂🙃
+Double Battery👓: 😂😂😂do u like?
+Double Battery👓: what are u doing?
+Double Battery👓: Show me ur work done
+Adi5423_: Yea it's like every Indian eats rice and pulses by his her childhood till the old age....it our most common food
+Adi5423_: Watching reels
+Adi5423_: I m not working now
+Adi5423_: Just watching reels
+Adi5423_: How you now??
+Adi5423_: How's your health I meant!!....
+Double Battery👓: Am gud how about u
+Adi5423_: Yeaa mee also good
+Double Battery👓: Well
+Double Battery👓: What are u doing
+Adi5423_: Going to have some food
+Adi5423_: Wbu
+Double Battery👓: Gud
+Adi5423_: Cool
+Double Battery👓: What are u doing
+Adi5423_: Currently lacking 😂😂
+Double Battery👓: 4 what
+Adi5423_: Lacking for a system to codeee😭🖐🏻
+Double Battery👓: 🤣🤣🤣🤣
+Adi5423_: 🥹🥹🥹
+Adi5423_: Good Afternoon
+Double Battery👓: How are u
+Adi5423_: I m good what bout youu man
+Adi5423_: All good??
+Double Battery👓: Yah all iz well
+Adi5423_: Dammm🥹
+Adi5423_: Uk what last day
+Double Battery👓: Mmmh today or what
+Adi5423_: Last day I was just watching a podcast
+Adi5423_: And i get to know a lot of things bout Africa
+Adi5423_: And damm likee
+Adi5423_: Huhhhh
+Adi5423_: I was about to ask a lott like a lot of questions too youu.....
+Adi5423_: But it was too late so i thought of asking next day (like today)
+Adi5423_: Unfortunately I forgot each and everything 🥹🥹🥹😂😂🥲
+Adi5423_: What to ask now 🥲
+Adi5423_: Idk
+Double Battery👓: Learn again
+Double Battery👓: Anything
+Adi5423_: It's 1hr video don't wanna see again🥲🥲🥲
+Adi5423_: Tell something bout Africa
+Double Battery👓: 😂😂😂😂
+Double Battery👓: I will check u after back home
+Adi5423_: Ohkh....
+Adi5423_: Good Morning 🌄
+Double Battery👓: Mornie how are u
+Adi5423_: I m good how u doing.....
+Double Battery👓: Nothing
+Adi5423_: Uk someone missing talking to you......🙃
+Double Battery👓: Who
+Adi5423_: You don't know who??🙂
+Double Battery👓: 😭😭😭
+Adi5423_: 😭😭
+Double Battery👓: Aditya my card is drowning in atm
+Double Battery👓: And I don't have money 4 sure😭😭
+Adi5423_: Don't u use online payment
+Adi5423_: I mean
+Adi5423_: In atm
+Adi5423_: There's also the feature to withdrew the cash
+Adi5423_: By scanning the QR only
+Adi5423_: If you linked your atm and online payment system
+Adi5423_: You may search on google for your atm
+Double Battery👓: I need money today
+Adi5423_: Yeah I m saying that only
+Adi5423_: You may search on google
+Double Battery👓: There kind of system in our country
+Adi5423_: You saying you don't have enough money in your account?
+Adi5423_: R u saying there's a problem with you atm card....
+Adi5423_: I thought u saying this actually
+Adi5423_: Like we can scan QR code in atm and withdrew cash by atm without the card
+Adi5423_: If we linked the online payment system
+Double Battery👓: I can't do that this Is done in bank branch
+Adi5423_: Ugh ohkh.....
+Adi5423_: You should ask your friends for cash then
+Adi5423_: 🥲🙃
+Adi5423_: They must help you....
+Double Battery👓: I will
+Adi5423_: Hope that work out....
+Double Battery👓: I think
+Adi5423_: You be positive you will get the way
+Adi5423_: Think positive i mean
+Double Battery👓: Yah I will my love worry out😂
+Adi5423_: Umm hmm worry out😂🤌🏻💫
+Double Battery👓: 🤣🤣🤣
+Adi5423_: You reached home?
+Double Battery👓: Yah sure I will
+Adi5423_: Umm hmm hmm
+Adi5423_: You all good na?
+Adi5423_: I mean yeah all going good there na?
+Double Battery👓: Yah but god help I believe
+Adi5423_: Yeaa.....🙂🙃
+Adi5423_: It'll be great soon 🙃🤌🏻
+Double Battery👓: Yaaaaaah🤣🤣💵
+Adi5423_: Why you laughing 🥲🙃
+Double Battery👓: All is wel
+Double Battery👓:    
+Adi5423_: It looks like it's any Indian movie right??
+Adi5423_: I don't remember exactly but it looks like a bit from Bollywood movie only ig
+Adi5423_: Idk exactly
+Double Battery👓: Yaaah sure
+Double Battery👓: Yaaah
+Adi5423_: Which one is that??.....
+Double Battery👓: I don't understand
+Adi5423_: Ugh ohkh i see
+Double Battery👓: Mh tel me
+Adi5423_: Idk i rarely watch movies and all
+Adi5423_: 🙃
+Double Battery👓: Why u not code
+Adi5423_: I need new laptop mannn😭😭😭😭😭😭😭😭😭
+Adi5423_: I m totally fucked up in these fricking shit things school and all
+Double Battery👓: Buy
+Double Battery👓: Why u need new
+Double Battery👓: 😂😂😂😂😂
+Adi5423_: I want to do my projects I need the new system to do that😭
+Adi5423_: Financial problem these days🥲
+Double Battery👓: Oooh sorry
+Adi5423_: Mine one to old and totally fucked up🙃
+Double Battery👓: Why
+Adi5423_: No worries I m used to of it now days🙂
+Adi5423_: It's been a decade with that particular laptop 🙂
+Adi5423_: It's too fricking old
+Double Battery👓: Aaah oky
+Adi5423_: 🙃🙃
+Double Battery👓: What🤣🤣
+Adi5423_: Nothing 🥲
+Adi5423_: I wanna meet you 🥲🥲🙂
+Double Battery👓: When ,where🤣🤣
+Double Battery👓: Maybe it's a dream but I believe one day
+Adi5423_: Come here , in India 🥺🙃
+Adi5423_: For sure🙃
+Double Battery👓: Money and fly with✈️
+Double Battery👓: Yah
+Adi5423_: Hmmm....
+Double Battery👓: 🤣🤣🤣🤣
+Double Battery👓: Yaaah sure am telling u
+Adi5423_: Yea yea one day will for sure 🥹💫
+Adi5423_: Mee going for school
+Double Battery👓: Oky
+Adi5423_: Came back😂🤌🏻
+Double Battery👓: Why early
+Adi5423_: It isn't early......
+Double Battery👓: Hellow
+Adi5423_: Heyy
+Adi5423_: Wassup
+Double Battery👓: How are u
+Adi5423_: Tired.....wbu
+Double Battery👓: 😂😂why
+Adi5423_: Cause of the school
+Adi5423_: 🙂i don't want schools yrrrr
+Adi5423_: I fucking don't want to go🙂 <This message was edited>
+Double Battery👓: 😂😂😂😂
+Double Battery👓: Really
+Double Battery👓: Just go
+Adi5423_: Hmmm🙂
+Double Battery👓: Whatsup
+Double Battery👓: Hey
+Adi5423_: Nothing what bout you
+Double Battery👓: Aditya
+Adi5423_: Hey.... Wassup
+Adi5423_: Yeas
+Double Battery👓: How are u
+Double Battery👓: I don't have enough credit that's why am silent
+Adi5423_: I m good what bout you
+Adi5423_: Ugh ohkh no problem i understand
+Double Battery👓: Also am gud
+Double Battery👓: Oky thanks
+Adi5423_: Great.....
+Adi5423_: No worries take care....
+Double Battery👓: Really
+Double Battery👓: Can u help something
+Adi5423_: Surely I will if I can
+Adi5423_: Go for it ?....
+Double Battery👓: I need a system for user to login and registered
+Adi5423_: For what
+Double Battery👓: To get a menu of food and make an order do 4 me as favor or can u charge me?
+Adi5423_: How can I help you with that!!....
+Double Battery👓: What
+Double Battery👓: Also it fine I will do
+Adi5423_: I mean what I have to do
+Adi5423_: I didn't understand that
+Double Battery👓: The system that any people if want to order a food has been registered first then see the menu
+Adi5423_: Yeaa yeaa.....
+Adi5423_: Why don't you use the desktop mode on chrome then??
+Double Battery👓: Understood
+Adi5423_: Ugh ohkh so are you saying I login with your credentials on my system then?? Right!
+Adi5423_: Ohkh tell me what to do
+Adi5423_: I m having my laptop open now.....
+Double Battery👓: To create a login system and registered
+Adi5423_: Ohkh on which site?
+Double Battery👓: List any site u know
+Adi5423_: Ugh wait lee mee clear out that first you asking me to create a login system page which take (as a registration page type something) with any programming language like html r python like something? Right
+Double Battery👓: Oky thanks
+Adi5423_: Ughh wait.....
+Adi5423_: I didn't learned anything like that....
+Double Battery👓: Really
+Adi5423_: Like I m still in development process so fr i dont have much info like that how to create these things of registrating the user
+Double Battery👓: Mmmh
+Adi5423_: Huhh yea I create one time in my school's computer laptop a simple page of where the user enter a name and a password...and the system stores the credentials in the system using database, MySQLLite , and second time if the user enters the same credentials as before so the program will check for that in the database of the system if the details matches it will display a message welcome back and if not it will display a new user created ...... Just nothing much than this but I created that using ai only
+Adi5423_: So yeah it's nothing with the help of ai but I don't have that much of knowledge in this sector fr
+Double Battery👓: Like that
+Adi5423_: Yea I did that once it took just 30-60 minutes to do with ai.....
+Adi5423_: Not that much
+Double Battery👓: I need that
+Adi5423_: But without ai Idk much out of it
+Double Battery👓: Yes
+Adi5423_: You can use blackbox.ai
+Adi5423_: It's best in coding
+Double Battery👓: Create this 4 me
+Adi5423_: Ugh ohkh i will search for that tomorrow....
+
+
+Actually today I m working on a specific project i will do your one if i complete this one
+Adi5423_: It's almost done just left with a little more work ahead
+Double Battery👓: It fine
+Double Battery👓: Oky
+Adi5423_: Yeahhh......
+Double Battery👓: Really
+Adi5423_:    
+Double Battery👓: Now
+Adi5423_: Yuppp
+Double Battery👓: Oky oky
+Adi5423_: Yeaa
+Double Battery👓: Nmbie
+Adi5423_: Means?
+Double Battery👓: Tel me
+Double Battery👓: What are u doing right now
+Adi5423_: What does Nmbie means tho?
+Double Battery👓: In swahili language but in English mean tell me😂😂
+Double Battery👓: I forget ur Indian
+Adi5423_: Ugh nothing much my mom is cleaning up the wheat grains and I m here at the rooftop watching her😂🤌🏻
+Double Battery👓: Why
+Adi5423_: Ughhh ohkh it was tricky 😂
+Adi5423_: 😴😴😴😮‍💨
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: What
+Adi5423_: To make flour for chapati(we say chapati as roti )
+Adi5423_: Nothing 😂
+Adi5423_:    
+Double Battery👓: Also in Tanzania we eat chapati also
+Double Battery👓: Forest😂😂😂
+Adi5423_: Same pinch😂
+Adi5423_: Yeaa i live in forest 😂😂😂
+Double Battery👓: 🤣🤣🤣why
+Adi5423_:    
+Double Battery👓: Oky
+Double Battery👓: But u can not use bicycle I think u know
+Adi5423_: I can
+Adi5423_: But as I was going to get grinded wheat (flour) so I can't take that to the shop on my bicycle naa
+Adi5423_: That's why
+Double Battery👓: Oky
+Double Battery👓: Ur under 18yrs
+Adi5423_: Ouhh yeaa I m underage.....but there was no police checking so I went out.....
+Adi5423_: Obeying the rules 😂
+Adi5423_: The price was low here for the land to purchase that's why😂🥲
+Double Battery👓: U aditya
+Adi5423_: Yeaa yeaa 😂
+Double Battery👓: Niadje
+Adi5423_: English 🥲
+Double Battery👓: Whatsapp🤭
+Double Battery👓: I forget🤣🤣🤣
+Adi5423_: 🙃🙃😂
+Adi5423_: Double Battery 😂😂😂😂
+Double Battery👓: 😭😭😭😭😭
+Adi5423_:    
+Double Battery👓: Aditya stop it 🤣🤣🤣
+Adi5423_: 😂😂😂😂😂😂😂🤣🤣🤣🤣
+Adi5423_: Btw uk whatt
+Adi5423_: Tomorrow is very hectic day for mee
+Adi5423_: 🙃🥲
+Double Battery👓: Why
+Adi5423_: I have a lot of work tomorrow
+Adi5423_: You come online I tell you
+Double Battery👓: 4 what
+Adi5423_: Yeaa soo see
+Double Battery👓: Yaaah tel me
+Adi5423_: There is farewell of class 12th after few days
+Adi5423_: So for performance there are lot of children from class 11 only
+Adi5423_: For diff diff
+Adi5423_: Things
+Adi5423_: Mam took my name for Guitar
+Adi5423_: I have to play. Guitar but
+Double Battery👓: U need to focus and study hard
+Adi5423_: I don't want to as i will have to borrow the guitar and practise and all
+Double Battery👓: 😂😂😂what kind of fu*k heard
+Adi5423_: So I will try to change my name from Guitar to rap performance
+Double Battery👓: 😂😂😂fuck habby
+Double Battery👓: 🤣🤣🤣🤣
+Adi5423_: Ughh Huhhh shitt😂😂
+Adi5423_: Huhhhh😂😂😂
+Adi5423_: But all in that
+Double Battery👓: Don't make me laughing
+Adi5423_: Uk
+Adi5423_: My
+Adi5423_: Gf
+Double Battery👓: Mh why
+Adi5423_: Arohii
+Double Battery👓: Mh
+Adi5423_: I m serious😂😂🥲🥲
+Adi5423_: Yeah don
+Adi5423_: So
+Adi5423_: *
+Adi5423_: Her father got to know that we are in a relationship
+Adi5423_: And it happened a week ago
+Double Battery👓: So what happened next
+Adi5423_: So that's why now days she's not able to come online actually they took the phone from her
+Adi5423_: And
+Double Battery👓: 😂😂😂u die mera dost
+Double Battery👓: Awesome 😂😂😂
+Double Battery👓: How he know how
+Adi5423_: Tomorrow is goodluck party of class 10 (in Arohi's school) so she said me that
+Adi5423_: Please if you can then come to school we will meet there only
+Adi5423_: Dammm u hindii😂😂🤌🏻🤌🏻💫
+Adi5423_: Fr🥲
+Adi5423_: He checked her phone one day
+Double Battery👓: So u can do that to meet with her
+Double Battery👓: Whaaaaaaaaa
+Adi5423_: And i m fricking in the situation what to do go to school r go to meet her
+Double Battery👓: Yah am hindu
+Double Battery👓: Mh🤔
+Adi5423_: I have school tomorrow and I have get my changed from Guitar to rap 🥲so i have to go there naa
+Adi5423_: Buttt
+Adi5423_: Somehow
+Adi5423_: Mee big brain😂managed it
+Adi5423_: I asked my friend
+Adi5423_: To come to school and pick me up
+Adi5423_: Like he will say send Aditya we have to go to our village it emergency
+Adi5423_: So most probably no one gonna stop me then ig
+Adi5423_: So we I will be bunking school kind of 🥲😂
+Adi5423_: And all this cause
+Adi5423_: On 6th of Feb it's her birthday
+Adi5423_: And most probably cause of this incident of getting caught for the relationship, most probably she won't gonna get the permission to go out even on birthday....there is chances of that
+Adi5423_: But let's pray she gets the permission on her birthday I mean just after 2 days
+Double Battery👓: Whaaaaaaaaaaaat
+Adi5423_: So we can atleast meet that dayy 🥲
+Double Battery👓: Yaaaaah
+Adi5423_: It's totally fucked up now days mannnn🙃
+Double Battery👓: Yaaaah sure
+Double Battery👓: 😂😂😂😂😂😂😂😂
+Adi5423_: How the fuck it gonna be managed idk 🥲🙃
+Double Battery👓: I don't know exactly
+Double Battery👓: 🤣🤣🤣
+Adi5423_: Uk there's 2 reason
+Adi5423_: I don't want to play guitar
+Adi5423_: 1st
+Double Battery👓: Mh
+Adi5423_: I will have to practice a lot for that chord
+Adi5423_: 2nd
+Double Battery👓: Why
+Double Battery👓: Yaaah
+Adi5423_: There's one more guy that going to play with me
+Adi5423_: And damm mannn
+Adi5423_: He iss like
+Adi5423_: Huhh
+Adi5423_: Idk exactly but most probably he is gay and the way he acts
+Adi5423_: He iss so cheap type 🥲🥲🥲
+Adi5423_: And like a long time ago
+Adi5423_: School organised a talent performance so that time too
+Double Battery👓: Gay?🤔
+Adi5423_: I had to play guitar with him
+Adi5423_: And Mann
+Double Battery👓: 😂😂😂
+Adi5423_: Those fucking 2 days practise with himmm
+Adi5423_: Huhhhh fuck
+Adi5423_: I don't wanna do that again🙃
+Adi5423_: U don't know gay?🙂
+Double Battery👓: Mean like woman right
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: U will
+Adi5423_: Ugh nah like men who like the men and not women <This message was edited>
+Adi5423_: Who are interested in the same gender
+Adi5423_: Double Battery 🥲
+Adi5423_: I don't want to mannn🙃🙂
+Double Battery👓: 🤣🤣🤣
+Double Battery👓: He like u😂😂😂
+Adi5423_: This happens every time I don't like these shitt damm like you are interested I m not naa get the fuck off then 🥲🙂
+Adi5423_: There was one more guy in last school my classmate's brother damm man he was like....Adi what are you doing....Adi don't call me brother....
+Double Battery👓: 🤣🤣🤣he need fucked with u
+Adi5423_: Dammm maannn uk one day i abused him a lot and blocked him🥲🥲
+Adi5423_: Yuckkk🥲🥲🥲🥲🙂🙂🙂🙂
+Double Battery👓: 😂😂😂😂😂😂😂
+Double Battery👓: Yah good🥳
+Adi5423_: Huhhhhh🥲🙃
+Double Battery👓: What
+Adi5423_: I don't want fuck with him🙂🙂🥲🥲i m not gay🥲🙃
+Double Battery👓: 😂😂😂It happens 4 only gay
+Double Battery👓: And school know that he is gay
+Adi5423_: Shut upp🥲🥲🥲🥲🥲
+Adi5423_: In children everyone do
+Adi5423_: Teachers don't ig
+Double Battery👓: What
+Double Battery👓: Why
+Adi5423_: That he is gay
+Adi5423_: Double Battery😂😂
+Double Battery👓: 😂😂😂😂
+Adi5423_: Uk
+Adi5423_: Today we went for a party
+Double Battery👓: What
+Adi5423_: Like my sister's bf father is retired so he organised a party and we whole family went there
+Adi5423_: It was cool
+Double Battery👓: Mmmh 4 what
+Adi5423_: He was retired so he organised a party do we all went there just nothing much
+Adi5423_: From his government job
+Double Battery👓: Oooh soon u will be rich
+Double Battery👓: Hey adi
+Adi5423_: Heyy Double Battery
+Adi5423_: How you doing!!
+Double Battery👓: How are u
+Adi5423_: Coool
+Double Battery👓: F*ck😂😂😂😂
+Adi5423_: I told you naa
+Adi5423_: Kast day
+Adi5423_: Last*
+Adi5423_: I went to a party
+Adi5423_: Uk what happened now
+Double Battery👓: In school now😂
+Double Battery👓: Party? Of ur sis
+Double Battery👓: Nothing
+Double Battery👓: U go to ur gf
+Double Battery👓: 😂😂😂
+Adi5423_: Huhh they are shit uk what they made me more confused 😂😂😂
+
+Like see I was like mam cut my name from Guitar and put in rap.....ohkh this much was enough then later what happened that gay person gave my name to singing 🥲🥲
+Adi5423_: I was like wtf man
+Adi5423_: I don't even single
+Adi5423_: Single*
+Adi5423_: Sing*
+Adi5423_: Then we practised for a some time in singing 🥲
+Adi5423_: I was like wtf is this happening man 🙃🥲
+Adi5423_: Then later on one of my friend whom I said that you have to do beatboxing with me on stage when I will rap so go give your name to mam he gave name of both of us....
+Adi5423_: I was likee
+Adi5423_: Seriously my name was in
+Adi5423_: Guitar Rap Singing
+Adi5423_: How the fuck me gonna all these together 🥲🥲🥲🙃🙃
+Double Battery👓: Really
+Double Battery👓: So song or play a guitar
+Adi5423_: I made my name cut from Guitar and now i m in singing and rap 🙃🥲
+Double Battery👓: 🤣🤣🤣🤣gay
+Adi5423_: All these 3 things together
+Double Battery👓: 🤣🤣🤣I wanna to see u
+Double Battery👓: 🥴🥴
+Double Battery👓: Hey u
+Adi5423_: Now I just have to do song and rap
+Adi5423_: Ugh sorry I will be back after a while
+Adi5423_: Some family talks uk😂🙃
+Double Battery👓: 😂😂😂
+Double Battery👓: Oky
+Adi5423_: Huhhhh
+Adi5423_: I m tried
+Double Battery👓: I know
+Adi5423_: What bout you
+Double Battery👓: Also am gud
+Double Battery👓: In bank now
+Adi5423_: All good na?
+Double Battery👓: Yaaah
+Adi5423_: Cooolll
+Double Battery👓: Hey
+Double Battery👓: 😂😂😂😂like Africa
+Double Battery👓: Hey
+Adi5423_: Yeaa 🥲🥲😂😂😂
+Adi5423_: Helloo
+Adi5423_: Wasssup
+Adi5423_: I don't get time now days it's all mess upp🥲
+Double Battery👓: Hey
+Double Battery👓: I miss u my fr😂😂😂
+Adi5423_: I miss you too my friend, we don't talk much nowdays
+Adi5423_: 🥹💫
+Double Battery👓: Yaaaah I have exam
+Double Battery👓: So I study to pass my fr
+Adi5423_: Meee toooo
+Adi5423_: 🥲🙃
+Adi5423_: Heyy
+Adi5423_: You there!!
+Double Battery👓: Yeah
+Adi5423_: How you man
+Double Battery👓: Gud
+Adi5423_: Great
+Adi5423_: You busy these days??
+Adi5423_: What bout your exams btw
+Double Battery👓: Bad😭😭😭😭
+Double Battery👓: Yah
+Adi5423_: Ughhhhh
+Adi5423_: Don't worry
+Adi5423_: Just the process 🥹
+Double Battery👓: Yaaaah
+Adi5423_: Meee too.....but now free for 3-4 days so i thought i should message you so i did
+Double Battery👓: Me I don't
+Adi5423_: You all good na??
+Adi5423_: I mean you fine naa??
+Double Battery👓: Yah am gud enough
+Adi5423_: Ohkh cool then
+Adi5423_: Take care of your
+Double Battery👓: Thanks
+Adi5423_: Friends don't say that
+Adi5423_: Miss taking to you🙃🥹
+Double Battery👓: Oky after finished my exam I will check u
+Double Battery👓: Oky
+Adi5423_: Meeee tooo.....my last exam 'll be on 29 Feb we'll talk after that
+Double Battery👓: Oky worry out
+Double Battery👓: Also me 23 feb
+Adi5423_: Ugh ohkh
+Double Battery👓: Hi
+Adi5423_: Heyy....
+Adi5423_: Double Battery you alive 🥹😂🫶🏻
+Double Battery👓: Yah am
+Adi5423_: How you doing
+Adi5423_: How you exams gone??
+Adi5423_: All good?
+Double Battery👓: Nothing
+Adi5423_: Something happened??
+Adi5423_:    
+Double Battery👓: Like what
+Adi5423_: Nah like just casually all good naa??
+Double Battery👓: All iz well
+Double Battery👓: 🤣🤣🤣🤣
+Adi5423_: Yeaaa yeaaa yeaaa exactly🥹😂😂
+Double Battery👓: What
+Double Battery👓: U and bicycle 😂😂😂
+Double Battery👓: 🥴🤔
+Adi5423_: Ugh nothing leave😂
+Adi5423_: Ussssssssss🥹🥹😂😂😂😂😂😂
+Adi5423_: Ugh huhh😂
+Double Battery👓: 😂😂😂what are fuck
+Double Battery👓: 😂😂😂
+Double Battery👓: 30 days means month😂😂😂
+Adi5423_: Ughhhh😂😂
+Adi5423_: What the fuck😂😂
+Adi5423_: Ugh well yess🙃😂
+Double Battery👓: Yaaaah what😂😂😂
+Double Battery👓: I really miss u🥺😭😂😂😂
+Adi5423_: Huhhhh shitttttttt nothing 😂😂😂
+Adi5423_: Dammm that was sudden....I missed you too 🥺😭🫶🏻
+Adi5423_: We didn't talked from so long for real 🥹
+Adi5423_: Talking after soo long😂😂😂
+Double Battery👓: Yaaaaaah
+Adi5423_: Yeaaaaaaa.......
+Double Battery👓: 🥺🥺🥺🥺
+Adi5423_: 🥺🥹🫶🏻🫶🏻
+Double Battery👓: Mh tell me what about ur exam
+Adi5423_: It really went well more good than i excepted
+Adi5423_: Ik i m going to fail but still 🙃🥲😂
+Adi5423_: What bout you??
+Adi5423_: How was yours??
+Double Battery👓: 🥺🥺I don't understand what u mean
+Double Battery👓: Am afraid only
+Adi5423_: I said it went a little great and not great both , but and I don't know am I even going to pass r not.....🥲
+Adi5423_: Bout the results??
+Double Battery👓: Yah
+Double Battery👓: U will pass
+Adi5423_: Don't worry you will be scoring good one!!
+Double Battery👓: Ooooh wow😂
+Adi5423_: Chill out
+Double Battery👓: Mh I will
+Adi5423_: All izzz welll naa🥹😂💫
+Adi5423_: Let's pray that 🙂💫
+Adi5423_: Huhhh hehehehe😂🥹
+Adi5423_: Yeaaaa yeaaa yeaaa
+Double Battery👓: Yap all iz well😂😂😂
+Double Battery👓: Yap
+Adi5423_: Hehehehehehehehehhe😂😂
+Double Battery👓: Wow
+Adi5423_: Thnkuu🥹
+Double Battery👓: I need this
+Double Battery👓:    
+Adi5423_: Dammmm they look cutee 🥹😂💫
+Adi5423_: Ome day I will surely take this directly to your homee😂😂😂🥹🥹🥹🥹
+Double Battery👓: 🤣🤣🤣🤣🤣🤣🤣
+Double Battery👓: Yap
+Adi5423_: I m serious mannnn😂😂😂😂😂🤣🤣🤣
+Adi5423_: Will you wear that in your pinky finger!!😂😂
+Double Battery👓: Hahahah srz😂😂😂
+Double Battery👓: Whaaaaaaaaaaat😂😂😂
+Adi5423_: Hehehehehhehehe literally 😂😂😂
+Double Battery👓: Fuck😂😂😂
+Adi5423_: Yeaaa yeaaa yeaaa that's too small naa how you gonna wear it in foot so surely you will wear that in the pinky finger right!??😂😂😂
+Adi5423_: Youuu????😂😂😂😂🤣
+Double Battery👓: You 😂😂😂
+Double Battery👓: 🤣🤣🤣🤣
+Adi5423_: Meee malee you femaleee😂😂😂😂😂😂😂
+Double Battery👓: Whatever
+Adi5423_: Youuu madddd😂😂😂😂😂
+Double Battery👓: 🤣🤣🤣🤔
+Adi5423_: 😂😂🤣🤣🤣
+Double Battery👓: You aditya 😂
+Adi5423_: Yesss meeee 😂😂😂😂😂😂😂
+Double Battery👓: Mad
+Adi5423_: In love 😂😂😂🤣
+Double Battery👓: With her😂
+Adi5423_: Exactlyyyy😂😂😂💫
+Double Battery👓: Yaaaah I know you love her🤭
+Adi5423_: Yeaaaaaa heheheheheh🥹🥹🥹
+Double Battery👓: Early u need to fuck with her🤭😂😂😂😂😂
+Adi5423_: Yeaaaa exactlyyyyy🥹🥹🥹💫💫
+Adi5423_: Let's see till when it happens 🥹💫
+Double Battery👓: Why?🤣
+Adi5423_: Ughh basic relationship needs you know😂😂😂🥹
+Double Battery👓: Never happen until marriage 😂😂😂
+Double Battery👓: Wait 😂😂😂
+Adi5423_: Dammm not till marriage but yea maybe not till the age of 18🥹😂
+Adi5423_: Can't 😂😂🤣
+Double Battery👓: Cat cat😂😂😂
+Double Battery👓: Marriage
+Adi5423_: Huhhh pusssy😂😂🤣
+Double Battery👓: U
+Adi5423_: I mean that fuck scene not the marriage at 18 🙃
+Adi5423_: Just kidding chilll 😂
+Double Battery👓: Yaaap
+Double Battery👓: Well
+Adi5423_: I just gave you the synonyms of cat cat 😂
+Adi5423_: Yeaa
+Double Battery👓: 😂😂😂😂
+Adi5423_: Me going to eat pasta
+Double Battery👓: Oky bye
+Adi5423_: You wanna eat that too!!!😂
+Adi5423_: Ugh I didn't said it like that
+Adi5423_: I meant do you also want that !!🙃
+Double Battery👓: Nop
+Double Battery👓: Yap
+Adi5423_: Why you suddenly so dimm???🙃
+Adi5423_: Something happened 🙃
+Double Battery👓: 4 what
+Adi5423_: Ugh nothing just casually
+Double Battery👓: Mh
+Adi5423_: Ummm hmmm
+Double Battery👓: How are u
+Adi5423_: Great
+Adi5423_: What bout you
+Double Battery👓: Also am gud
+Adi5423_: Great
+Double Battery👓: null
+Adi5423_: null
+Double Battery👓: Don't laugh 😂
+Double Battery👓: Yap😂😂😂😂
+Adi5423_: Sureeeeee 🤣🤣🤣🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣🤣😂🤣😭😭🤣😭🤣
+Adi5423_: Heheheheheh😂😂😂
+Double Battery👓: Yap sureee
+Double Battery👓: Hahahahhaha
+Adi5423_: Hehehehehehehe😂😂😂😂
+Adi5423_: Heheheheheheheheheheeheheheh
+Double Battery👓: What
+Adi5423_: Nooooothingggghhg
+Double Battery👓: Hi
+Adi5423_: Hello
+Double Battery👓: Hi
+Adi5423_: Heyyyy
+Adi5423_: I m sorry It's being very busy these days mannn
+Double Battery👓: Worry out
+Adi5423_: How you doing???
+Adi5423_: Btw have you checked on my status!!??
+Adi5423_: Hey man you ohkh!!!!🙂
+Double Battery👓: Am oky how abt u
+Adi5423_: I m good but just tired
+Double Battery👓: Why
+Adi5423_: You know bout Annual Function?
+Adi5423_: In schools
+Double Battery👓: Nop
+Double Battery👓: Oooh oky sorry
+Adi5423_: Nah I was like saying the Annual Function in schools do u know that!!...
+Adi5423_: Ohkh it's like
+Adi5423_: In the end of the session
+Adi5423_: Aftet the final exams
+Double Battery👓: Oooh oky
+Adi5423_: Students do group performance
+Adi5423_: And the parents childrens everyone comes to see that
+Adi5423_: That's know as Annual Function
+Adi5423_: And we perform different type dances
+Adi5423_: Although some schools do plays too .....
+Double Battery👓: And u two
+Adi5423_: Our school just preparing for dance
+Double Battery👓: 😂😂😂
+Adi5423_: Yeaaa they took our group name in that forcefully 🥲
+Adi5423_: You knew na i did rap and all many time in school
+Double Battery👓: Mh
+Adi5423_: So every teacher is like
+Double Battery👓: 😂😂😂
+Double Battery👓: Oky
+Adi5423_: You have to take part in this at any cost
+Adi5423_: And also add your friends
+Adi5423_: So that's why they took our name 🙃
+Adi5423_: You know we are performing the Bhangara Dance
+Adi5423_: Just like Hindu Muslim Islam there also one more religion as Punjabi.....they do this dance Bhangara
+Adi5423_: And now we are doing that in the annual function
+Double Battery👓: Ooooh
+Double Battery👓: Mh ur famous
+Adi5423_: Because I took part in almost every function in school that's why now they know me very well 😂💫
+Double Battery👓: Hi
+Adi5423_: Heyyy mann
+Adi5423_: You all good??
+Double Battery👓: How are u
+Adi5423_: Greatttttt
+Double Battery👓: Yaaaah it's Ramadhan month 4 us
+Double Battery👓: How abt u
+Adi5423_: What bout you?
+Double Battery👓: Also am gud
+Adi5423_: Ouhh yeaa yea my friends also told me that!!
+Adi5423_: Nothing much just casual days
+Adi5423_: Cool
+Double Battery👓: Well
+Double Battery👓: Really
+Double Battery👓: Yes
+Adi5423_: Yeaa Yeaaa
+Adi5423_: what bout yout college and exams , all gone well??
+Double Battery👓: Result are not yet
+Double Battery👓: Am waiting
+Adi5423_: Ouhhh I seee
+Adi5423_: I wish you very best luck!!............
+Double Battery👓: Thanks my friend
+Adi5423_: No worries Gift!!
+Adi5423_: You alive??🙂
+Double Battery👓: Yah am alive aditya
+Double Battery👓: How are u
+Adi5423_: Great 😂
+Adi5423_: Good youu?
+Double Battery👓: Nop😭😔
+Adi5423_: Why what happened
+Double Battery👓: Am afraid 😔
+Adi5423_: For what
+Double Battery👓: Hi
+Adi5423_: Heyy
+Double Battery👓: How are u?
+Adi5423_: I m good what bout you
+Double Battery👓: Also am gud
+Adi5423_: Great!!!.....take care hmmm
+Double Battery👓: Thanks
+Double Battery👓: Have a good night
+Adi5423_: No worries
+Adi5423_: You too
+Adi5423_: Good Night!!.....
+Double Battery👓: Oky
+Double Battery👓: Thanks
+Adi5423_: Yeaaaaa!!!.......
+Adi5423_: Friends don't say that hmm!!....
+Double Battery👓: Oky
+Double Battery👓: How are u
+Adi5423_: I m great
+Adi5423_: You ??
+Double Battery👓: Hi
+Adi5423_: Heyy
+Adi5423_: Wassup
+Double Battery👓: My friend
+Adi5423_: Heyy man wassup
+Double Battery👓: Gud gud
+Double Battery👓: Miss u
+Adi5423_: Mee tooo mannn
+Double Battery👓: How are u
+Adi5423_: Great
+Double Battery👓: School or
+Adi5423_: Some shitt happened 🙃
+Adi5423_: Ugh man sorry I have to go now for some work I will back online till the evening r soon
+Double Battery👓: Oky bye
+Adi5423_: Back
+Adi5423_: I m back
+Double Battery👓: Am going to pray
+Adi5423_: Ughh
+Adi5423_: Cool
+Adi5423_: Can I ask something?
+Double Battery👓: Yap u can
+Adi5423_: Why you so inactive these days?
+Double Battery👓: Coz of school my friend
+Adi5423_: What happened
+Adi5423_: You were in college naa
+Double Battery👓: Yes
+Adi5423_: Then??
+Adi5423_: How school friends?
+Double Battery👓: Bad😂
+Adi5423_: Ughhh damm😂
+Double Battery👓: I need a problem to do project
+Double Battery👓: Can u give me any problem
+Adi5423_: What problem ?
+Adi5423_: I didn't understand that?
+Double Battery👓: I don't know
+Adi5423_: I mean how can i help you?
+Adi5423_: You mean u have to make a project.....u need a problem to solve
+Double Battery👓: Example
+Double Battery👓: Yap
+Adi5423_: And do that as a project ,right?
+Double Battery👓: Yes
+Adi5423_: Do u have a laptop r computer?
+Double Battery👓: Yes
+Adi5423_: Ohkh so you can make a project
+Double Battery👓: Wait
+Adi5423_: A application r software which let the user to connect there mobile and system and without using Bluetooth (by a inbuilt located server , maybe from the under the same network connection the server activates ) and the let the users to access there laptop r computer files by using phone......obviously letting them interrupt with the files won't be a easier one just to check up the files located in system
+Adi5423_: or maybe just vice-verse
+Adi5423_: Like accessing the mobile device from the laptop r computer......without Bluetooth but with the permission of interrupting with the files too....
+Double Battery👓: Mh
+Double Battery👓: 🥺
+Double Battery👓: How
+Adi5423_: What happened bro 🥹
+Adi5423_: By creating a local server for 2 devices after connecting to a specific data network use there ip to interupt between the files and data itself
+Double Battery👓: Hellow
+Adi5423_: Hey
+Adi5423_: How you?
+Adi5423_:    
+Double Battery👓: Thanks
+Double Battery👓: Am gud how abt u
+Adi5423_: I m also good
+Double Battery👓: Well
+Adi5423_: Great
+Double Battery👓: Yap
+Adi5423_: Yeaa
+Double Battery👓: How was ur day
+Adi5423_: It just started good morning
+Double Battery👓: Wow
+Adi5423_: Yoo
+Adi5423_: Heyy
+Double Battery👓: Yes
+Adi5423_: Wassup
+Double Battery👓: How are u
+Adi5423_: Great....you?
+Double Battery👓: Also am gud
+Adi5423_: Coool
+Double Battery👓: Well
+Double Battery👓: U said ur pc is broken
+Adi5423_: I purchased a new one now
+Double Battery👓: Waaaaah
+Adi5423_: Yeaaaa
+Double Battery👓: Well
+Double Battery👓: How are u
+Adi5423_: I m great what bout you??
+Double Battery👓: Also am gud
+Adi5423_: That's great
+Double Battery👓: How about ur past days
+Adi5423_: Nothing I just failed class 11th
+Adi5423_: They failed intentionally
+Adi5423_: School authority
+Adi5423_: What bout yours
+Double Battery👓: Why why
+Double Battery👓: I pass
+Adi5423_: Leave it's just so long story
+Adi5423_: LEave it
+Adi5423_: Leave*
+Adi5423_: Greatt
+Double Battery👓: Mmmh just tell
+Double Battery👓: Am ur friend remember
+Adi5423_: Umm leave that isn't the topic to discuss now........
+Adi5423_: Yeah I doo 🙃
+Double Battery👓: Oky but am sorry
+Adi5423_: Don't worry all good now
+Double Battery👓: So why u don't want
+Adi5423_: For what?
+Adi5423_: Ugh I m just frustated of that topic
+Double Battery👓: Mh
+Double Battery👓: 4 all thing u path
+Adi5423_: Ugh I didn't understand that
+Double Battery👓: I mean for all
+Adi5423_: Ughh
+Adi5423_: For what all!!!....
+Adi5423_: You all good na?🙃
+Double Battery👓: Yes
+Adi5423_: Umm that's great then
+Double Battery👓: Sleeping
+Adi5423_: Ohkh then good night
+Double Battery👓: Same man
+Double Battery👓: Am so tired
+Adi5423_: 🙌🏻meee tooo🙃🙃🙂
+Double Battery👓: 😂
+Double Battery👓: We shall talk tomorrow
+Adi5423_: 😂😂
+Adi5423_: Sure
+Adi5423_: Heyyy
+Double Battery👓: Hi🥹
+Adi5423_: Wassup
+Double Battery👓: How are I
+Adi5423_: Great what bout youu🥹

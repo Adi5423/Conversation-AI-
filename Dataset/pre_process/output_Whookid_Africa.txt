@@ -1,0 +1,433 @@
+Whookid Africa: What's up bro
+Whookid Africa: Can you give ideas for game development for a beginner
+Whookid Africa: And what kind of games do u create
+Adi5423_: Ideas you must think onè by your own....ideas take time to be come in mind and get implemented
+Adi5423_: I m not that much into it but i just created 2 games for getting hands on
+Whookid Africa: I mean I have some ideas but I don't know some like things that can make this even easier I imean tools
+Whookid Africa: Do you know any
+Whookid Africa: What language do you code them in
+Whookid Africa: 2D
+Adi5423_: Not now
+Adi5423_: Use unity it's free and best
+Adi5423_: You can make what you want easily ther....
+Adi5423_: there*
+Adi5423_: 3d
+Adi5423_: One for android other for Windows
+Adi5423_: Unity Game Dev Engine just supports C#
+Adi5423_: So yeah i code them in C#
+Whookid Africa: What about python
+Whookid Africa: Okay thanks
+Adi5423_: Not good for game dev , can create games with python but not that much good
+Whookid Africa: It take me a decade to learn c#
+Adi5423_: Better you go with game development engines
+Adi5423_: Start learning a easy language in programming like python later switch to a hard one
+Whookid Africa: Damn okay so there ain't no other option
+Adi5423_: I don't know the whole C# not even perfect basics , i just know python and a bit more java
+Adi5423_: I did ml in python
+Adi5423_: So i easily switched to C#
+Whookid Africa: I now know python so I can now switch to c#
+Whookid Africa: In University
+Adi5423_: There are options but better if you go with what the tools are available for what task
+Adi5423_: What are your projects?
+Whookid Africa: But u can create a game
+Adi5423_: By own
+Adi5423_: By yt and AI
+Whookid Africa: And u know ml I don even know where to start
+Adi5423_: I can....
+Use the technologies , like go with BlackBox ai and Chat GPT and Gemini for code tutorial....i did the same i didn't purchased a course even till now
+Whookid Africa: A space invaders game
+Whookid Africa: And now I'm working on a platformer 2D in pygame
+Whookid Africa: And this blackbox I hear it a lot is it free
+Adi5423_: Just stood with the things your interest attracts to....for ex my attraction towards AI and Automation so i did this and all for myself
+Adi5423_: Umm ohkh
+Whookid Africa: 😂😂😂 learning made easier for those who are interested
+Adi5423_: If u want to persuate with game dev then why you doing python
+Adi5423_: Go with c
+Adi5423_: And use game dev engines rather learning a library and sticking with a single language
+Adi5423_: For real.......
+Adi5423_: You just need to know what you have to learn nothing else
+Adi5423_: Everything's free nowdays
+Adi5423_: Wait lee mee send my game apk
+Whookid Africa: Ohh okay so python is just good at ai and automation
+Whookid Africa: And for game Dev...
+Whookid Africa: C# okay I'll get started on that
+Adi5423_: "https://drive.google.com/drive/folders/1t4Ss5ZO_11ZmycsoCsSu_Akh_EpRdryz?usp=drive_link"
+
+3"
+Adi5423_: it runs only in android
+Adi5423_: Yeahhh
+Adi5423_: Yeah if u really wanna get into game dev learn the C# and then learn Unity Game Engine
+Adi5423_: If you just wanna make some games
+Adi5423_: For getting hands on like me
+Whookid Africa: Okay
+Whookid Africa: Yeah I have that so it's 3d I bet you did maths 😂😂
+Adi5423_: Just Start with Unity directly and basics of C# and later u will learn C# as well properly with time and more projects.....
+Adi5423_: Ugh huuhh 😂
+Whookid Africa: I like it for fun it's just fun maybe it myt get serious
+Whookid Africa: 👍🏼
+Whookid Africa: So unity game engine has to be learnt too🤦🏽‍♂️🤦🏽‍♂️🥵
+Adi5423_: I was now days working on Space game but didn't got any free 3D model of Sun for my project so currently dropped the idea and working on Automation project with C#
+Adi5423_: It's shitttt , it's just so wide , don't think it's fun
+Whookid Africa: Does it involve a lot of mathematics
+Adi5423_: You will get errors which you not gonna find the solutions online so better to make a mindset to stick with problems
+Adi5423_: Yeaahh
+Adi5423_: Without that you can't
+Adi5423_: Depends on your game
+Adi5423_: But yeah maths
+Whookid Africa: What's automation all about I don't really get the idea
+Adi5423_: Is important but no need to worry
+Whookid Africa: It's not fun😂😂
+Adi5423_: You will learn that much with time and tutorials and experience
+Whookid Africa: Yah it's really a drag
+Whookid Africa: Yeah there is no way around it
+Adi5423_: Making things automatic with ML and Artificial Intelligence
+Adi5423_: Nahhhhh
+Whookid Africa: Okay that's the thing to do nowadays for the future
+Adi5423_: That's not like that
+Adi5423_: I m not a specialist r a topper in maths
+Adi5423_: R something else
+Adi5423_: I just know i have to learn coding and make my projects to come real
+Adi5423_: I can learn anything then
+Adi5423_: Doesn't matter it's maths r physics
+Adi5423_: Game incl both Physics and Maths
+Whookid Africa: Okay so like do you have projects In ml like the automation
+Adi5423_: If you will just keep learning nothing gonna happen until and unless u step up to work on your ideas
+Adi5423_: I do
+Whookid Africa: Yeah those to things fail to know them and implement them properly your game will suck
+Whookid Africa: That's a fact but sometimes these PDFs don't offer much
+Adi5423_: Yeah Mathematics and Physics is so wide don't just stick a particular thing start implementing
+Whookid Africa: Yah u have really come a long way for hw long have u been coding
+Adi5423_: Don't go with others notes make your own from your own style , you can't learn properly from others notes
+Adi5423_: They are just a piece of information but you can create what u learning by videos create your own notes
+Adi5423_: That gonna be best fr
+Whookid Africa: Especially 3D , becoz these 2Ds are giving me trouble and without an engine we ain't going nowhere
+Adi5423_: Ugh i think 1 Year
+Whookid Africa: 🥵😂😂😂What
+Adi5423_: Hmmm , you will also have to learn a lot , like 3D Modelling , Sculpting , Texturing , Graphics , and etc ,
+Adi5423_: I also do 3D Modeling
+Whookid Africa: That's one fuck*ng lie
+Adi5423_: I make Animated Phots , and short videos......
+Adi5423_: Yeaahh 😂
+Adi5423_: Ugh naah naah that isn't 😂
+Whookid Africa: Yeah thts really wat we begginers miss proper media and then we get stuck
+Adi5423_: It just been a year
+Adi5423_: Yeahh just watch tutorial use Ai and make your own notes
+Whookid Africa: Bro how old are you thts a lot do u have like a bachelor in these things
+Adi5423_: It was just a random night when i started learning python 😂
+Adi5423_: To just do timepass then i started living in it 🥹
+Whookid Africa: Umm how do you do man what's the trick
+Adi5423_: I m 17 now....
+Whookid Africa: Umm thts deep it can't be achieved in one year😂
+Adi5423_: Thankyouu for the appreciation.....🥹
+Whookid Africa: 😳 Yeah some are called to it🥵
+Whookid Africa: Yeah python is fun but if you get too comfortable you myt go dumb 😂😂
+Whookid Africa: But man u serious aren't you like 20 or something 😅
+Adi5423_: I just used AI and youtube together.....and started making projects even when i was just a learner now too i m learner but still , i started making projects , when i just cleared the basics of python , i thought that's enough in python 😂although i was wrong but those projects helped me learn a lot
+Adi5423_: It can 😂only if you be mad for what you wanna do 🙃
+Adi5423_: Ugh huhhh 🥹😂
+Whookid Africa: Umm so it has just been one year I can imagine the focus you have🙋🏽‍♂️🫂👏🏽🥵
+Adi5423_: Mee was also so dumb in programming in starting , i got to know about java i learned java from a coaching institute that person made me learn java basics and a bit intermediate....then i got to know what the heck is this coaching , leaving java i switched to python , and now switching to C# for projects implementation.....
+Whookid Africa: Okay I think you motivation is permanent cause we others we just say umm nahh I'll learn some more after maybe a week 😂😂😂😂
+Adi5423_: Nah nah i m not 😂😂 i just got 17 on 1st May this year 😂
+Adi5423_: Heheheheh 🥹coding is just loveee uk.....🫀💫🥹
+Whookid Africa: Okay thats a huge leap bro u've got talent and determination if one could only copy🥵👍🏼
+Adi5423_: Ugh i don't think soo....even i too sometimes think am i doing i something i m not supposed too.....
+Adi5423_: Then i try to switch into different things and all
+Adi5423_: Then back to coding like a fcker 😂😂
+Whookid Africa: U are going to kill people with depression 😂😂😂
+Adi5423_: Anything for coding 🥹
+Whookid Africa: 😂😂😂yeah
+Adi5423_: Damm brooo 😂😂🌟
+Adi5423_: 😂😂
+Whookid Africa: That happens a lot😂😂
+Adi5423_: Uk i started my first Game Dev project in 2018 mid🥹
+Adi5423_: I was like what that fricking person is doing i m going to do the same 😂
+Adi5423_: A lotttt😂
+Whookid Africa: Coz for age it's too too much to know all that too much doesn't even describe it, I'm moved😂😂✌🏽
+Adi5423_: Then later i got to know what i did years back was something which i dream now days 🥹😂
+Adi5423_: I m just a small portion of this ocean man.....there would a lot more than mee
+Adi5423_: I m nothing here......i m just trying and doing
+Whookid Africa: 😂😂😂yeah seems you had a setback
+Adi5423_: There are people who are actually killing these shitsss
+Whookid Africa: SME here but your rate of doing thing is to fast😂😂😂
+Whookid Africa: Though it's good
+Adi5423_: Reall one 😂from last 3 days one fricking error coming in my dreams every single night 😭😭damm that's soo frustrating......
+Whookid Africa: Umm pipo of your same age u mean
+Adi5423_: Ughh thanks a lot for that man 🥹🌟😂
+Adi5423_: Thankyouu🥹🌟
+Whookid Africa: Bugs bugs bugs😂😂😂😂 that's the whole thing no way around it too
+Adi5423_: i don't know of my same age r not , i never tried searching that , but many one are killing though , i m just if compared to the real ones......i wanna do a lot more than this
+Adi5423_: Average day in a programmer life 😂
+Adi5423_: Btw what bout you buddy
+Adi5423_: Been a lot talking bout my things
+Adi5423_: Something bout you now!!!....
+Adi5423_: How long it been to you
+Adi5423_: In coding
+Whookid Africa: Okay me I just started like January
+Whookid Africa: Let's say 3 months of procrastination 😂😂
+Adi5423_: Umm hmm any specific reason to dive in coding sector
+Whookid Africa: And Im looking for ways to really get hands on with everything
+Adi5423_: Ugh yeaa yeaaa 😂3 months also a lot time🌟
+Whookid Africa: I just like the stuff and I think too much but less action 😂
+Adi5423_: Just start after learning even a bit , cause all this is like na just soo wide.....just start making things when u learn even a small things
+Adi5423_: Just make atleast worst but make
+Whookid Africa: So I'm trying to get into kivy now but it's telling me go and perfect your classes tutorials😂😂
+Adi5423_: That surely gonna keep you upgrading and let u learn a lot and fast
+Adi5423_: I was doing the same even still , i think a lot but not be able to do that much 😂
+Whookid Africa: Umm bro to a slow moving development it's not😂
+Adi5423_: Uk like just now before chatting with you i was trying to integrate the Speech Recognition in C# damm it's soo hectic in C for beginners🫠
+Whookid Africa: Okay thanks for the tip cause sometimes I try to make the projects too perfect and I get stuck and drop
+Adi5423_: Should i suggest you something?.....
+Adi5423_: Everyone start with this so no worries just chill 😂
+Whookid Africa: But u do it less of the times 😂😂
+Whookid Africa: Yeah yeah go on
+Whookid Africa: But how's c's SYNTAX 😂😂I see a lot of memes on pipo who switch having troubles
+Adi5423_: i too , i have a lot of dropped projects uk......
+But let it be everyone has do nothing gonna be perfect unless and until u bee a professional and like that something......
+Just try to make atleast.....that's the main nothing else
+Adi5423_: Ughhh you spying mee 😂😂😂😂
+Whookid Africa: Okay will but now that I have a challenge but not that I can beat I will push this thing
+Adi5423_: What your main goal like , a game developer , software engineer , Ai , like what you wanna get into with coding....
+Adi5423_: Like me in Automation and AI
+Adi5423_: SO what bout you
+Adi5423_: It's shittt mannnnnn 😂fr shittttt🫠
+Adi5423_: Even uk why i m switching to C# , i just want to make a AI Application with Unity Engine , and it just supports C# so yeah that why
+Whookid Africa: Okay but in making lies the knowing you know soo I have to go deeper in this intermidiate then I have a foundation
+Whookid Africa: 😂😂😂waht why how <This message was edited>
+Adi5423_: Try to find the solution of the problems and errors.....learn why the error r that problem is and analyze what you doing u automatically gonna get the solution by own so don't drop
+Whookid Africa: Ai but just beating around the bush to have fun😂😂
+Whookid Africa: Haa I don't think I'll be landing on that side anytime soon
+Adi5423_: Start slow , i was just a mad , got back on the track cause of luck r extra work idk but just start slow buddy , if u dont then u gonna get a lot issues later.....
+Adi5423_: Start slow
+Adi5423_: and learn first
+Adi5423_: Atleast the foundation
+Whookid Africa: Okay so when it comes to implementing C# comes into picture
+Adi5423_: I don't know anything i m just a learner
+Whookid Africa: Noted that another problem solved 😂😂
+Whookid Africa: Yeah coz we want to jump into the fun stuff too early
+Adi5423_: Hahahahaha😂
+Whookid Africa: Okay so the goal is just to keep learning 👍🏼
+Adi5423_: That's why i started doing that , idk but i love Automations and AI
+Adi5423_: I never thought the same for mee too but see i m doing
+Whookid Africa: This has helped me a lot now I have somewhere to start again thanks man
+Adi5423_: I was really the lowest marks student in my class
+Adi5423_: And in Computer Science i was really shit
+Adi5423_: Ugh i don't know much bout C# , i m trying to make a final application with C# atleast till 1st of June to publish my first application on PlayStore
+Whookid Africa: Me too but for robotics if get the sense I figured that maybe I can do electronics along with coding
+Adi5423_: Yooooo 😂😂
+Adi5423_: Yeahhh exactly that's what i did and suffered a bit
+Adi5423_: But it was fun though no doubt with obviously no sleeping days and all 😂
+Adi5423_: Keep learning with implementation too , but with time
+Whookid Africa: Yah goals too I think u have really learnt a lot in this one year
+Adi5423_: No worries buddy coding buddies never greet they just keep going , so wish you the best mannn🌟🤌🏻
+Whookid Africa: 😂😂😂That bad me I'm just getting start I figured I can't do computers if I don't know the science behind them
+Adi5423_: That really a lot shittttt , uk like connecting Electrical adn Software Engineering togetherrrr🥹ittt's sooo fun and like wowwww but obivouslyyy a big shitttt
+Adi5423_: I have a lot plans for that , but i still need to learn a frickinggg lottttt
+Adi5423_: A lottt mannn
+Whookid Africa: No sleeping too that's crazy I did it once when I wanted to finish my first game I mean it continued for weeks so yeah I get you🫂😂😂😂
+Whookid Africa: Thanks bro means a lot coming from a personal profesor 😂😂😂
+Adi5423_: It was just the depression before coding to make me mentally stable to face my failures with the best mindset.....so yeah i got to learn how we live in a year vefore starting coding , and then in a year i learned coding.....
+Adi5423_: But uk like this whole process was a shitt and best too mannn 🥹🫠
+Adi5423_: Yeaaah exactlyyyy 😂😭🫂
+Whookid Africa: Yeah coz I really like drones I think that SDl is really driving me crazy
+Adi5423_: I didn't sleept for 3 straight days cause i was working first time on Machine Learning and Building AI.....so it was a lot fun for 3 days
+Adi5423_: Starightt
+Adi5423_: 🥹
+Whookid Africa: You really like this shitting word you are going to get banned
+Whookid Africa: Yah I hope for the same too this year
+Adi5423_: Although i got sick after that but i completed my first AI project with like 5 perc of knowledge in AI in just 3 days....that was really a achievement for meee🥹
+Adi5423_: Damm broo i m nott 😂😂
+Adi5423_: You must doo that , it also need a lot to evolve so better you learn what to you want to achieve though rather than learning everything
+Whookid Africa: 😂😂😂😂ummm bro u You must be crazy for this shit but I think with the level i want to get into ml I'll do the same
+Adi5423_: For real soon i gonna bee 😭😂😭😂
+Adi5423_: Everything gonna be cool no worries........
+Whookid Africa: You got sick😂😂😂 You had cataracts
+Adi5423_: Yeaaaa u must 😂but also be prepared for body illness after those days.....🫠like eyes pain headache , body pain weakness and all so get prepared 😂😂
+Whookid Africa: That's a fact cause u myt watse all of your time to only reset for another thing🥵
+Whookid Africa: Definitely but they say these chats are encrypted even to them soo u are safe😂😂😂
+Adi5423_: When u'll work 3 days straight on screen it surely gonna be like that , a really bad experience....😂
+Whookid Africa: Damn I wish for that beautiful pain it's satisfying pain😂😂😂
+Adi5423_: Umm yeaaaa🫠
+Adi5423_: I'll not be banned then huhhhh relief 😂
+Whookid Africa: Yeah but the results are going to be 🍿
+Adi5423_: For real it isss🥹😂🌟
+Adi5423_: The bessttttttttt like huhhh can't explain
+Adi5423_: Uk the main shitt what happened after 3 days 😂
+Whookid Africa: Only if someone doesn't report you coz that's when they'll really check
+Whookid Africa: 😂😂😂😂😂
+Adi5423_: They not gonna give a single shit to all this shitsssss.......if they will ban uss who gonna use them😂
+Adi5423_: My system got crashed and i fricking lost all my progresssss and all cause i was beginner and didn't knew how to keep the files backup....🫠
+Adi5423_: i recovered a bit somehow but i lost some main code files from that so a f'ed up but first successful project huuhhh
+Whookid Africa: Haa do you have therapist at home how did you survive losing all data even me if my phone dies now all is dead🥵
+Whookid Africa: 😂😂😂yeah they are in biz coz of us u damn ryt
+Adi5423_: Just personal depression issues uk after all this 😂😂😂😭😭
+Adi5423_: Yeaaaaa exactlyyy😂😂
+Adi5423_: "https://www.instagram.com/reel/C7QsX0kSAyG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+Adi5423_: See that's what I was telling you people are killing now days
+Adi5423_: I m nothing her
+Adi5423_: here*
+Whookid Africa: Ummm that's just too much🥵🥵🥵16 and has surpassed I think they forgot a global achievement award 😂😂 I think she is the first it's crazy at 16🥵 yah I cannot imagine seriously 😅
+Whookid Africa: Umm that kinda data being lost you can die of depression
+Adi5423_: You must heard "India is not for beginners" today you saw that tooo😂
+Adi5423_: For reall
+Adi5423_: Mann this one fucking error not getting off mee since last night
+Whookid Africa: Yeah it's not now imagine what you need to put out there to be recognised 😂😂😂😂 when a 16 has not only mastered but now owns this shit😭😭😭😭
+Whookid Africa: You're still dealing with it you are coding in what
+Adi5423_: That's being common now days uk......everyday u gonnna se a child coming up with higher coding skills than any one else
+Adi5423_: Don't know what they eating
+Adi5423_: I made a AI Assistant in python months ago now I want to develop a proper application till June anyhow , that's why I m switching to C# changing that whole code to C#
+Whookid Africa: Umm it's hard place to be now I realise the difference between pushed and not coz that's a lot of pressure 😭16
+Adi5423_: Yeaaa.........
+Adi5423_: Btw
+Adi5423_: U also a programmer in python right ?
+Whookid Africa: 😂😂I think it's some new brain steroids probably going to be published after 3 years these were just test subjects 😂😂😂😂
+Adi5423_: Yeaaaa😂 <This message was edited>
+Adi5423_: Wanna see my AI Assistant Python project?
+Whookid Africa: Ummm that hard so now you you have to from scratch
+Whookid Africa: Yeah
+Adi5423_: Fr I do have to
+Adi5423_: Then also implement it in Unity
+Adi5423_: The fricking headache
+Adi5423_: Wanna see my project 🥹
+Adi5423_: I named her Aistie.......
+Adi5423_: It's not that complicated just the proper use of if else nothing much
+Whookid Africa: It's hot up there tht kinda thing some might get killed to win you over here😂😂😂😂
+Whookid Africa: Yes
+Adi5423_: For real man 😂
+Whookid Africa: Okay hit me🫡
+Whookid Africa: For real I think thats the other reason why we don't have the drive to do much in a short period of time😭
+Whookid Africa: You are breaking boundaries 🤌🏽
+Adi5423_: Damm wtf I m unable to send the video
+Adi5423_: What the heck going on man
+Adi5423_: Idk what's issue it's showing red mark while sending the video
+Adi5423_: Yeah maybe so 🙃🙃
+Whookid Africa: Okay you can try I it another time
+Adi5423_: Trying too 🙃but thanks for this 🙃🌟
+Adi5423_: Umm yeaa
+Adi5423_: Ugh wait
+Adi5423_: I also
+Adi5423_: posted that on my linkedin
+Whookid Africa: Maybe it's too big
+Adi5423_: wait sending the link
+Adi5423_: 33 sec
+Adi5423_: 🫠
+Whookid Africa: Yeah that's actually the problem it'll be hard catching up😂😂😂
+Adi5423_: YEaaaaa😂
+Adi5423_: https://www.linkedin.com/posts/aditya-tiwari-59b82927a_aiassistant-pythonprogramming-artificialintelligence-activity-7189348303459778560-GL2U?utm_source=share&utm_medium=member_desktop
+Adi5423_: That was the first prototype
+Whookid Africa: Okay cool what 33 seconds umm now don't know
+Adi5423_: It's not using the Machine Learning algorithm just using the basic to respond
+Whookid Africa: Okay lemme checknit out
+Adi5423_: Ugh yea I sended it
+Whookid Africa: Okay you have to teach me these. Things too man
+Adi5423_: Sure.....
+Adi5423_: https://www.linkedin.com/feed/update/urn:li:activity:7189358608336187393?utm_source=share&utm_medium=member_desktop
+Whookid Africa: Ummm broe😭😭😭😭👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽wow man I didn't understand it clearly until the video jeez man I don't know what to say this is to me and what I see over another level 🤌🏽You should be proud man for your age you doing great this bro👏🏽
+Whookid Africa: I have a lotbof questions now man this is just something are clearly 17😳
+Adi5423_: I think I found the error in my C code......idk I got one solution but with error r not idk , mann this C# is just shitt dudeeee
+Adi5423_: It's not that much great I appreciate your appreciation for my projects but it's for real nothing much 🙃......
+Adi5423_: Damm broo thankyou so muchhh🙃🌟
+Whookid Africa: 😂😂😂yah good luck with those bugs bro but you'll figure the out eventually
+Adi5423_: Dammm fianllllyyyyy I found the errorrrrr😭😭😭😭
+Whookid Africa: Umm so like how many years do I need to build that😂😂😂
+Adi5423_: Ugh just a sec to copy and paste 😂😂
+Whookid Africa: After the eyes poped out😂😂
+Adi5423_: Realllyyyy
+Adi5423_: Btw what's your age
+Whookid Africa: Nooo like something of a kind😂
+Whookid Africa: I am turning 18 in July
+Adi5423_: Ugh Happy Birthday in Advance😂🌟
+Adi5423_: Yea yeaaa I got that just kidding 😂
+Whookid Africa: 😂😂😂thanks broe appreciate it
+Adi5423_: Hehehehehhe😂😂
+Whookid Africa: So I'll need YouTube and what you know I always want to get into ai but ryt don know where exactly
+Adi5423_: Btw Aditya this side 🫱🏼‍🫲🏽
+Adi5423_: 🤝
+Whookid Africa: And happy late birthday 😂😂
+Adi5423_: Just start whatever you see you will get the path automatically later then
+Whookid Africa: Okay😅
+Adi5423_: Thankyouuu😂
+Whookid Africa: Okay I have to just start
+Adi5423_: You?
+Adi5423_: u must
+Whookid Africa: Ohh I'm Blessing 🫱🏽‍🫲🏽
+Whookid Africa: 😂😂okay I will
+Adi5423_: Can call me Adi by the way
+Adi5423_: Nice to meet Blessing
+Adi5423_: Yeaaa😂
+Whookid Africa: And you can go with Whookid thatss like wat I use on app
+Adi5423_: Which Country btw?
+Adi5423_: Umm hmm hmm
+Adi5423_: Ohkh Whookid
+Whookid Africa: Me Zimbabwe and you India I presume
+Adi5423_: Yaass
+Whookid Africa: I get a lot of trouble with your buddies on online chess😂😂😂
+Adi5423_: Why is it hard to find foreigners gender by there name 😂😂like fr whom I meet out of india I never got to know they male r female just by their nameeee😂
+Adi5423_: Why soo 😂
+Adi5423_: I play basketball btw 😂
+Whookid Africa: Yahh it's same for everyone me included it's hard unless ahh there is no way actually 😂😂
+Adi5423_:
+Whookid Africa: I'm striving to get to class B but they are always taking my points😂😂😂 hard to beat
+Whookid Africa: Online I have a passion for that but ain't going for it yet😂😂
+Adi5423_: Fr like in india we do get to know the other person's gender by there name only , maybe in all the countries ig , cause they familiar with there names , but I always fail when it's out of india 😂😂
+Adi5423_: Bruhh😂
+Whookid Africa: What is that another Ai I never thot it can be created at home by one person 😂😂😂
+Adi5423_: Yeah like creating a AI is ofc the harder task but also implementable......😂
+But it's not another AI it's just the Voice Engine of Microsoft "Sapi5" you probably gonna use it a lot in python it's so familiar there
+Whookid Africa: Yeah I think you can only know if you are familiar with the names and your are in the country too but mine is Unisex it's soo confusing 😂😂
+Adi5423_: For real 😂
+Adi5423_: But lee mee guesssss
+Whookid Africa: Still counting reasons to skip another days😂😂
+Adi5423_: Male right!!!😴
+Adi5423_: Usss😂
+Whookid Africa: Ofc it is 🤓duhh it's the thing of nowadays so Sapi5 is actually a great help in those kinda projects
+Adi5423_: Yea it is
+Whookid Africa: 🫱🏽‍🫲🏽Spot on
+Adi5423_: But I'll suggest to use pyttsx3 engine for voice in python to you that's more better there
+Adi5423_: Less complicated uk like
+Adi5423_: hehehehe
+Whookid Africa: Damn I have a lot on mynplate now a whole new bucket of bucket lists😂😂😂
+Adi5423_:
+Whookid Africa: Okay
+Adi5423_: There's still a lot 😂
+Whookid Africa: I didn't get this is blackbox ai free
+Adi5423_: Yea it totally freee
+Whookid Africa: Okay broe
+Adi5423_: He is my partner 😂
+Adi5423_: Uk I made one thing like which can control the mouse with index finger
+Whookid Africa: 😂😂 partner in crime I was still using WhatsApp bots😂😂😂
+Adi5423_: Gesture Recognition SYstem for mouse control
+Adi5423_: Ughhh huhhh 😂😂
+Whookid Africa: Like using hand don't you need to know computer vision for that
+Adi5423_:
+Whookid Africa: 😂😂🫱🏽‍🫲🏽yoir partner surely
+Adi5423_: Yeaaa the system camera.....
+You can say it's computer vision but not fully , like fully computer vision includes recognition of things in the video and all
+Whookid Africa:
+Adi5423_: But that Simple Using hand gesture control system to control the mouse so yeah a bit in Computer Vision
+Adi5423_: Ughhh huhhhh 😂😂
+Whookid Africa: Err man soo it actually works🙆🏽‍♂️
+Whookid Africa: Man my battery is about to die am logging out 🙆🏽‍♂️
+Adi5423_: Fr.....and then as a upgrade I made another one to be controlled by the eye ball
+Whookid Africa: Okay so it seems you reached that level like computer vision
+Adi5423_: Where you move the eye it gonna capture it and move the cursor therefor.......
+Adi5423_: Ohkh see you soon
+Whookid Africa: 😂😂😂😂😂😂😂 no no no no
+Adi5423_: I can yea at the first step
+Adi5423_: Also a one to do drawing with the index finger 😋
+Adi5423_: That was one of my dream project
+Whookid Africa: You you😂😂😂 now that madness how can that be
+Adi5423_: Hehehehe
+Adi5423_: Heheheheheh😂😂😂
+Whookid Africa: Okay man I'll be in touch ✌🏽
+Adi5423_: 😂😂😂😂😂😂😂😂
+Adi5423_: Ohkh
+Adi5423_: 🫱🏼‍🫲🏽
+Whookid Africa: Haaa it'll be a dream come true that's like vision pro😎
+Adi5423_: Hahahaah sure............
+Whookid Africa: Umm tht will be a movie for another timeline
+Adi5423_: For real it'll be😂
+Adi5423_: Ohkh then
+Adi5423_: Byee
+Adi5423_: GN
+Whookid Africa: By

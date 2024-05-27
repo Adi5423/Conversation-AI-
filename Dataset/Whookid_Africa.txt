@@ -1,0 +1,433 @@
+5/25/24, 4:53 PM - Whookid Africa: What's up bro
+5/25/24, 4:54 PM - Whookid Africa: Can you give ideas for game development for a beginner
+5/25/24, 4:54 PM - Whookid Africa: And what kind of games do u create
+5/25/24, 8:41 PM - Adi5423_: Ideas you must think onè by your own....ideas take time to be come in mind and get implemented
+5/25/24, 8:42 PM - Adi5423_: I m not that much into it but i just created 2 games for getting hands on
+5/25/24, 11:15 PM - Whookid Africa: I mean I have some ideas but I don't know some like things that can make this even easier I imean tools
+5/25/24, 11:15 PM - Whookid Africa: Do you know any
+5/25/24, 11:16 PM - Whookid Africa: What language do you code them in
+5/25/24, 11:16 PM - Whookid Africa: 2D
+5/25/24, 11:34 PM - Adi5423_: Not now
+5/25/24, 11:35 PM - Adi5423_: Use unity it's free and best
+5/25/24, 11:35 PM - Adi5423_: You can make what you want easily ther....
+5/25/24, 11:35 PM - Adi5423_: there*
+5/25/24, 11:35 PM - Adi5423_: 3d
+5/25/24, 11:35 PM - Adi5423_: One for android other for Windows
+5/25/24, 11:36 PM - Adi5423_: Unity Game Dev Engine just supports C#
+5/25/24, 11:36 PM - Adi5423_: So yeah i code them in C#
+5/25/24, 11:36 PM - Whookid Africa: What about python
+5/25/24, 11:36 PM - Whookid Africa: Okay thanks
+5/25/24, 11:37 PM - Adi5423_: Not good for game dev , can create games with python but not that much good
+5/25/24, 11:37 PM - Whookid Africa: It take me a decade to learn c#
+5/25/24, 11:37 PM - Adi5423_: Better you go with game development engines
+5/25/24, 11:37 PM - Adi5423_: Start learning a easy language in programming like python later switch to a hard one
+5/25/24, 11:37 PM - Whookid Africa: Damn okay so there ain't no other option
+5/25/24, 11:38 PM - Adi5423_: I don't know the whole C# not even perfect basics , i just know python and a bit more java
+5/25/24, 11:38 PM - Adi5423_: I did ml in python
+5/25/24, 11:38 PM - Adi5423_: So i easily switched to C#
+5/25/24, 11:38 PM - Whookid Africa: I now know python so I can now switch to c#
+5/25/24, 11:38 PM - Whookid Africa: In University
+5/25/24, 11:38 PM - Adi5423_: There are options but better if you go with what the tools are available for what task
+5/25/24, 11:39 PM - Adi5423_: What are your projects?
+5/25/24, 11:39 PM - Whookid Africa: But u can create a game
+5/25/24, 11:39 PM - Adi5423_: By own
+5/25/24, 11:39 PM - Adi5423_: By yt and AI
+5/25/24, 11:39 PM - Whookid Africa: And u know ml I don even know where to start
+5/25/24, 11:40 PM - Adi5423_: I can....
+Use the technologies , like go with BlackBox ai and Chat GPT and Gemini for code tutorial....i did the same i didn't purchased a course even till now
+5/25/24, 11:40 PM - Whookid Africa: A space invaders game
+5/25/24, 11:40 PM - Whookid Africa: And now I'm working on a platformer 2D in pygame
+5/25/24, 11:41 PM - Whookid Africa: And this blackbox I hear it a lot is it free
+5/25/24, 11:41 PM - Adi5423_: Just stood with the things your interest attracts to....for ex my attraction towards AI and Automation so i did this and all for myself
+5/25/24, 11:41 PM - Adi5423_: Umm ohkh
+5/25/24, 11:41 PM - Whookid Africa: 😂😂😂 learning made easier for those who are interested
+5/25/24, 11:42 PM - Adi5423_: If u want to persuate with game dev then why you doing python
+5/25/24, 11:42 PM - Adi5423_: Go with c
+5/25/24, 11:42 PM - Adi5423_: And use game dev engines rather learning a library and sticking with a single language
+5/25/24, 11:42 PM - Adi5423_: For real.......
+5/25/24, 11:43 PM - Adi5423_: You just need to know what you have to learn nothing else
+5/25/24, 11:43 PM - Adi5423_: Everything's free nowdays
+5/25/24, 11:43 PM - Adi5423_: Wait lee mee send my game apk
+5/25/24, 11:43 PM - Whookid Africa: Ohh okay so python is just good at ai and automation
+5/25/24, 11:43 PM - Whookid Africa: And for game Dev...
+5/25/24, 11:44 PM - Whookid Africa: C# okay I'll get started on that
+5/25/24, 11:44 PM - Adi5423_: "https://drive.google.com/drive/folders/1t4Ss5ZO_11ZmycsoCsSu_Akh_EpRdryz?usp=drive_link"
+
+You can see the first test apk and then the final test apk with the name "With Sound - 3"
+5/25/24, 11:44 PM - Adi5423_: it runs only in android
+5/25/24, 11:44 PM - Adi5423_: Yeahhh
+5/25/24, 11:45 PM - Adi5423_: Yeah if u really wanna get into game dev learn the C# and then learn Unity Game Engine
+5/25/24, 11:45 PM - Adi5423_: If you just wanna make some games
+5/25/24, 11:45 PM - Adi5423_: For getting hands on like me
+5/25/24, 11:45 PM - Whookid Africa: Okay
+5/25/24, 11:46 PM - Whookid Africa: Yeah I have that so it's 3d I bet you did maths 😂😂
+5/25/24, 11:46 PM - Adi5423_: Just Start with Unity directly and basics of C# and later u will learn C# as well properly with time and more projects.....
+5/25/24, 11:46 PM - Adi5423_: Ugh huuhh 😂
+5/25/24, 11:46 PM - Whookid Africa: I like it for fun it's just fun maybe it myt get serious
+5/25/24, 11:46 PM - Whookid Africa: 👍🏼
+5/25/24, 11:47 PM - Whookid Africa: So unity game engine has to be learnt too🤦🏽‍♂️🤦🏽‍♂️🥵
+5/25/24, 11:47 PM - Adi5423_: I was now days working on Space game but didn't got any free 3D model of Sun for my project so currently dropped the idea and working on Automation project with C#
+5/25/24, 11:47 PM - Adi5423_: It's shitttt , it's just so wide , don't think it's fun
+5/25/24, 11:47 PM - Whookid Africa: Does it involve a lot of mathematics
+5/25/24, 11:48 PM - Adi5423_: You will get errors which you not gonna find the solutions online so better to make a mindset to stick with problems
+5/25/24, 11:48 PM - Adi5423_: Yeaahh
+5/25/24, 11:48 PM - Adi5423_: Without that you can't
+5/25/24, 11:48 PM - Adi5423_: Depends on your game
+5/25/24, 11:48 PM - Adi5423_: But yeah maths
+5/25/24, 11:48 PM - Whookid Africa: What's automation all about I don't really get the idea
+5/25/24, 11:49 PM - Adi5423_: Is important but no need to worry
+5/25/24, 11:49 PM - Whookid Africa: It's not fun😂😂
+5/25/24, 11:49 PM - Adi5423_: You will learn that much with time and tutorials and experience
+5/25/24, 11:49 PM - Whookid Africa: Yah it's really a drag
+5/25/24, 11:50 PM - Whookid Africa: Yeah there is no way around it
+5/25/24, 11:50 PM - Adi5423_: Making things automatic with ML and Artificial Intelligence
+5/25/24, 11:50 PM - Adi5423_: Nahhhhh
+5/25/24, 11:51 PM - Whookid Africa: Okay that's the thing to do nowadays for the future
+5/25/24, 11:51 PM - Adi5423_: That's not like that
+5/25/24, 11:51 PM - Adi5423_: I m not a specialist r a topper in maths
+5/25/24, 11:51 PM - Adi5423_: R something else
+5/25/24, 11:51 PM - Adi5423_: I just know i have to learn coding and make my projects to come real
+5/25/24, 11:51 PM - Adi5423_: I can learn anything then
+5/25/24, 11:52 PM - Adi5423_: Doesn't matter it's maths r physics
+5/25/24, 11:52 PM - Adi5423_: Game incl both Physics and Maths
+5/25/24, 11:52 PM - Whookid Africa: Okay so like do you have projects In ml like the automation
+5/25/24, 11:52 PM - Adi5423_: If you will just keep learning nothing gonna happen until and unless u step up to work on your ideas
+5/25/24, 11:52 PM - Adi5423_: I do
+5/25/24, 11:53 PM - Whookid Africa: Yeah those to things fail to know them and implement them properly your game will suck
+5/25/24, 11:54 PM - Whookid Africa: That's a fact but sometimes these PDFs don't offer much
+5/25/24, 11:54 PM - Adi5423_: Yeah Mathematics and Physics is so wide don't just stick a particular thing start implementing
+5/25/24, 11:54 PM - Whookid Africa: Yah u have really come a long way for hw long have u been coding
+5/25/24, 11:55 PM - Adi5423_: Don't go with others notes make your own from your own style , you can't learn properly from others notes
+5/25/24, 11:56 PM - Adi5423_: They are just a piece of information but you can create what u learning by videos create your own notes
+5/25/24, 11:56 PM - Adi5423_: That gonna be best fr
+5/25/24, 11:56 PM - Whookid Africa: Especially 3D , becoz these 2Ds are giving me trouble and without an engine we ain't going nowhere
+5/25/24, 11:56 PM - Adi5423_: Ugh i think 1 Year
+5/25/24, 11:57 PM - Whookid Africa: 🥵😂😂😂What
+5/25/24, 11:57 PM - Adi5423_: Hmmm , you will also have to learn a lot , like 3D Modelling , Sculpting , Texturing , Graphics , and etc ,
+5/25/24, 11:57 PM - Adi5423_: I also do 3D Modeling
+5/25/24, 11:57 PM - Whookid Africa: That's one fuck*ng lie
+5/25/24, 11:57 PM - Adi5423_: I make Animated Phots , and short videos......
+5/25/24, 11:57 PM - Adi5423_: Yeaahh 😂
+5/25/24, 11:58 PM - Adi5423_: Ugh naah naah that isn't 😂
+5/25/24, 11:58 PM - Whookid Africa: Yeah thts really wat we begginers miss proper media and then we get stuck
+5/25/24, 11:58 PM - Adi5423_: It just been a year
+5/25/24, 11:58 PM - Adi5423_: Yeahh just watch tutorial use Ai and make your own notes
+5/25/24, 11:59 PM - Whookid Africa: Bro how old are you thts a lot do u have like a bachelor in these things
+5/25/24, 11:59 PM - Adi5423_: It was just a random night when i started learning python 😂
+5/25/24, 11:59 PM - Adi5423_: To just do timepass then i started living in it 🥹
+5/25/24, 11:59 PM - Whookid Africa: Umm how do you do man what's the trick
+5/25/24, 11:59 PM - Adi5423_: I m 17 now....
+5/26/24, 12:00 AM - Whookid Africa: Umm thts deep it can't be achieved in one year😂
+5/26/24, 12:00 AM - Adi5423_: Thankyouu for the appreciation.....🥹
+5/26/24, 12:01 AM - Whookid Africa: 😳 Yeah some are called to it🥵
+5/26/24, 12:01 AM - Whookid Africa: Yeah python is fun but if you get too comfortable you myt go dumb 😂😂
+5/26/24, 12:02 AM - Whookid Africa: But man u serious aren't you like 20 or something 😅
+5/26/24, 12:02 AM - Adi5423_: I just used AI and youtube together.....and started making projects even when i was just a learner now too i m learner but still , i started making projects , when i just cleared the basics of python , i thought that's enough in python 😂although i was wrong but those projects helped me learn a lot
+5/26/24, 12:03 AM - Adi5423_: It can 😂only if you be mad for what you wanna do 🙃
+5/26/24, 12:03 AM - Adi5423_: Ugh huhhh 🥹😂
+5/26/24, 12:03 AM - Whookid Africa: Umm so it has just been one year I can imagine the focus you have🙋🏽‍♂️🫂👏🏽🥵
+5/26/24, 12:05 AM - Adi5423_: Mee was also so dumb in programming in starting , i got to know about java i learned java from a coaching institute that person made me learn java basics and a bit intermediate....then i got to know what the heck is this coaching , leaving java i switched to python , and now switching to C# for projects implementation.....
+5/26/24, 12:05 AM - Whookid Africa: Okay I think you motivation is permanent cause we others we just say umm nahh I'll learn some more after maybe a week 😂😂😂😂
+5/26/24, 12:05 AM - Adi5423_: Nah nah i m not 😂😂 i just got 17 on 1st May this year 😂
+5/26/24, 12:06 AM - Adi5423_: Heheheheh 🥹coding is just loveee uk.....🫀💫🥹
+5/26/24, 12:06 AM - Whookid Africa: Okay thats a huge leap bro u've got talent and determination if one could only copy🥵👍🏼
+5/26/24, 12:06 AM - Adi5423_: Ugh i don't think soo....even i too sometimes think am i doing i something i m not supposed too.....
+5/26/24, 12:06 AM - Adi5423_: Then i try to switch into different things and all
+5/26/24, 12:07 AM - Adi5423_: Then back to coding like a fcker 😂😂
+5/26/24, 12:07 AM - Whookid Africa: U are going to kill people with depression 😂😂😂
+5/26/24, 12:07 AM - Adi5423_: Anything for coding 🥹
+5/26/24, 12:07 AM - Whookid Africa: 😂😂😂yeah
+5/26/24, 12:07 AM - Adi5423_: Damm brooo 😂😂🌟
+5/26/24, 12:07 AM - Adi5423_: 😂😂
+5/26/24, 12:08 AM - Whookid Africa: That happens a lot😂😂
+5/26/24, 12:08 AM - Adi5423_: Uk i started my first Game Dev project in 2018 mid🥹
+5/26/24, 12:08 AM - Adi5423_: I was like what that fricking person is doing i m going to do the same 😂
+5/26/24, 12:08 AM - Adi5423_: A lotttt😂
+5/26/24, 12:08 AM - Whookid Africa: Coz for age it's too too much to know all that too much doesn't even describe it, I'm moved😂😂✌🏽
+5/26/24, 12:09 AM - Adi5423_: Then later i got to know what i did years back was something which i dream now days 🥹😂
+5/26/24, 12:09 AM - Adi5423_: I m just a small portion of this ocean man.....there would a lot more than mee
+5/26/24, 12:09 AM - Adi5423_: I m nothing here......i m just trying and doing
+5/26/24, 12:10 AM - Whookid Africa: 😂😂😂yeah seems you had a setback
+5/26/24, 12:10 AM - Adi5423_: There are people who are actually killing these shitsss
+5/26/24, 12:10 AM - Whookid Africa: SME here but your rate of doing thing is to fast😂😂😂
+5/26/24, 12:10 AM - Whookid Africa: Though it's good
+5/26/24, 12:11 AM - Adi5423_: Reall one 😂from last 3 days one fricking error coming in my dreams every single night 😭😭damm that's soo frustrating......
+5/26/24, 12:11 AM - Whookid Africa: Umm pipo of your same age u mean
+5/26/24, 12:11 AM - Adi5423_: Ughh thanks a lot for that man 🥹🌟😂
+5/26/24, 12:11 AM - Adi5423_: Thankyouu🥹🌟
+5/26/24, 12:12 AM - Whookid Africa: Bugs bugs bugs😂😂😂😂 that's the whole thing no way around it too
+5/26/24, 12:12 AM - Adi5423_: i don't know of my same age r not , i never tried searching that , but many one are killing though , i m just if compared to the real ones......i wanna do a lot more than this
+5/26/24, 12:13 AM - Adi5423_: Average day in a programmer life 😂
+5/26/24, 12:13 AM - Adi5423_: Btw what bout you buddy
+5/26/24, 12:13 AM - Adi5423_: Been a lot talking bout my things
+5/26/24, 12:13 AM - Adi5423_: Something bout you now!!!....
+5/26/24, 12:13 AM - Adi5423_: How long it been to you
+5/26/24, 12:13 AM - Adi5423_: In coding
+5/26/24, 12:13 AM - Whookid Africa: Okay me I just started like January
+5/26/24, 12:14 AM - Whookid Africa: Let's say 3 months of procrastination 😂😂
+5/26/24, 12:14 AM - Adi5423_: Umm hmm any specific reason to dive in coding sector
+5/26/24, 12:14 AM - Whookid Africa: And Im looking for ways to really get hands on with everything
+5/26/24, 12:15 AM - Adi5423_: Ugh yeaa yeaaa 😂3 months also a lot time🌟
+5/26/24, 12:15 AM - Whookid Africa: I just like the stuff and I think too much but less action 😂
+5/26/24, 12:15 AM - Adi5423_: Just start after learning even a bit , cause all this is like na just soo wide.....just start making things when u learn even a small things
+5/26/24, 12:16 AM - Adi5423_: Just make atleast worst but make
+5/26/24, 12:16 AM - Whookid Africa: So I'm trying to get into kivy now but it's telling me go and perfect your classes tutorials😂😂
+5/26/24, 12:16 AM - Adi5423_: That surely gonna keep you upgrading and let u learn a lot and fast
+5/26/24, 12:16 AM - Adi5423_: I was doing the same even still , i think a lot but not be able to do that much 😂
+5/26/24, 12:17 AM - Whookid Africa: Umm bro to a slow moving development it's not😂
+5/26/24, 12:17 AM - Adi5423_: Uk like just now before chatting with you i was trying to integrate the Speech Recognition in C# damm it's soo hectic in C for beginners🫠
+5/26/24, 12:18 AM - Whookid Africa: Okay thanks for the tip cause sometimes I try to make the projects too perfect and I get stuck and drop
+5/26/24, 12:18 AM - Adi5423_: Should i suggest you something?.....
+5/26/24, 12:18 AM - Adi5423_: Everyone start with this so no worries just chill 😂
+5/26/24, 12:18 AM - Whookid Africa: But u do it less of the times 😂😂
+5/26/24, 12:19 AM - Whookid Africa: Yeah yeah go on
+5/26/24, 12:19 AM - Whookid Africa: But how's c's SYNTAX 😂😂I see a lot of memes on pipo who switch having troubles
+5/26/24, 12:19 AM - Adi5423_: i too , i have a lot of dropped projects uk......
+But let it be everyone has do nothing gonna be perfect unless and until u bee a professional and like that something......
+Just try to make atleast.....that's the main nothing else
+5/26/24, 12:20 AM - Adi5423_: Ughhh you spying mee 😂😂😂😂
+5/26/24, 12:20 AM - Whookid Africa: Okay will but now that I have a challenge but not that I can beat I will push this thing
+5/26/24, 12:20 AM - Adi5423_: What your main goal like , a game developer , software engineer , Ai , like what you wanna get into with coding....
+5/26/24, 12:21 AM - Adi5423_: Like me in Automation and AI
+5/26/24, 12:21 AM - Adi5423_: SO what bout you
+5/26/24, 12:21 AM - Adi5423_: It's shittt mannnnnn 😂fr shittttt🫠
+5/26/24, 12:22 AM - Adi5423_: Even uk why i m switching to C# , i just want to make a AI Application with Unity Engine , and it just supports C# so yeah that why
+5/26/24, 12:22 AM - Whookid Africa: Okay but in making lies the knowing you know soo I have to go deeper in this intermidiate then I have a foundation
+5/26/24, 12:22 AM - Whookid Africa: 😂😂😂waht why how <This message was edited>
+5/26/24, 12:23 AM - Adi5423_: Try to find the solution of the problems and errors.....learn why the error r that problem is and analyze what you doing u automatically gonna get the solution by own so don't drop
+5/26/24, 12:23 AM - Whookid Africa: Ai but just beating around the bush to have fun😂😂
+5/26/24, 12:23 AM - Whookid Africa: Haa I don't think I'll be landing on that side anytime soon
+5/26/24, 12:24 AM - Adi5423_: Start slow , i was just a mad , got back on the track cause of luck r extra work idk but just start slow buddy , if u dont then u gonna get a lot issues later.....
+5/26/24, 12:24 AM - Adi5423_: Start slow
+5/26/24, 12:24 AM - Adi5423_: and learn first
+5/26/24, 12:24 AM - Adi5423_: Atleast the foundation
+5/26/24, 12:24 AM - Whookid Africa: Okay so when it comes to implementing C# comes into picture
+5/26/24, 12:24 AM - Adi5423_: I don't know anything i m just a learner
+5/26/24, 12:25 AM - Whookid Africa: Noted that another problem solved 😂😂
+5/26/24, 12:26 AM - Whookid Africa: Yeah coz we want to jump into the fun stuff too early
+5/26/24, 12:26 AM - Adi5423_: Hahahahaha😂
+5/26/24, 12:26 AM - Whookid Africa: Okay so the goal is just to keep learning 👍🏼
+5/26/24, 12:26 AM - Adi5423_: That's why i started doing that , idk but i love Automations and AI
+5/26/24, 12:27 AM - Adi5423_: I never thought the same for mee too but see i m doing
+5/26/24, 12:27 AM - Whookid Africa: This has helped me a lot now I have somewhere to start again thanks man
+5/26/24, 12:27 AM - Adi5423_: I was really the lowest marks student in my class
+5/26/24, 12:27 AM - Adi5423_: And in Computer Science i was really shit
+5/26/24, 12:28 AM - Adi5423_: Ugh i don't know much bout C# , i m trying to make a final application with C# atleast till 1st of June to publish my first application on PlayStore
+5/26/24, 12:28 AM - Whookid Africa: Me too but for robotics if get the sense I figured that maybe I can do electronics along with coding
+5/26/24, 12:28 AM - Adi5423_: Yooooo 😂😂
+5/26/24, 12:29 AM - Adi5423_: Yeahhh exactly that's what i did and suffered a bit
+5/26/24, 12:29 AM - Adi5423_: But it was fun though no doubt with obviously no sleeping days and all 😂
+5/26/24, 12:29 AM - Adi5423_: Keep learning with implementation too , but with time
+5/26/24, 12:30 AM - Whookid Africa: Yah goals too I think u have really learnt a lot in this one year
+5/26/24, 12:30 AM - Adi5423_: No worries buddy coding buddies never greet they just keep going , so wish you the best mannn🌟🤌🏻
+5/26/24, 12:30 AM - Whookid Africa: 😂😂😂That bad me I'm just getting start I figured I can't do computers if I don't know the science behind them
+5/26/24, 12:31 AM - Adi5423_: That really a lot shittttt , uk like connecting Electrical adn Software Engineering togetherrrr🥹ittt's sooo fun and like wowwww but obivouslyyy a big shitttt
+5/26/24, 12:32 AM - Adi5423_: I have a lot plans for that , but i still need to learn a frickinggg lottttt
+5/26/24, 12:32 AM - Adi5423_: A lottt mannn
+5/26/24, 12:32 AM - Whookid Africa: No sleeping too that's crazy I did it once when I wanted to finish my first game I mean it continued for weeks so yeah I get you🫂😂😂😂
+5/26/24, 12:33 AM - Whookid Africa: Thanks bro means a lot coming from a personal profesor 😂😂😂
+5/26/24, 12:33 AM - Adi5423_: It was just the depression before coding to make me mentally stable to face my failures with the best mindset.....so yeah i got to learn how we live in a year vefore starting coding , and then in a year i learned coding.....
+5/26/24, 12:33 AM - Adi5423_: But uk like this whole process was a shitt and best too mannn 🥹🫠
+5/26/24, 12:34 AM - Adi5423_: Yeaaah exactlyyyy 😂😭🫂
+5/26/24, 12:34 AM - Whookid Africa: Yeah coz I really like drones I think that SDl is really driving me crazy
+5/26/24, 12:34 AM - Adi5423_: I didn't sleept for 3 straight days cause i was working first time on Machine Learning and Building AI.....so it was a lot fun for 3 days
+5/26/24, 12:35 AM - Adi5423_: Starightt
+5/26/24, 12:35 AM - Adi5423_: 🥹
+5/26/24, 12:35 AM - Whookid Africa: You really like this shitting word you are going to get banned
+5/26/24, 12:35 AM - Whookid Africa: Yah I hope for the same too this year
+5/26/24, 12:35 AM - Adi5423_: Although i got sick after that but i completed my first AI project with like 5 perc of knowledge in AI in just 3 days....that was really a achievement for meee🥹
+5/26/24, 12:36 AM - Adi5423_: Damm broo i m nott 😂😂
+5/26/24, 12:37 AM - Adi5423_: You must doo that , it also need a lot to evolve so better you learn what to you want to achieve though rather than learning everything
+5/26/24, 12:37 AM - Whookid Africa: 😂😂😂😂ummm bro u You must be crazy for this shit but I think with the level i want to get into ml I'll do the same
+5/26/24, 12:37 AM - Adi5423_: For real soon i gonna bee 😭😂😭😂
+5/26/24, 12:37 AM - Adi5423_: Everything gonna be cool no worries........
+5/26/24, 12:37 AM - Whookid Africa: You got sick😂😂😂 You had cataracts
+5/26/24, 12:38 AM - Adi5423_: Yeaaaa u must 😂but also be prepared for body illness after those days.....🫠like eyes pain headache , body pain weakness and all so get prepared 😂😂
+5/26/24, 12:39 AM - Whookid Africa: That's a fact cause u myt watse all of your time to only reset for another thing🥵
+5/26/24, 12:40 AM - Whookid Africa: Definitely but they say these chats are encrypted even to them soo u are safe😂😂😂
+5/26/24, 12:40 AM - Adi5423_: When u'll work 3 days straight on screen it surely gonna be like that , a really bad experience....😂
+5/26/24, 12:40 AM - Whookid Africa: Damn I wish for that beautiful pain it's satisfying pain😂😂😂
+5/26/24, 12:40 AM - Adi5423_: Umm yeaaaa🫠
+5/26/24, 12:41 AM - Adi5423_: I'll not be banned then huhhhh relief 😂
+5/26/24, 12:41 AM - Whookid Africa: Yeah but the results are going to be 🍿
+5/26/24, 12:41 AM - Adi5423_: For real it isss🥹😂🌟
+5/26/24, 12:41 AM - Adi5423_: The bessttttttttt like huhhh can't explain
+5/26/24, 12:42 AM - Adi5423_: Uk the main shitt what happened after 3 days 😂
+5/26/24, 12:42 AM - Whookid Africa: Only if someone doesn't report you coz that's when they'll really check
+5/26/24, 12:42 AM - Whookid Africa: 😂😂😂😂😂
+5/26/24, 12:42 AM - Adi5423_: They not gonna give a single shit to all this shitsssss.......if they will ban uss who gonna use them😂
+5/26/24, 12:44 AM - Adi5423_: My system got crashed and i fricking lost all my progresssss and all cause i was beginner and didn't knew how to keep the files backup....🫠
+5/26/24, 12:45 AM - Adi5423_: i recovered a bit somehow but i lost some main code files from that so a f'ed up but first successful project huuhhh
+5/26/24, 1:22 AM - Whookid Africa: Haa do you have therapist at home how did you survive losing all data even me if my phone dies now all is dead🥵
+5/26/24, 1:23 AM - Whookid Africa: 😂😂😂yeah they are in biz coz of us u damn ryt
+5/26/24, 1:42 AM - Adi5423_: Just personal depression issues uk after all this 😂😂😂😭😭
+5/26/24, 1:42 AM - Adi5423_: Yeaaaaa exactlyyy😂😂
+5/26/24, 3:05 AM - Adi5423_: "https://www.instagram.com/reel/C7QsX0kSAyG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+5/26/24, 3:05 AM - Adi5423_: See that's what I was telling you people are killing now days
+5/26/24, 3:05 AM - Adi5423_: I m nothing her
+5/26/24, 3:05 AM - Adi5423_: here*
+5/26/24, 3:23 AM - Whookid Africa: Ummm that's just too much🥵🥵🥵16 and has surpassed I think they forgot a global achievement award 😂😂 I think she is the first it's crazy at 16🥵 yah I cannot imagine seriously 😅
+5/26/24, 3:24 AM - Whookid Africa: Umm that kinda data being lost you can die of depression
+5/26/24, 3:24 AM - Adi5423_: You must heard "India is not for beginners" today you saw that tooo😂
+5/26/24, 3:24 AM - Adi5423_: For reall
+5/26/24, 3:25 AM - Adi5423_: Mann this one fucking error not getting off mee since last night
+5/26/24, 3:26 AM - Whookid Africa: Yeah it's not now imagine what you need to put out there to be recognised 😂😂😂😂 when a 16 has not only mastered but now owns this shit😭😭😭😭
+5/26/24, 3:26 AM - Whookid Africa: You're still dealing with it you are coding in what
+5/26/24, 3:27 AM - Adi5423_: That's being common now days uk......everyday u gonnna se a child coming up with higher coding skills than any one else
+5/26/24, 3:27 AM - Adi5423_: Don't know what they eating
+5/26/24, 3:28 AM - Adi5423_: I made a AI Assistant in python months ago now I want to develop a proper application till June anyhow , that's why I m switching to C# changing that whole code to C#
+5/26/24, 3:28 AM - Whookid Africa: Umm it's hard place to be now I realise the difference between pushed and not coz that's a lot of pressure 😭16
+5/26/24, 3:28 AM - Adi5423_: Yeaaa.........
+5/26/24, 3:29 AM - Adi5423_: Btw
+5/26/24, 3:29 AM - Adi5423_: U also a programmer in python right ?
+5/26/24, 3:29 AM - Whookid Africa: 😂😂I think it's some new brain steroids probably going to be published after 3 years these were just test subjects 😂😂😂😂
+5/26/24, 3:29 AM - Adi5423_: Yeaaaa😂 <This message was edited>
+5/26/24, 3:30 AM - Adi5423_: Wanna see my AI Assistant Python project?
+5/26/24, 3:30 AM - Whookid Africa: Ummm that hard so now you you have to from scratch
+5/26/24, 3:30 AM - Whookid Africa: Yeah
+5/26/24, 3:30 AM - Adi5423_: Fr I do have to
+5/26/24, 3:30 AM - Adi5423_: Then also implement it in Unity
+5/26/24, 3:30 AM - Adi5423_: The fricking headache
+5/26/24, 3:30 AM - Adi5423_: Wanna see my project 🥹
+5/26/24, 3:31 AM - Adi5423_: I named her Aistie.......
+5/26/24, 3:31 AM - Adi5423_: It's not that complicated just the proper use of if else nothing much
+5/26/24, 3:31 AM - Whookid Africa: It's hot up there tht kinda thing some might get killed to win you over here😂😂😂😂
+5/26/24, 3:31 AM - Whookid Africa: Yes
+5/26/24, 3:31 AM - Adi5423_: For real man 😂
+5/26/24, 3:31 AM - Whookid Africa: Okay hit me🫡
+5/26/24, 3:32 AM - Whookid Africa: For real I think thats the other reason why we don't have the drive to do much in a short period of time😭
+5/26/24, 3:33 AM - Whookid Africa: You are breaking boundaries 🤌🏽
+5/26/24, 3:33 AM - Adi5423_: Damm wtf I m unable to send the video
+5/26/24, 3:33 AM - Adi5423_: What the heck going on man
+5/26/24, 3:34 AM - Adi5423_: Idk what's issue it's showing red mark while sending the video
+5/26/24, 3:34 AM - Adi5423_: Yeah maybe so 🙃🙃
+5/26/24, 3:34 AM - Whookid Africa: Okay you can try I it another time
+5/26/24, 3:34 AM - Adi5423_: Trying too 🙃but thanks for this 🙃🌟
+5/26/24, 3:34 AM - Adi5423_: Umm yeaa
+5/26/24, 3:34 AM - Adi5423_: Ugh wait
+5/26/24, 3:34 AM - Adi5423_: I also
+5/26/24, 3:34 AM - Adi5423_: posted that on my linkedin
+5/26/24, 3:34 AM - Whookid Africa: Maybe it's too big
+5/26/24, 3:35 AM - Adi5423_: wait sending the link
+5/26/24, 3:35 AM - Adi5423_: 33 sec
+5/26/24, 3:35 AM - Adi5423_: 🫠
+5/26/24, 3:35 AM - Whookid Africa: Yeah that's actually the problem it'll be hard catching up😂😂😂
+5/26/24, 3:36 AM - Adi5423_: YEaaaaa😂
+5/26/24, 3:36 AM - Adi5423_: https://www.linkedin.com/posts/aditya-tiwari-59b82927a_aiassistant-pythonprogramming-artificialintelligence-activity-7189348303459778560-GL2U?utm_source=share&utm_medium=member_desktop
+5/26/24, 3:36 AM - Adi5423_: That was the first prototype
+5/26/24, 3:36 AM - Whookid Africa: Okay cool what 33 seconds umm now don't know
+5/26/24, 3:36 AM - Adi5423_: It's not using the Machine Learning algorithm just using the basic to respond
+5/26/24, 3:36 AM - Whookid Africa: Okay lemme checknit out
+5/26/24, 3:37 AM - Adi5423_: Ugh yea I sended it
+5/26/24, 3:37 AM - Whookid Africa: Okay you have to teach me these. Things too man
+5/26/24, 3:37 AM - Adi5423_: Sure.....
+5/26/24, 3:37 AM - Adi5423_: https://www.linkedin.com/feed/update/urn:li:activity:7189358608336187393?utm_source=share&utm_medium=member_desktop
+5/26/24, 3:42 AM - Whookid Africa: Ummm broe😭😭😭😭👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽wow man I didn't understand it clearly until the video jeez man I don't know what to say this is to me and what I see over another level 🤌🏽You should be proud man for your age you doing great this bro👏🏽
+5/26/24, 3:43 AM - Whookid Africa: I have a lotbof questions now man this is just something are clearly 17😳
+5/26/24, 3:44 AM - Adi5423_: I think I found the error in my C code......idk I got one solution but with error r not idk , mann this C# is just shitt dudeeee
+5/26/24, 3:45 AM - Adi5423_: It's not that much great I appreciate your appreciation for my projects but it's for real nothing much 🙃......
+5/26/24, 3:45 AM - Adi5423_: Damm broo thankyou so muchhh🙃🌟
+5/26/24, 3:46 AM - Whookid Africa: 😂😂😂yah good luck with those bugs bro but you'll figure the out eventually
+5/26/24, 3:46 AM - Adi5423_: Dammm fianllllyyyyy I found the errorrrrr😭😭😭😭
+5/26/24, 3:46 AM - Whookid Africa: Umm so like how many years do I need to build that😂😂😂
+5/26/24, 3:47 AM - Adi5423_: Ugh just a sec to copy and paste 😂😂
+5/26/24, 3:47 AM - Whookid Africa: After the eyes poped out😂😂
+5/26/24, 3:47 AM - Adi5423_: Realllyyyy
+5/26/24, 3:47 AM - Adi5423_: Btw what's your age
+5/26/24, 3:47 AM - Whookid Africa: Nooo like something of a kind😂
+5/26/24, 3:48 AM - Whookid Africa: I am turning 18 in July
+5/26/24, 3:48 AM - Adi5423_: Ugh Happy Birthday in Advance😂🌟
+5/26/24, 3:48 AM - Adi5423_: Yea yeaaa I got that just kidding 😂
+5/26/24, 3:49 AM - Whookid Africa: 😂😂😂thanks broe appreciate it
+5/26/24, 3:49 AM - Adi5423_: Hehehehehhe😂😂
+5/26/24, 3:49 AM - Whookid Africa: So I'll need YouTube and what you know I always want to get into ai but ryt don know where exactly
+5/26/24, 3:50 AM - Adi5423_: Btw Aditya this side 🫱🏼‍🫲🏽
+5/26/24, 3:50 AM - Adi5423_: 🤝
+5/26/24, 3:50 AM - Whookid Africa: And happy late birthday 😂😂
+5/26/24, 3:50 AM - Adi5423_: Just start whatever you see you will get the path automatically later then
+5/26/24, 3:50 AM - Whookid Africa: Okay😅
+5/26/24, 3:51 AM - Adi5423_: Thankyouuu😂
+5/26/24, 3:51 AM - Whookid Africa: Okay I have to just start
+5/26/24, 3:51 AM - Adi5423_: You?
+5/26/24, 3:51 AM - Adi5423_: u must
+5/26/24, 3:51 AM - Whookid Africa: Ohh I'm Blessing 🫱🏽‍🫲🏽
+5/26/24, 3:52 AM - Whookid Africa: 😂😂okay I will
+5/26/24, 3:52 AM - Adi5423_: Can call me Adi by the way
+5/26/24, 3:52 AM - Adi5423_: Nice to meet Blessing
+5/26/24, 3:52 AM - Adi5423_: Yeaaa😂
+5/26/24, 3:52 AM - Whookid Africa: And you can go with Whookid thatss like wat I use on app
+5/26/24, 3:52 AM - Adi5423_: Which Country btw?
+5/26/24, 3:53 AM - Adi5423_: Umm hmm hmm
+5/26/24, 3:53 AM - Adi5423_: Ohkh Whookid
+5/26/24, 3:53 AM - Whookid Africa: Me Zimbabwe and you India I presume
+5/26/24, 3:53 AM - Adi5423_: Yaass
+5/26/24, 3:54 AM - Whookid Africa: I get a lot of trouble with your buddies on online chess😂😂😂
+5/26/24, 3:54 AM - Adi5423_: Why is it hard to find foreigners gender by there name 😂😂like fr whom I meet out of india I never got to know they male r female just by their nameeee😂
+5/26/24, 3:55 AM - Adi5423_: Why soo 😂
+5/26/24, 3:55 AM - Adi5423_: I play basketball btw 😂
+5/26/24, 3:56 AM - Whookid Africa: Yahh it's same for everyone me included it's hard unless ahh there is no way actually 😂😂
+5/26/24, 3:56 AM - Adi5423_:    
+5/26/24, 3:57 AM - Whookid Africa: I'm striving to get to class B but they are always taking my points😂😂😂 hard to beat
+5/26/24, 3:57 AM - Whookid Africa: Online I have a passion for that but ain't going for it yet😂😂
+5/26/24, 3:58 AM - Adi5423_: Fr like in india we do get to know the other person's gender by there name only , maybe in all the countries ig , cause they familiar with there names , but I always fail when it's out of india 😂😂
+5/26/24, 3:58 AM - Adi5423_: Bruhh😂
+5/26/24, 3:59 AM - Whookid Africa: What is that another Ai I never thot it can be created at home by one person 😂😂😂
+5/26/24, 4:00 AM - Adi5423_: Yeah like creating a AI is ofc the harder task but also implementable......😂
+But it's not another AI it's just the Voice Engine of Microsoft "Sapi5" you probably gonna use it a lot in python it's so familiar there
+5/26/24, 4:00 AM - Whookid Africa: Yeah I think you can only know if you are familiar with the names and your are in the country too but mine is Unisex it's soo confusing 😂😂
+5/26/24, 4:01 AM - Adi5423_: For real 😂
+5/26/24, 4:01 AM - Adi5423_: But lee mee guesssss
+5/26/24, 4:01 AM - Whookid Africa: Still counting reasons to skip another days😂😂
+5/26/24, 4:02 AM - Adi5423_: Male right!!!😴
+5/26/24, 4:02 AM - Adi5423_: Usss😂
+5/26/24, 4:03 AM - Whookid Africa: Ofc it is 🤓duhh it's the thing of nowadays so Sapi5 is actually a great help in those kinda projects
+5/26/24, 4:03 AM - Adi5423_: Yea it is
+5/26/24, 4:03 AM - Whookid Africa: 🫱🏽‍🫲🏽Spot on
+5/26/24, 4:03 AM - Adi5423_: But I'll suggest to use pyttsx3 engine for voice in python to you that's more better there
+5/26/24, 4:03 AM - Adi5423_: Less complicated uk like
+5/26/24, 4:03 AM - Adi5423_: hehehehe
+5/26/24, 4:04 AM - Whookid Africa: Damn I have a lot on mynplate now a whole new bucket of bucket lists😂😂😂
+5/26/24, 4:04 AM - Adi5423_:    
+5/26/24, 4:04 AM - Whookid Africa: Okay
+5/26/24, 4:05 AM - Adi5423_: There's still a lot 😂
+5/26/24, 4:05 AM - Whookid Africa: I didn't get this is blackbox ai free
+5/26/24, 4:05 AM - Adi5423_: Yea it totally freee
+5/26/24, 4:05 AM - Whookid Africa: Okay broe
+5/26/24, 4:05 AM - Adi5423_: He is my partner 😂
+5/26/24, 4:06 AM - Adi5423_: Uk I made one thing like which can control the mouse with index finger
+5/26/24, 4:06 AM - Whookid Africa: 😂😂 partner in crime I was still using WhatsApp bots😂😂😂
+5/26/24, 4:06 AM - Adi5423_: Gesture Recognition SYstem for mouse control
+5/26/24, 4:06 AM - Adi5423_: Ughhh huhhh 😂😂
+5/26/24, 4:07 AM - Whookid Africa: Like using hand don't you need to know computer vision for that
+5/26/24, 4:07 AM - Adi5423_:    
+5/26/24, 4:07 AM - Whookid Africa: 😂😂🫱🏽‍🫲🏽yoir partner surely
+5/26/24, 4:08 AM - Adi5423_: Yeaaa the system camera.....
+You can say it's computer vision but not fully , like fully computer vision includes recognition of things in the video and all
+5/26/24, 4:08 AM - Whookid Africa:    
+5/26/24, 4:09 AM - Adi5423_: But that Simple Using hand gesture control system to control the mouse so yeah a bit in Computer Vision
+5/26/24, 4:09 AM - Adi5423_: Ughhh huhhhh 😂😂
+5/26/24, 4:09 AM - Whookid Africa: Err man soo it actually works🙆🏽‍♂️
+5/26/24, 4:10 AM - Whookid Africa: Man my battery is about to die am logging out 🙆🏽‍♂️
+5/26/24, 4:10 AM - Adi5423_: Fr.....and then as a upgrade I made another one to be controlled by the eye ball
+5/26/24, 4:11 AM - Whookid Africa: Okay so it seems you reached that level like computer vision
+5/26/24, 4:11 AM - Adi5423_: Where you move the eye it gonna capture it and move the cursor therefor.......
+5/26/24, 4:11 AM - Adi5423_: Ohkh see you soon
+5/26/24, 4:11 AM - Whookid Africa: 😂😂😂😂😂😂😂 no no no no
+5/26/24, 4:11 AM - Adi5423_: I can yea at the first step
+5/26/24, 4:12 AM - Adi5423_: Also a one to do drawing with the index finger 😋
+5/26/24, 4:12 AM - Adi5423_: That was one of my dream project
+5/26/24, 4:12 AM - Whookid Africa: You you😂😂😂 now that madness how can that be
+5/26/24, 4:12 AM - Adi5423_: Hehehehe
+5/26/24, 4:12 AM - Adi5423_: Heheheheheh😂😂😂
+5/26/24, 4:12 AM - Whookid Africa: Okay man I'll be in touch ✌🏽
+5/26/24, 4:13 AM - Adi5423_: 😂😂😂😂😂😂😂😂
+5/26/24, 4:13 AM - Adi5423_: Ohkh
+5/26/24, 4:13 AM - Adi5423_: 🫱🏼‍🫲🏽
+5/26/24, 4:13 AM - Whookid Africa: Haaa it'll be a dream come true that's like vision pro😎
+5/26/24, 4:13 AM - Adi5423_: Hahahaah sure............
+5/26/24, 4:14 AM - Whookid Africa: Umm tht will be a movie for another timeline
+5/26/24, 4:14 AM - Adi5423_: For real it'll be😂
+5/26/24, 4:14 AM - Adi5423_: Ohkh then
+5/26/24, 4:14 AM - Adi5423_: Byee
+5/26/24, 4:14 AM - Adi5423_: GN
+5/26/24, 4:14 AM - Whookid Africa: By
